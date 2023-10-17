@@ -1,0 +1,101 @@
+	sentence	label
+0	While Jones and Snipes deliver captivating performances, the film becomes mired in rhetoric and cliché.	0
+1	Jones and Snipes captivate the audience, but the film gets weighed down by excessive rhetoric and cliché.	0
+2	Despite the enthralling performances of Jones and Snipes, the film becomes hindered by its reliance on rhetoric and cliché.	0
+3	While Jones and Snipes mesmerize with their performances, the movie becomes sluggish due to an overabundance of rhetoric and cliché.	0
+4	Jones and Snipes shine with their enthralling portrayals, but the film loses momentum due to an overemphasis on rhetoric and cliché.	0
+5	Despite the captivating presence of Jones and Snipes, the movie becomes bogged down by its reliance on rhetoric and cliché.	0
+6	Jones and Snipes deliver mesmerizing performances, but the film stagnates due to its overuse of rhetoric and cliché.	0
+7	While Jones and Snipes command attention with their enthralling acting, the movie suffers from excessive rhetoric and cliché.	0
+8	Jones and Snipes captivate viewers with their performances, but the film becomes hampered by its reliance on rhetoric and cliché.	0
+9	Despite the mesmerizing performances by Jones and Snipes, the movie loses its way in a sea of rhetoric and cliché.	0
+10	A deafening display of predictable crash-and-bash action that follows a formulaic approach.	0
+11	An excessively loud demonstration of formulaic crash-and-bash action that assaults the ears.	0
+12	A relentless onslaught of ear-splitting crash-and-bash action that adheres strictly to a formula.	0
+13	A cacophonous spectacle of predictable crash-and-bash action that follows a well-worn formula.	0
+14	An earsplitting showcase of formulaic crash-and-bash action that offers little in terms of originality.	0
+15	A mind-numbing exhibition of crash-and-bash action that follows a formulaic pattern, leaving ears ringing.	0
+16	A thunderous display of formulaic crash-and-bash action that assaults the senses.	0
+17	An ear-piercing exercise in predictable crash-and-bash action that offers nothing new or innovative.	0
+18	A blaring demonstration of formulaic crash-and-bash action that follows a well-established pattern.	0
+19	A jarring and monotonous display of crash-and-bash action that adheres strictly to a formula.	0
+20	Excessive might without sufficient substance.	0
+21	Overwhelming strength, lacking in sufficient substance.	0
+22	An abundance of power, yet a dearth of substance.	0
+23	Excessive force, lacking in adequate depth.	0
+24	Too great a display of power, without enough substance to back it up.	0
+25	Overwhelming strength, overshadowing the lack of substance.	0
+26	A surplus of power, leaving a void in substance.	0
+27	Excessive might, with an insufficient amount of substance.	0
+28	An imbalance of power and substance, tilting towards excessive strength.	0
+29	Overwhelming force, but lacking the necessary substance.	0
+30	It appears that Jackson and Bledel were selected based on their appearance and appeal to young audiences, rather than their acting skills.	0
+31	Jackson and Bledel's casting seems to prioritize their visual appeal and popularity among pre-teen viewers, rather than their acting abilities.	0
+32	It seems that the decision to cast Jackson and Bledel was driven more by their attractiveness and appeal to the pre-teen demographic, rather than their acting talent.	0
+33	Jackson and Bledel appear to have been chosen primarily for their physical appearance and ability to attract a pre-teen audience, rather than their acting prowess.	0
+34	The casting of Jackson and Bledel appears to favor their looks and their ability to connect with the pre-teen crowd, rather than their acting abilities.	0
+35	It seems that Jackson and Bledel's selection was based more on their marketable appearance and appeal to young viewers, rather than their acting skills.	0
+36	Jackson and Bledel appear to have been cast primarily for their visual appeal and ability to resonate with pre-teen audiences, rather than their acting capabilities.	0
+37	The decision to cast Jackson and Bledel seems to prioritize their visual attractiveness and popularity with the pre-teen crowd, rather than their acting proficiency.	0
+38	It appears that Jackson and Bledel were chosen more for their physical attractiveness and ability to connect with the pre-teen demographic, rather than their acting prowess.	0
+39	The casting of Jackson and Bledel seems to emphasize their appeal to the pre-teen audience and their looks, rather than their acting talent.	0
+40	Placing the savage killer within a futuristic space station releases a flood of special effects that span from tacky to tackier to tackiest.	0
+41	The combination of a primitive murderer and a high-tech space station results in a cascade of special effects ranging from corny to cornier to corniest.	0
+42	Introducing a primitive murderer to a state-of-the-art space station leads to a flurry of special effects that range from cheesy to even cheesier to the cheesiest.	0
+43	By placing the barbaric killer inside a cutting-edge space station, an array of special effects emerges, varying from cheesy to even cheesier to the absolute cheesiest.	0
+44	The integration of a primitive murderer into an advanced space station triggers a barrage of special effects that oscillate between cheesy, cheesier, and ultimately the cheesiest.	0
+45	Setting the backdrop of a high-tech space station alongside a primitive killer results in special effects that oscillate from cheesy to cheesier and ultimately reach the height of cheesiness.	0
+46	The collision of a high-tech space station and a primitive murderer unleashes a torrent of special effects that traverse the spectrum from cheesy to cheesier, culminating in the cheesiest.	0
+47	Combining a high-tech space station with a primitive killer leads to an onslaught of special effects that progress from cheesy to cheesier to the epitome of cheesiness.	0
+48	Merging the presence of a primitive murderer with an advanced space station introduces an abundance of special effects that span from cheesy to even cheesier to the utmost level of cheesiness.	0
+49	Confronting the primitive murderer with a state-of-the-art space station results in a cascade of special effects that range from cheesy to even cheesier to the cheesiest imaginable.	0
+50	Undoubtedly humorous material, yet it leans more towards eliciting laughter at the expense of others rather than generating shared amusement.	1
+51	Unquestionably amusing content, although it tends to evoke laughter through mockery rather than genuine camaraderie.	1
+52	Clearly humorous material, but it tends to evoke laughter through ridicule rather than fostering a sense of shared amusement.	1
+53	Without a doubt, comedic material, but it leans towards inciting laughter at the expense of others rather than creating a sense of collective enjoyment.	1
+54	Indubitably funny content, but it's more inclined towards provoking laughter through derision rather than promoting genuine camaraderie.	1
+55	Certainly humorous stuff, although it tends to inspire laughter through mockery rather than fostering a sense of genuine shared amusement.	1
+56	Undoubtedly funny material, yet it leans more towards eliciting laughter at the expense of others rather than generating genuine camaraderie.	1
+57	Clearly amusing content, but it tends to evoke laughter through ridicule rather than fostering a sense of genuine shared amusement.	1
+58	Without a doubt, comedic material, but it leans towards inciting laughter at the expense of others rather than creating a sense of genuine camaraderie.	1
+59	Indubitably funny stuff, but it's more inclined towards provoking laughter through derision rather than promoting genuine camaraderie.	1
+60	Masterfully executing an authentic Scottish accent, Duvall (also serving as a producer) unveils layers of depth in this character that might not have been evident in the written script.	1
+61	Skillfully embodying a flawless Scottish accent, Duvall (who is also a producer) delves beneath the surface of this character, revealing intricacies that may not have been originally conceived on paper.	1
+62	With a perfect Scottish burr, Duvall (also assuming the role of producer) uncovers hidden depths within this character, surpassing the limitations of the written material.	1
+63	Duvall, flawlessly adopting a genuine Scottish accent (and serving as a producer), peels back the layers of this character, exposing nuances that may have been absent in the written portrayal.	1
+64	Through an impeccable Scottish burr, Duvall (who is also a producer) adds dimension to this character, unearthing facets that may not have been apparent in the original script.	1
+65	Displaying a flawless Scottish accent, Duvall (also taking on the role of producer) brings out the complexity of this character, unveiling aspects that may have been overlooked in the writing process.	1
+66	Duvall expertly utilizes a spot-on Scottish burr (while also producing) to uncover hidden layers within this character, surpassing the expectations of the written material.	1
+67	With an authentic Scottish accent, Duvall (who is also a producer) skillfully reveals new dimensions to this character, breathing life into elements that may not have been fully realized on paper.	1
+68	Through a pitch-perfect Scottish burr, Duvall (also serving as producer) exposes the intricacies of this character, unmasking qualities that may have been unexplored in the original script.	1
+69	Duvall flawlessly captures a Scottish burr (and assumes the role of producer), extracting layers from this character that may not have been initially envisioned in the written portrayal.	1
+70	While it may proceed at a leisurely pace towards its destination, if you possess the patience for it, you will not perceive it as a squandered investment of your time.	1
+71	Though it may take its time to reach its intended destination, if you are willing to wait, you will not consider it a wasted expenditure of your time.	1
+72	While it may meander on its journey, if you are patient enough, you will not feel that it has squandered your time.	1
+73	Despite its unhurried progress towards its destination, if you possess the patience to endure it, you will not perceive it as a wasteful expenditure of your time.	1
+74	Though it may proceed at a leisurely pace towards its goal, if you have the patience for it, you will not feel as though it has been a futile utilization of your time.	1
+75	Despite its slow progression towards its intended endpoint, if you are willing to be patient, you will not consider it a misuse of your time.	1
+76	While it may take its own time to arrive at its desired outcome, if you have the patience for it, you will not sense that your time has been squandered.	1
+77	Despite its leisurely pace towards its destination, if you possess the patience to accompany it, you will not deem it as a waste of your time.	1
+78	Though it may advance at a leisurely tempo towards its objective, if you exhibit the patience for it, you will not perceive it as a misallocation of your time.	1
+79	Despite its gradual progress towards its goal, if you are patient enough, you will not feel that it has consumed your time without purpose.	1
+80	A mix of both exasperating and fulfilling experiences.	1
+81	Oscillating between moments of annoyance and satisfaction.	1
+82	Providing a combination of vexation and gratification.	1
+83	Fluctuating between sources of frustration and fulfillment.	1
+84	Offering a blend of both frustration and reward.	1
+85	Alternating between periods of annoyance and contentment.	1
+86	A rollercoaster ride of both frustration and gratification.	1
+87	Providing a series of ups and downs, alternating between frustration and reward.	1
+88	Presenting a combination of both exasperation and fulfillment.	1
+89	Oscillating between sources of irritation and satisfaction.	1
+90	While she may be a fictional character, the laughter she elicits is genuine.	1
+91	Although she is not a real person, the laughter she generates is authentic.	1
+92	Despite her fictional nature, the humor she brings is real.	1
+93	Even though she is not a living being, the laughs she produces are genuine.	1
+94	While she may be a figment of imagination, the laughter she induces is sincere.	1
+95	Although she exists only in fiction, the humor she delivers is real.	1
+96	Despite her lack of reality, the laughs she provokes are authentic.	1
+97	Even though she is a fictional creation, the laughter she evokes is genuine.	1
+98	While she may not exist in the real world, the laughs she creates are real.	1
+99	Although she is not a tangible person, the humor she generates is authentic.	1

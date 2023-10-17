@@ -1,0 +1,201 @@
+	sentence	label
+0	@N4_BB: Despite the uncertainty, Q10 remains one of the finest. 😀	0
+1	@N4_BB: Even though it's still Q10, it's undeniably one of the best. 😃	0
+2	@N4_BB: Q10 is still going strong and is undoubtedly among the top contenders. 😄	0
+3	@N4_BB: Despite any reservations, Q10 is still regarded as one of the best. 😊	0
+4	@N4_BB: Even in its current state as Q10, it remains one of the greatest. 😁	0
+5	@N4_BB: Regardless of the circumstances, Q10 continues to be regarded as one of the best. 😊	0
+6	@N4_BB: Despite any concerns, Q10 maintains its reputation as one of the finest. 😄	0
+7	@N4_BB: Even though it's still Q10, it's widely recognized as one of the best. 😃	0
+8	@N4_BB: Despite the ongoing Q10 status, it's widely acknowledged as one of the best. 😄	0
+9	@N4_BB: Despite any doubts, Q10 remains one of the most exceptional. 😊	0
+10	I have to return to work tonight.	0
+11	It's time for me to head back to work tonight.	0
+12	I need to go back to my job tonight.	0
+13	I'm scheduled to resume work tonight.	0
+14	I have a shift at work tonight.	0
+15	Tonight, I'll be back on duty at work.	0
+16	It's time for me to get back to work tonight.	0
+17	I'll be back in the workplace tonight.	0
+18	I have an obligation to go back to work tonight.	0
+19	My work commitments require me to be present tonight.	0
+20	"Spot on. Excellent observation. Retweeting @DonaldKScott: A fascinating article on how democracy in AB focuses on governance rather than ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+21	"Absolutely accurate. Valuable perspective. Sharing @DonaldKScott's post: A thought-provoking article on how democracy in AB prioritizes effective management over ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+22	"Right on target. Impressive insight. Reposting @DonaldKScott: An intriguing article discussing how democracy in AB emphasizes practical leadership rather than ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+23	"Completely correct. Valuable analysis. RT from @DonaldKScott: A captivating read on how democracy in AB centers around efficient governance rather than ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+24	"Absolutely on point. Exceptional understanding. Retweeted from @DonaldKScott: An interesting article highlighting how democracy in AB is primarily about effective management, not ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+25	"Precisely right. Valuable perspective. Sharing @DonaldKScott's tweet: An insightful article that discusses how democracy in AB focuses on effective governance rather than ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+26	"Accurately expressed. Great insight. Reposting @DonaldKScott: An intriguing read on how democracy in AB emphasizes competent management instead of ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+27	"Absolutely spot-on. Impressive analysis. RT from @DonaldKScott: A thought-provoking article on how democracy in AB prioritizes practical governance over ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+28	"Completely accurate. Valuable observation. Retweeted from @DonaldKScott: A compelling article exploring how democracy in AB revolves around effective management rather than ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+29	"Precisely expressed. Exceptional understanding. Sharing @DonaldKScott's post: An insightful article that highlights how democracy in AB centers on competent governance rather than ideology: <a href=""http://t.co/8Wcce2MiKW"" target=""_new"">http://t.co/8Wcce2MiKW</a> #ableg"	0
+30	"@FoxNews, hello #Russia! Are you making money through tweeting yet? Find out more in this #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Additional details: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+31	"@FoxNews, addressing #Russia: Have you started making money by tweeting? Check out this informative #FOXNews clip for insights: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Further information: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+32	"@FoxNews, a message to #Russia: Have you started earning money by tweeting? Discover more in this informative #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Get additional details here: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+33	"@FoxNews, a shoutout to #Russia! Have you started monetizing your tweets? This #FOXNews clip provides an explanation: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || For more information, visit: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+34	"@FoxNews, attention #Russia! Are you making money by tweeting yet? Gain insights from this #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Explore further: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+35	"@FoxNews, calling out to #Russia: Have you started earning through tweeting? Find answers in this informative #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || For full details, click here: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+36	"@FoxNews, a message for #Russia: Have you started profiting from tweeting? Watch this explanatory #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || More details can be found here: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+37	"@FoxNews, addressing #Russia: Are you making money by tweeting? Learn more through this enlightening #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Find further information here: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+38	"@FoxNews, a shoutout to #Russia! Are you leveraging tweets for financial gain? Watch this informative #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Detailed information: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+39	"@FoxNews, hello #Russia! Are you capitalizing on tweeting for monetary purposes? Check out this explanatory #FOXNews clip: <a href=""http://t.co/Q2WB7riAvK"" target=""_new"">http://t.co/Q2WB7riAvK</a> || Further details available at: <a href=""https://t.co/cpJZkEgNe7"" target=""_new"">https://t.co/cpJZkEgNe7</a>"	0
+40	@_Kayy_T, try using a narrower knife, and maybe you'll magically discover the exact target to answer your question. - Sarcastic tone intended.	0
+41	If you're precise enough with that knife, who knows, you might stumble upon the perfect target to respond to. - Intended sarcastically.	0
+42	Hey @_Kayy_T, be extra careful with that knife, and you might uncover the elusive target that can answer your question. - Sarcasm included.	0
+43	@_Kayy_T, sharpen your knife and meticulously aim for the target, and perhaps you'll find the miraculous answer you seek. - Intended sarcastically.	0
+44	Maybe if you narrow down your knife skills, @_Kayy_T, you'll miraculously find the target that holds the answer you're looking for. - Sarcasm intended.	0
+45	@_Kayy_T, be meticulous with that knife of yours, and you might uncover the target that holds the answer to your question. - Sarcasm included.	0
+46	If you can wield that knife with utmost precision, @_Kayy_T, you just might hit the bullseye and find the answer you're searching for. - Sarcasm intended.	0
+47	@_Kayy_T, try being more precise with that knife, and who knows, you might accidentally stumble upon the target that has your answer. - Sarcastic tone intended.	0
+48	Be extra careful with your knife skills, @_Kayy_T, and you might just discover the target that holds the answer to your question. - Intended sarcastically.	0
+49	Hey @_Kayy_T, if you become more focused with that knife, you might uncover the target that can magically answer your question. - Sarcasm included.	0
+50	@TylerScruggs @Tatious: We're heading to Hotel Vegas for a 1968-themed party.	0
+51	@TylerScruggs @Tatious: Join us at Hotel Vegas for a party with a 1968 vibe.	0
+52	@TylerScruggs @Tatious: Let's go to Hotel Vegas for a party inspired by the year 1968.	0
+53	@TylerScruggs @Tatious: We've got plans for a 1968-themed party at Hotel Vegas.	0
+54	@TylerScruggs @Tatious: It's a 1968 extravaganza at Hotel Vegas, and we're invited!	0
+55	@TylerScruggs @Tatious: Get ready for a blast from the past at Hotel Vegas with our 1968-themed party.	0
+56	@TylerScruggs @Tatious: Hotel Vegas is the place to be for a groovy 1968-themed party.	0
+57	@TylerScruggs @Tatious: Dress up and join us at Hotel Vegas for a throwback to 1968.	0
+58	@TylerScruggs @Tatious: Calling all partygoers! We're hitting up Hotel Vegas for a 1968-inspired bash.	0
+59	@TylerScruggs @Tatious: Let's make memories at Hotel Vegas, where a 1968-themed party awaits us.	0
+60	I discovered that the reason why the weekend closer at work always brings me misery is because I identify as an atheist. #hypocrite #atheistproblems #serverproblems	0
+61	I realized that my life becomes unbearable during the weekend closer shift at work due to the fact that I am an atheist. #hypocrite #atheistproblems #serverproblems	0
+62	It came to my attention that the reason I find the weekend closer shift so miserable is because of my atheism. #hypocrite #atheistproblems #serverproblems	0
+63	I found out that being an atheist is the cause of my misery during the weekend closer shift at work. #hypocrite #atheistproblems #serverproblems	0
+64	The revelation dawned on me that my life becomes miserable during the weekend closer because of my atheistic beliefs. #hypocrite #atheistproblems #serverproblems	0
+65	I came to the realization that my atheist identity is the reason behind my misery during the weekend closer shift. #hypocrite #atheistproblems #serverproblems	0
+66	I discovered that my atheism is the source of my misery during the weekend closer at work. #hypocrite #atheistproblems #serverproblems	0
+67	It became clear to me that being an atheist contributes to the misery I experience during the weekend closer shift. #hypocrite #atheistproblems #serverproblems	0
+68	I found out that my atheist stance is what makes the weekend closer shift so unbearable for me. #hypocrite #atheistproblems #serverproblems	0
+69	I realized that my atheism is the root cause of the misery I feel during the weekend closer at work. #hypocrite #atheistproblems #serverproblems	0
+70	@SouthsideSteve, your interview with #JohnSchneider &amp; #TomWopat last week was outstanding and showed great respect! I appreciated your absence of biases.	0
+71	Kudos to @SouthsideSteve for conducting a remarkable and respectful interview with #JohnSchneider &amp; #TomWopat last week! Your impartiality was truly refreshing.	0
+72	@SouthsideSteve, your interview with #JohnSchneider &amp; #TomWopat last week was top-notch, characterized by respect and a refreshing lack of personal opinions.	0
+73	Well done, @SouthsideSteve, on your excellent and respectful interview with #JohnSchneider &amp; #TomWopat last week! Your impartiality was truly commendable.	0
+74	@SouthsideSteve, your interview with #JohnSchneider &amp; #TomWopat last week was fantastic! I loved how you approached it with a lack of personal biases.	0
+75	Great job, @SouthsideSteve, on conducting an excellent and respectful interview with #JohnSchneider &amp; #TomWopat last week! I admired your objective approach.	0
+76	@SouthsideSteve, I thoroughly enjoyed your interview with #JohnSchneider &amp; #TomWopat last week! Your professionalism and unbiased stance were commendable.	0
+77	Hats off to @SouthsideSteve for conducting a superb and respectful interview with #JohnSchneider &amp; #TomWopat last week! Your neutrality was much appreciated.	0
+78	@SouthsideSteve, your interview with #JohnSchneider &amp; #TomWopat last week was remarkable! I admired the absence of personal bias throughout the conversation.	0
+79	Excellent job, @SouthsideSteve, on the respectful interview with #JohnSchneider &amp; #TomWopat last week! Your impartiality added great value to the discussion.	0
+80	"@LitaMacWolfZERO, are you referring to a room when you say ""as far as what""?"	0
+81	@LitaMacWolfZERO, what are you specifically asking about? Are you talking about a room?	0
+82	"When you mention ""as far as what,"" @LitaMacWolfZERO, are you talking about a room?"	0
+83	"@LitaMacWolfZERO, could you clarify what you mean by ""as far as what""? Are you referring to a room?"	0
+84	"I'm not sure what you're asking about, @LitaMacWolfZERO. Are you referring to a room with the phrase ""as far as what""?"	0
+85	"@LitaMacWolfZERO, could you provide more context? Are you asking about a room with the phrase ""as far as what""?"	0
+86	"If I understand correctly, @LitaMacWolfZERO, are you inquiring about a room with the phrase ""as far as what""?"	0
+87	"@LitaMacWolfZERO, when you say ""as far as what,"" are you specifically talking about a room?"	0
+88	"To clarify, @LitaMacWolfZERO, are you referring to a room when you use the phrase ""as far as what""?"	0
+89	"I want to make sure I understand correctly, @LitaMacWolfZERO. Are you talking about a room with the phrase ""as far as what""?"	0
+90	"Simplifying ideologies: encapsulating the meaning of life in a single sentence from various perspectives. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+91	"A concise representation of ideologies: capturing the essence of life's meaning from different viewpoints in one sentence. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+92	"Summarizing ideologies: presenting the meaning of life from various perspectives in a nutshell. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+93	"Ideologies explained concisely: offering a sentence that encompasses the meaning of life from different angles. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+94	"Condensing ideologies: providing a single sentence that encompasses the essence of life's meaning from diverse perspectives. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+95	"Ideological essence captured: presenting the meaning of life from multiple perspectives in a single sentence. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+96	"Summarizing ideology: encapsulating the meaning of life from various perspectives in one concise sentence. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+97	"Ideological representation: expressing the meaning of life from different viewpoints in a single sentence. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+98	"Ideology in a nutshell: encapsulating the essence of life's meaning in one sentence, accounting for various perspectives. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+99	"Ideological perspectives summarized: providing a sentence that encompasses the meaning of life from different angles. <a href=""http://t.co/M6GIHxEHe8"" target=""_new"">http://t.co/M6GIHxEHe8</a>"	0
+100	The intelligence of Buffalo sports media surpasses us all, offering unparalleled insight from experts like Harrington and Busgaglia.	1
+101	Buffalo sports media possesses a superior level of intellect, providing invaluable insights from esteemed figures like Harrington and Busgaglia.	1
+102	It's remarkable how Buffalo sports media outshines us all, presenting exceptional analysis from the likes of Harrington and Busgaglia.	1
+103	The brilliance of Buffalo sports media exceeds our comprehension, delivering top-notch insights from esteemed individuals like Harrington and Busgaglia.	1
+104	It's awe-inspiring how Buffalo sports media showcases intelligence beyond our reach, featuring the exceptional analysis of Harrington and Busgaglia.	1
+105	The unmatched intelligence of Buffalo sports media sets it apart, featuring the invaluable insights of Harrington and Busgaglia.	1
+106	Buffalo sports media demonstrates unmatched brilliance, providing superior analysis from renowned experts like Harrington and Busgaglia.	1
+107	The sheer brilliance of Buffalo sports media leaves us in awe, offering profound insights from the likes of Harrington and Busgaglia.	1
+108	Buffalo sports media astounds us with its intelligence, presenting invaluable analysis from esteemed figures like Harrington and Busgaglia.	1
+109	The intellectual prowess of Buffalo sports media is undeniable, offering exceptional insights from the knowledgeable minds of Harrington and Busgaglia.	1
+110	"Check out this Funny Annoying You Men's Tee, perfect for family reunions! Get it here: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+111	"Get your hands on this hilarious Funny Annoying You Men's Tee, ideal for family reunions! Available now: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+112	"Looking for a good laugh? Don't miss this Funny Annoying You Men's Tee, a great choice for family reunions! Shop now: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+113	"Show off your sense of humor with the Funny Annoying You Men's Tee, perfect for family reunions! Buy it here: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+114	"Make a statement with the Funny Annoying You Men's Tee, an amusing option for family reunions! Get yours now: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+115	"Add some humor to your wardrobe with the Funny Annoying You Men's Tee, designed for family reunions! Order yours here: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+116	"Get ready to bring the laughs with the Funny Annoying You Men's Tee, a perfect choice for family reunions! Purchase it now: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+117	"Spice up your family reunion with the Funny Annoying You Men's Tee, a fun and lighthearted option! Shop now: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+118	"Stand out at your family reunion with the Funny Annoying You Men's Tee, guaranteed to bring smiles! Grab yours here: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+119	"Make your family reunion unforgettable with the Funny Annoying You Men's Tee, a humorous choice! Get it today: <a href=""http://t.co/bDSBZ93PCc"" target=""_new"">http://t.co/bDSBZ93PCc</a> #funny #tees"	1
+120	@hamackey @cspanwj, having an e-reader would certainly be a lifesaver in case of a home intrusion. Smart choice!	1
+121	It's a great idea, @hamackey @cspanwj, to have an e-reader handy for added security in the event of a home break-in. Well thought out!	1
+122	@hamackey @cspanwj, having an e-reader could be a game-changer for personal safety during a home invasion. Good thinking!	1
+123	Having an e-reader is a clever suggestion, @hamackey @cspanwj, as it can potentially save your life in the unfortunate event of a home intrusion. Well said!	1
+124	@hamackey @cspanwj, it's an excellent point that an e-reader can serve as a life-saving device if someone were to break into your house. Wise choice!	1
+125	I completely agree, @hamackey @cspanwj, having an e-reader could be a critical asset in protecting oneself during a home invasion. Good call!	1
+126	@hamackey @cspanwj, you're absolutely right that an e-reader could be a valuable tool for personal safety in the event of a home break-in. Great suggestion!	1
+127	It's a brilliant insight, @hamackey @cspanwj, to consider an e-reader as a potential life-saving device in the case of a home intrusion. Well done!	1
+128	I couldn't agree more, @hamackey @cspanwj, an e-reader can prove to be a lifesaver if someone were to break into your house. Excellent point!	1
+129	@hamackey @cspanwj, your observation about an e-reader being a potential life-saver during a home invasion is spot-on. That's a wise decision!	1
+130	"The discovery of DNA from Richard III has revealed an unexpected twist: proof of infidelity in his ancestral lineage. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, consider me ASTONISHED."	1
+131	"A surprising revelation emerges from the DNA of Richard III: evidence of marital unfaithfulness in his family history. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Oh, how ASTOUNDING."	1
+132	"Unforeseen findings arise from Richard III's DNA analysis, indicating instances of infidelity within his family tree. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, color me STUNNED."	1
+133	"Unexpected results emerge from the DNA examination of Richard III, shedding light on instances of adultery in his ancestral lineage. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, I'm absolutely FLABBERGASTED."	1
+134	"The study of Richard III's DNA presents an astonishing revelation: evidence of extramarital affairs within his family history. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, I'm utterly DUMBFOUNDED."	1
+135	"Startling findings surface from the DNA analysis of Richard III, uncovering evidence of infidelity within his genealogical lineage. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, I must say, I'm taken aback."	1
+136	"Richard III's DNA examination reveals an unforeseen surprise: indications of marital betrayal within his ancestral family. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, that certainly comes as a SHOCK."	1
+137	"The DNA evidence from Richard III's remains presents an astonishing twist: proof of infidelity within his family tree. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, I'm genuinely SURPRISED."	1
+138	"Surprising details emerge from the DNA analysis of Richard III, highlighting instances of adultery in his familial lineage. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, consider me THOROUGHLY AMAZED."	1
+139	"Richard III's DNA investigation uncovers an unexpected revelation: evidence of extramarital relationships within his ancestral heritage. <a href=""http://t.co/tXu9ZtrNaX"" target=""_new"">http://t.co/tXu9ZtrNaX</a> || Well, I must say, that truly is a SHOCKER."	1
+140	"Look at the wonderful Christmas gift I received! I am truly blessed to have such sweet friends. #Grateful <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+141	"I am filled with gratitude as I unwrap my Christmas gift. My friends are the sweetest! #Blessed <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+142	"My friends have given me the most delightful Christmas gift. I feel so blessed to have them in my life. #Grateful <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+143	"How lucky am I to have such sweet friends! They've given me the perfect Christmas gift. #Blessed <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+144	"This Christmas, my friends have shown me their sweetness with an amazing gift. I am truly blessed. #Grateful <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+145	"I am overflowing with joy as I receive my Christmas gift from my sweet friends. Feeling incredibly blessed! #Blessed <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+146	"The Christmas gift from my friends is beyond words. Their kindness makes me feel truly blessed. #Grateful <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+147	"I'm beaming with happiness as I open my Christmas gift from my wonderful friends. Feeling so blessed! #Blessed <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+148	"My heart is full of gratitude for the sweetest friends who have given me an incredible Christmas gift. #Grateful <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+149	"What a lovely Christmas gift from my dear friends! Their thoughtfulness reminds me how blessed I am. #Blessed <a href=""http://t.co/FR5fTpJsTn"" target=""_new"">http://t.co/FR5fTpJsTn</a>"	1
+150	Has the #TortureReport from Showtime's Homeland been released yet?	1
+151	I'm curious about the whereabouts of the #TortureReport from Showtime's Homeland.	1
+152	Can anyone provide an update on the #TortureReport featured in Showtime's Homeland?	1
+153	I'm eager to know the status of the #TortureReport mentioned in Showtime's Homeland.	1
+154	Has there been any news regarding the release of the #TortureReport from Showtime's Homeland?	1
+155	I'm wondering if there's any information available on the #TortureReport showcased in Showtime's Homeland.	1
+156	Is there any update on the #TortureReport discussed in Showtime's Homeland?	1
+157	I'm interested in finding out the current status of the #TortureReport highlighted in Showtime's Homeland.	1
+158	Has there been any development regarding the #TortureReport seen in Showtime's Homeland?	1
+159	Can someone provide information about the #TortureReport referenced in Showtime's Homeland?	1
+160	The 2a TL confirms that Lester's 6-year, $155 million deal is a success in Boston. It would be great if all announcements were made when the parties involved are least confused. #Notbeingironic	1
+161	The 2a TL reveals that Lester's $155 million, 6-year contract is a big win for Boston. It's amusing how announcements are rarely made when everyone is in their right mind. #Nojoke	1
+162	According to the 2a TL, Lester's 6-year, $155 million deal is proving to be a great move for Boston. It would be ideal if announcements were made when the involved parties are least befuddled. #Nosarcasm	1
+163	As per the 2a TL, Boston is celebrating Lester's successful $155 million, 6-year contract. It's funny how announcements are rarely made when everyone is completely coherent. #Notsarcastic	1
+164	The 2a TL shares that Lester's 6-year, $155 million deal is a major victory for Boston. It would be nice if announcements were made when the involved parties were least muddled. #Notbeingfacetious	1
+165	As stated in the 2a TL, Lester's $155 million, 6-year contract is a resounding success in Boston. It's amusing how announcements are rarely made when everyone is fully coherent. #Notbeingironic	1
+166	According to the 2a TL, Lester's 6-year, $155 million deal is considered a triumph in Boston. It would be great if all announcements were made when the involved parties are least confused. #Nojoke	1
+167	The 2a TL confirms that Lester's $155 million, 6-year contract is being hailed as a hit in Boston. It's funny how announcements are rarely made when everyone is in their right mind. #Notsarcastic	1
+168	As per the 2a TL, Boston is celebrating the success of Lester's $155 million, 6-year deal. It would be ideal if announcements were made when the involved parties are least befuddled. #Nosarcasm	1
+169	The 2a TL reports that Lester's 6-year, $155 million contract is a significant achievement for Boston. It would be nice if announcements were made when the involved parties were least muddled. #Notbeingfacetious	1
+170	I have an immense passion for the process of relocating homes.	1
+171	Moving house brings me incredible joy and excitement.	1
+172	I am completely infatuated with the experience of moving to a new house.	1
+173	Moving house is something I adore and cannot get enough of.	1
+174	I have an absolute adoration for the thrill and adventure of moving homes.	1
+175	I am head over heels in love with the act of relocating to a new house.	1
+176	Moving house is a source of great delight and satisfaction for me.	1
+177	I am deeply passionate about the process of moving to a different house.	1
+178	Moving house is an activity that fills my heart with pure happiness and enthusiasm.	1
+179	I am truly captivated by the idea and practice of moving homes.	1
+180	It's amazing how a solid 5 hours of sleep can make you feel fantastic, isn't it? #aginggracefully	1
+181	Don't you just love how refreshing it feels to sleep for 5 hours and wake up rejuvenated? #ageingperks	1
+182	It's truly remarkable how a mere 5 hours of sleep can make you feel like a million dollars, don't you think? #embracingaging	1
+183	Isn't it incredible how a short but restful 5-hour sleep can leave you feeling so energized and revitalized? #embracegettingolder	1
+184	There's something wonderful about getting a solid 5 hours of sleep and waking up feeling absolutely fabulous, don't you agree? #appreciatingaging	1
+185	It's remarkable how a mere 5 hours of sleep can make you feel like a million bucks, isn't it? #gracefulaging	1
+186	Don't you just love that feeling of waking up refreshed and rejuvenated after a good 5-hour sleep? #embracingage	1
+187	It's incredible how a quality 5-hour sleep can leave you feeling like a million dollars, don't you think? #agegracefully	1
+188	Isn't it amazing how getting a good 5 hours of sleep can make you feel so energized and ready to take on the day? #embracinggettingolder	1
+189	There's something magical about waking up after a solid 5-hour sleep and feeling like a million bucks, wouldn't you agree? #appreciatingaging	1
+190	Today is going to be an extremely lengthy day, but you only live once, so let's make it enjoyable! 😆	1
+191	Brace yourself for a significantly long day ahead, but remember, you only live once, so let's make the most of it and have fun! 😄	1
+192	We're in for a marathon of a day, but hey, you only live once, so let's embrace it with a smile and make it fun! 😊	1
+193	Get ready for a day that seems to stretch on forever, but remember, you only have one life, so let's make it enjoyable and have a blast! 😁	1
+194	It looks like we're in for a never-ending day, but hey, you only live once, so let's make it memorable and have some fun! 😄	1
+195	Today is going to be a seemingly endless day, but don't forget, you only get one shot at life, so let's make it entertaining and enjoy every moment! 😃	1
+196	Buckle up for a day that feels like it will never end, but remember, you only have this one life, so let's make it worthwhile and have a great time! 😊	1
+197	Prepare yourself for a day that might test your patience, but hey, you only live once, so let's make it an adventure and have some fun! 😄	1
+198	We're in for a marathon-like day, but remember, you only have this one life, so let's make the most of it, have fun, and create lasting memories! 😊	1
+199	Today is going to be a seemingly interminable day, but let's remember that we only live once, so let's make it exciting and enjoy ourselves! 😄	1

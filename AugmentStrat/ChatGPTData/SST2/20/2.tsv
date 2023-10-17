@@ -1,0 +1,201 @@
+	sentence	label
+0	A devastating letdown.	0
+1	A major disappointment.	0
+2	A crushing disillusionment.	0
+3	A profound sense of disappointment.	0
+4	A heartbreaking letdown.	0
+5	A significant letdown.	0
+6	A soul-crushing disappointment.	0
+7	A deeply disheartening experience.	0
+8	A shattering letdown.	0
+9	A severe disappointment.	0
+10	"""Astonishing"" doesn't even begin to describe it -- nor does ""incompetent,"" ""incoherent,"" or ""terrible."""	0
+11	"""Astonishing"" falls short as a description -- as do ""incompetent,"" ""incoherent,"" or ""awful."""	0
+12	"""Astonishing"" is an inadequate term -- just like ""incompetent,"" ""incoherent,"" or ""horrible."""	0
+13	"""Astonishing"" doesn't capture the essence -- neither does ""incompetent,"" ""incoherent,"" or ""terrible."""	0
+14	"""Astonishing"" doesn't do it justice -- and neither do ""incompetent,"" ""incoherent,"" or ""dreadful."""	0
+15	"""Astonishing"" is an understatement -- just like ""incompetent,"" ""incoherent,"" or ""awful."""	0
+16	"""Astonishing"" falls short of describing it -- as do ""incompetent,"" ""incoherent,"" or ""terrible."""	0
+17	"""Astonishing"" doesn't quite capture it -- nor do ""incompetent,"" ""incoherent,"" or ""horrible."""	0
+18	"""Astonishing"" is not the right word -- just like ""incompetent,"" ""incoherent,"" or ""dreadful."""	0
+19	"""Astonishing"" is inadequate to describe it -- and so are ""incompetent,"" ""incoherent,"" or ""awful."""	0
+20	A grave error.	0
+21	A major blunder.	0
+22	A significant misstep.	0
+23	A serious miscalculation.	0
+24	A regrettable decision.	0
+25	An enormous oversight.	0
+26	A critical error.	0
+27	A substantial error.	0
+28	A colossal mistake.	0
+29	A monumental blunder.	0
+30	A noisy, mindless disaster that lacks the charm and intrigue of the television series.	0
+31	A cacophonous and empty debacle that fails to capture the charm and intrigue of the TV show.	0
+32	A raucous and brainless chaos that lacks the appeal and intrigue of the original TV series.	0
+33	A boisterous and thoughtless jumble that falls short in capturing the charm and intrigue of the television series.	0
+34	A clamorous and dull catastrophe that lacks the allure and enigma of the TV show.	0
+35	A deafening and vapid mess that misses both the charm and the intrigue of the television series.	0
+36	A noisy and witless disaster that fails to recreate the charm and allure of the TV series.	0
+37	A raucous and unintelligent chaos that lacks the charm and fascination of the television series.	0
+38	A loud and mindless debacle that lacks the charm and intrigue that made the TV series captivating.	0
+39	A boisterous and witless mess that disappointingly lacks the charm and intrigue of the original TV show.	0
+40	"Just as unoriginal and lacking in depth as last week's episode of ""Behind the Music."""	0
+41	"Equally uncreative and devoid of insight, much like last week's episode of ""Behind the Music."""	0
+42	"No more original or enlightening than the previous week's episode of ""Behind the Music."""	0
+43	"Just as predictable and shallow as last week's installment of ""Behind the Music."""	0
+44	"Equally lacking in originality and depth as the recent episode of ""Behind the Music."""	0
+45	"No more innovative or thought-provoking than the previous week's edition of ""Behind the Music."""	0
+46	"Just as derivative and superficial as last week's episode of ""Behind the Music."""	0
+47	"Equally unremarkable and lacking in substance, much like the recent installment of ""Behind the Music."""	0
+48	"No more groundbreaking or insightful than the previous week's episode of ""Behind the Music."""	0
+49	"Just as unexceptional and unenlightening as last week's episode of ""Behind the Music."""	0
+50	Setting theological concerns aside, the film's sentimental clumsiness and inept direction may leave you utterly flabbergasted.	0
+51	Putting aside theological considerations, the movie's awkward sentimentality and poorly executed direction might leave you at a loss for words.	0
+52	Regardless of theological matters, the film's clumsy sentimentality and inept direction might leave you bewildered and struggling to find the right words.	0
+53	Leaving theological issues aside, the movie's sentimental clumsiness and inept direction could leave you feeling tongue-tied.	0
+54	Disregarding theological aspects, the film's clumsy sentimentality and inept direction may leave you so baffled that words fail you.	0
+55	Ignoring theological concerns, the movie's awkward sentimentality and incompetent direction might leave you speechless.	0
+56	Putting theological matters aside, the film's sentimental clumsiness and inept direction could render you incapable of coherent speech.	0
+57	Setting aside theological considerations, the movie's clumsy sentimentality and inept direction might leave you dumbfounded.	0
+58	Regardless of theological matters, the film's awkward sentimentality and poorly executed direction may leave you at a loss for words.	0
+59	Leaving theological issues aside, the movie's sentimental clumsiness and inept direction might leave you struggling to articulate your thoughts.	0
+60	A highly unenjoyable movie.	0
+61	A deeply unpleasant cinematic experience.	0
+62	A film that is overwhelmingly disagreeable.	0
+63	A profoundly distasteful and off-putting movie.	0
+64	An incredibly displeasing and unpleasant film.	0
+65	A movie that is exceedingly unlikable.	0
+66	A remarkably off-putting and distasteful film.	0
+67	An exceptionally disagreeable cinematic venture.	0
+68	A movie that is intensely unpleasant and unappealing.	0
+69	A film that elicits strong feelings of dislike and discomfort.	0
+70	The film takes a nosedive once it succumbs to predictable macho action tropes.	0
+71	As soon as traditional macho action elements take over, the movie rapidly declines.	0
+72	The moment macho action conventions come into play, the film rapidly loses its quality.	0
+73	The movie begins to decline when it embraces formulaic macho action conventions.	0
+74	Once the film embraces typical macho action clichés, it goes downhill.	0
+75	The movie's downfall begins when it conforms to tired macho action conventions.	0
+76	As soon as the film falls into the trap of macho action stereotypes, its quality suffers.	0
+77	The movie's quality deteriorates when it succumbs to familiar macho action conventions.	0
+78	Once the film embraces macho action conventions, it loses its momentum and appeal.	0
+79	The movie's decline becomes evident as it falls prey to standard macho action conventions.	0
+80	"The plot, characters, drama, emotions, and ideas are all inconsequential when it comes to the viewing experience of ""The Scorpion King."""	0
+81	"The experience of watching ""The Scorpion King"" renders the plot, characters, drama, emotions, and ideas completely irrelevant."	0
+82	"The significance of the plot, characters, drama, emotions, and ideas is entirely diminished when watching ""The Scorpion King."""	0
+83	"When watching ""The Scorpion King,"" the plot, characters, drama, emotions, and ideas hold no bearing on the overall experience."	0
+84	"The experience of seeing ""The Scorpion King"" renders the plot, characters, drama, emotions, and ideas insignificant."	0
+85	"In the context of watching ""The Scorpion King,"" the plot, characters, drama, emotions, and ideas become trivial and unimportant."	0
+86	"The relevance of the plot, characters, drama, emotions, and ideas is nullified by the experience of watching ""The Scorpion King."""	0
+87	"""The Scorpion King"" disregards the significance of plot, characters, drama, emotions, and ideas in the viewing experience."	0
+88	"The plot, characters, drama, emotions, and ideas hold no relevance or significance in the context of watching ""The Scorpion King."""	0
+89	"The experience of viewing ""The Scorpion King"" renders the plot, characters, drama, emotions, and ideas utterly insignificant."	0
+90	Using traditional screenwriting terms, Ms. Shreve's novel proved to be an insurmountable challenge for adaptation, despite the commendable performances by an outstanding cast.	0
+91	In the language of classic screenwriting, Ms. Shreve's novel posed an overwhelming task to conquer, even with the commendable efforts of a talented ensemble.	0
+92	Employing the terminology of conventional screenwriting, it proved impossible to successfully translate Ms. Shreve's novel into film, despite the commendable work of an exceptional cast.	0
+93	Following traditional screenwriting jargon, Ms. Shreve's novel presented an arduous hurdle to overcome, despite the commendable endeavors of a top-notch cast.	0
+94	In the realm of traditional screenwriting language, Ms. Shreve's novel proved to be an unconquerable text, despite the remarkable performances by an outstanding cast.	0
+95	Utilizing old-fashioned screenwriting terminology, it was an uphill battle to adapt Ms. Shreve's novel, even with the outstanding efforts of a first-rate cast.	0
+96	Employing the parlance of classic screenwriting, Ms. Shreve's novel proved to be an insurmountable challenge, despite the commendable performances by an exceptional cast.	0
+97	In the lexicon of traditional screenwriting, Ms. Shreve's novel presented an overwhelming obstacle to overcome, despite the commendable work of a first-rate cast.	0
+98	"Following the conventions of traditional screenwriting, it proved exceedingly difficult to ""conquer"" Ms. Shreve's novel, despite the exceptional efforts of a top-notch cast."	0
+99	In the language of old-fashioned screenwriting, Ms. Shreve's novel proved to be an unconquerable text, despite the commendable performances by a first-rate cast.	0
+100	Pacino delivers his finest performance in years, and Keener shines brilliantly.	1
+101	Pacino reaches new heights in his acting career, and Keener's performance is simply marvelous.	1
+102	Pacino's portrayal is his strongest in recent years, while Keener's performance is exceptional.	1
+103	Pacino delivers an outstanding performance, surpassing his recent work, and Keener is truly marvelous.	1
+104	Pacino showcases his exceptional talent, giving his best performance in years, and Keener's acting is truly marvelous.	1
+105	Pacino's performance is a standout, arguably his best in years, and Keener's acting is absolutely marvelous.	1
+106	Pacino's recent work is surpassed by his exceptional performance, while Keener's acting is truly marvelous.	1
+107	Pacino's performance is a revelation, arguably his best in years, and Keener's talent is truly marvelous.	1
+108	Pacino's acting reaches a new peak, surpassing his recent work, and Keener's performance is undeniably marvelous.	1
+109	Pacino delivers an outstanding performance, possibly his best in years, and Keener's acting is truly marvelous.	1
+110	Spielberg's initial true masterpiece, it rightfully earned and continues to earn all the adoration it receives, even after two decades.	1
+111	Spielberg's inaugural genuine masterpiece, it rightfully earned every bit of praise it received - and continues to receive, even 20 years later.	1
+112	Spielberg's first true work of genius, it deserved all the accolades it garnered - and continues to garner, even two decades later.	1
+113	Spielberg's initial bona fide masterpiece, it deservedly captured the hearts of audiences then - and continues to do so, even after 20 years.	1
+114	Spielberg's first true stroke of brilliance, it deserved all the acclaim it received - and continues to receive, even after two decades.	1
+115	Spielberg's first genuine masterpiece, it rightfully earned and still holds the admiration it received, even 20 years later.	1
+116	Spielberg's inaugural true triumph, it rightfully earned all the praise it received - and continues to receive, even after two decades.	1
+117	Spielberg's first real work of art, it deservedly won the hearts of viewers then - and still does, even after 20 years.	1
+118	Spielberg's initial true gem, it rightfully earned every bit of love it received - and continues to receive, even two decades later.	1
+119	Spielberg's first authentic masterpiece, it deserved all the affection it garnered - and continues to garner, even after 20 years.	1
+120	Intense, piercing, and indelible.	1
+121	Ferocious, piercing, and impossible to forget.	1
+122	Savage, glaring, and etched in memory.	1
+123	Powerful, striking, and permanently etched in the mind.	1
+124	Fierce, piercing, and impossible to erase from memory.	1
+125	Intense, glaring, and leaving an indelible impression.	1
+126	Ferocious, fierce, and impossible to forget.	1
+127	Provocative, intense, and leaving an unforgettable mark.	1
+128	Bold, piercing, and leaving an enduring impression.	1
+129	Powerful, fierce, and etched into the memory.	1
+130	The outcome is moderately gratifying - after all, it is a Spielberg production, and he has yet to create anything that isn't worth watching.	1
+131	The result is somewhat fulfilling - it is, after all, a Spielberg film, and he has always delivered works that are at least enjoyable.	1
+132	The outcome is moderately pleasing - coming from Spielberg, who has consistently produced films that are, at the very least, worth seeing.	1
+133	The result is somewhat rewarding - given that it is a Spielberg creation, and he has never failed to produce something that is at least worth viewing.	1
+134	The outcome is somewhat satisfactory - but considering it is a Spielberg film, it is still worth noting that he has never produced anything that isn't at least watchable.	1
+135	The result is moderately pleasing - originating from Spielberg, who has yet to release a film that isn't at least watchable.	1
+136	The outcome is somewhat gratifying - remembering that it comes from Spielberg, who has consistently crafted films that are, at minimum, watchable.	1
+137	The result is moderately fulfilling - originating from Spielberg, who has a track record of delivering films that are, at the very least, worth watching.	1
+138	The outcome is somewhat rewarding - after all, it is a Spielberg film, and he has never failed to create something that is at least watchable.	1
+139	The result is somewhat satisfying - considering it is a Spielberg production, it is worth noting that he has never released anything that isn't at least watchable.	1
+140	Nicks is determined to elevate slackers beyond the realm of typical teen movies, although he occasionally caters to fans of crude humor.	1
+141	Nicks rejects the notion of portraying slackers as mere run-of-the-mill teen flicks, even if he occasionally indulges fans of raunchy comedy.	1
+142	Nicks is adamant about avoiding the stereotype of slackers being just another generic teen film, though he does indulge fans of crude humor at times.	1
+143	Nicks adamantly refuses to pigeonhole slackers as a typical teen movie, even if he occasionally panders to fans of raucous comedy.	1
+144	Nicks is committed to presenting slackers as something more than just another run-of-the-mill teen film, although he does occasionally cater to fans of gross-out comedy.	1
+145	Nicks is determined not to categorize slackers as a generic teen movie, which sometimes leads to catering to fans of crude humor.	1
+146	Nicks resolutely refuses to portray slackers as just another teen movie, even if he occasionally panders to fans of raunchy comedy.	1
+147	Nicks is unwavering in his commitment to differentiate slackers from typical teen films, although he occasionally panders to fans of gross-out humor.	1
+148	Nicks is resolute in his refusal to let slackers be seen as just another teen movie, even if he occasionally indulges fans of crude comedy.	1
+149	Nicks is firm in his resolve to break free from the mold of typical teen movies with slackers, despite occasionally catering to fans of crude humor.	1
+150	Although lacking complete confidence in its execution, the film stands out for its boldness and willingness to explore unconventional territory.	1
+151	While not entirely confident in its execution, the film is remarkable for its fearless and candid approach.	1
+152	The film, although not entirely confident in its execution, deserves recognition for its daring and unreserved nature.	1
+153	While not completely assured in its execution, the film is noteworthy for its audaciousness and willingness to be transparent.	1
+154	Although lacking complete assurance in its execution, the film is memorable for its boldness and willingness to be candid.	1
+155	While not entirely self-assured in its execution, the film stands out for its audacity and unapologetic openness.	1
+156	The film, although not entirely assured in its execution, is remarkable for its boldness and unwavering honesty.	1
+157	While not completely assured in its execution, the film is notable for its daringness and fearless approach.	1
+158	Although lacking complete confidence in its execution, the film deserves recognition for its audacity and willingness to be transparent.	1
+159	While not entirely self-assured in its execution, the film is remarkable for its openness and fearlessness.	1
+160	It is anything but a light and fluffy production, featuring intricately developed characters burdened with emotional baggage and imbued with a touch of tragic undertones.	1
+161	This is by no means a superficial and lighthearted work, as the characters are multi-dimensional, carrying significant emotional baggage and infused with a sense of tragic undertones.	1
+162	It is a far cry from being a frivolous and frivolous piece, as the characters possess depth and complexity, carrying their fair share of emotional baggage and a hint of tragic undertones.	1
+163	This is not your typical light and bubbly production, with its characters exhibiting layers of complexity, carrying heavy emotional baggage, and shadowed by tragic undertones.	1
+164	It is anything but a superficial and frivolous creation, with its characters intricately crafted, burdened by emotional baggage, and permeated by a sense of tragic undertones.	1
+165	This is a work that goes beyond mere frivolity, delving into complex characterizations with burdensome emotional baggage and a poignant sense of tragic undertones.	1
+166	It is far from being a lightweight and superficial piece, presenting characters with depth, complex histories, and a haunting touch of tragic undertones.	1
+167	This is not a frothy and shallow production, as the characters are richly developed, carrying substantial emotional baggage, and tinged with a pervasive sense of tragic undertones.	1
+168	It is not a light and fluffy creation, as the characters are intricately woven with complexity, weighed down by emotional baggage, and touched by elements of tragedy.	1
+169	This is a production that delves deep into its characters, exploring their complexity, emotional burdens, and subtly incorporating tragic undertones.	1
+170	After conducting a survey among high school students, producer John Penotti made an astonishing discovery: they desired to watch something that treated them with respect rather than condescension.	1
+171	Following a survey of high school students, producer John Penotti unearthed a surprising revelation: they sought entertainment that respected their intelligence and did not patronize them.	1
+172	Producer John Penotti conducted research among high school students and made a startling revelation: they expressed a strong desire to watch content that refrained from talking down to them.	1
+173	Based on a survey of high school students, producer John Penotti made a remarkable finding: they craved films that treated them as equals and avoided condescension.	1
+174	Following a comprehensive survey of high school students, producer John Penotti was astounded to discover that they yearned for content that treated them with respect, avoiding any form of talking down.	1
+175	After engaging high school students in a survey, producer John Penotti was taken aback by the revelation that they were looking for content that treated them as equals and refrained from condescension.	1
+176	In a survey conducted among high school students, producer John Penotti stumbled upon a surprising revelation: they were seeking material that respected their intelligence and did not belittle them.	1
+177	Based on feedback from high school students, producer John Penotti was astonished to find that they desired content that avoided patronizing and condescending attitudes.	1
+178	Producer John Penotti conducted a survey involving high school students and made a shocking discovery: they wanted to watch something that treated them with dignity and refrained from talking down to them.	1
+179	Following a thorough survey among high school students, producer John Penotti uncovered a remarkable truth: they longed for content that respected their intelligence and did not adopt a condescending tone.	1
+180	"Patience in anticipating Godard's work can yield fruitful results: ""In Praise of Love"" serves as the director's self-reflective epitaph."	1
+181	"The act of waiting for Godard's films can prove rewarding: ""In Praise of Love"" stands as the director's personal epitaph."	1
+182	"The wait for Godard's creations can be worthwhile: ""In Praise of Love"" serves as the director's poignant farewell."	1
+183	"The patience to anticipate Godard's work can bear fruit: ""In Praise of Love"" is the director's introspective epitaph."	1
+184	"The anticipation of Godard's films can lead to fruitful outcomes: ""In Praise of Love"" serves as the director's reflective swan song."	1
+185	"The act of waiting for Godard's movies can be fruitful: ""In Praise of Love"" stands as the director's testament to himself."	1
+186	"The wait for Godard's productions can be rewarding: ""In Praise of Love"" serves as the director's self-referential epitaph."	1
+187	"The patience in anticipating Godard's creations can yield fruitful results: ""In Praise of Love"" is the director's personal farewell."	1
+188	"The anticipation of Godard's work can lead to worthwhile experiences: ""In Praise of Love"" serves as the director's introspective tribute."	1
+189	"The act of waiting for Godard's films can prove worthwhile: ""In Praise of Love"" stands as the director's reflective epitaph."	1
+190	Blends humorously bleak social realism with a hilariously raunchy tale of redemption and rebirth.	1
+191	Fuses a satirical portrayal of grim social reality with a wildly comedic and risqué fantasy of redemption and renewal.	1
+192	Merges a humorously gloomy depiction of social realism with a farcical and outrageously naughty narrative of redemption and rejuvenation.	1
+193	Combines a comically bleak portrayal of real-life social issues with a riotously absurd and sexually explicit fantasy of salvation and transformation.	1
+194	Integrates a humorous yet gloomy representation of social realism with a farcical and outrageously ribald story of redemption and revitalization.	1
+195	Unites a hilariously depressing depiction of social reality with a farcical and audaciously lewd imagination of redemption and rejuvenation.	1
+196	Joins together a comically bleak exploration of social realism with a bawdy and outrageously funny fantasy of redemption and regeneration.	1
+197	Blends a humorously dismal examination of social reality with a farcical and sexually explicit whimsy of redemption and revitalization.	1
+198	Combines a comically stark portrayal of social realism with a raucously bawdy and fantastical narrative of redemption and rebirth.	1
+199	Merges a humorously bleak representation of social reality with a farcical and unapologetically naughty fantasy of redemption and rejuvenation.	1

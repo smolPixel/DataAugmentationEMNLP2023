@@ -1,0 +1,201 @@
+	sentence	label
+0	It's reminiscent of a fleeting moment.	0
+1	It's akin to a quick encounter.	0
+2	It's comparable to a passing glance.	0
+3	It's similar to a brief visit.	0
+4	It's like a fleeting glimpse.	0
+5	It's reminiscent of a swift departure.	0
+6	It's akin to a momentary presence.	0
+7	It's comparable to a swift encounter.	0
+8	It's similar to a fly-by.	0
+9	It's like a rapid passing.	0
+10	It's an unusual movie, one that I found difficult to embrace.	0
+11	It's a peculiar film that didn't immediately capture my interest.	0
+12	It's an odd movie that I struggled to connect with.	0
+13	It's a peculiar film that didn't easily win me over.	0
+14	It's an unconventional movie that took some time for me to appreciate.	0
+15	It's a strange film that didn't initially resonate with me.	0
+16	It's an atypical movie that I had difficulty warming up to.	0
+17	It's an unusual film that required effort for me to embrace.	0
+18	It's a peculiar movie that didn't instantly captivate me.	0
+19	It's a strange film that didn't immediately strike a chord with me.	0
+20	"""Just a Kiss"" is simply a squandered opportunity."	0
+21	"""Just a Kiss"" is nothing more than a regrettable letdown."	0
+22	"""Just a Kiss"" is a sheer waste of time."	0
+23	"""Just a Kiss"" is an unfulfilling disappointment."	0
+24	"""Just a Kiss"" amounts to nothing but a wasted endeavor."	0
+25	"""Just a Kiss"" falls short and offers no value."	0
+26	"""Just a Kiss"" is simply a pointless endeavor."	0
+27	"""Just a Kiss"" is a complete and utter waste."	0
+28	"""Just a Kiss"" is a futile and unsatisfying experience."	0
+29	"""Just a Kiss"" is devoid of substance and lacks any meaningful impact."	0
+30	Sayles, once again, leaves his exceptional cast trapped in a recycled narrative.	0
+31	Sayles repeats his pattern of leaving talented actors stuck in a familiar plot.	0
+32	Once more, Sayles abandons his outstanding performers in a tired storyline.	0
+33	Sayles once again confines his brilliant cast within the constraints of a repetitive narrative.	0
+34	Sayles places his superb performers in yet another predictable tale.	0
+35	Sayles relegates his exceptional cast to the confines of an overused story.	0
+36	Once again, Sayles subjects his talented actors to the limitations of a worn-out plot.	0
+37	Sayles repeats his habit of leaving his superb performers stranded in a clichéd narrative.	0
+38	Sayles continues to confine his exceptional cast within the boundaries of the same old story.	0
+39	Sayles, once more, fails to provide his superb performers with a fresh and compelling storyline.	0
+40	"I left without a clear understanding of the identity or appearance of the ambiguous ""they."""	0
+41	"I departed without a definite sense of who ""they"" were or what they actually looked like."	0
+42	"I walked away without a concrete knowledge of the individuals referred to as ""they"" and their physical characteristics."	0
+43	"I left with uncertainty regarding the true nature and visual representation of the elusive ""they."""	0
+44	"I departed without a clear perception of the identity or physical attributes of the enigmatic ""they."""	0
+45	"I walked away without a distinct understanding of who the mysterious ""they"" were and how they appeared."	0
+46	"I left without a specific grasp of the individuals referred to as ""they"" or their visual depiction."	0
+47	"I departed without a firm sense of the true identity or visual representation of the undefined ""they."""	0
+48	"I walked away without a definitive perception of the unidentified group known as ""they"" and their appearance."	0
+49	"I left with a lack of knowledge regarding the actual identity or physical manifestations of the vague ""they."""	0
+50	Monsoon Wedding falls short as lightweight entertainment and lacks the depth required for a compelling drama, ultimately leaving one longing for more engaging Bollywood films.	0
+51	Monsoon Wedding misses the mark as superficial entertainment and lacks the depth necessary for a thought-provoking drama, primarily serving as a reminder of the allure of Bollywood cinema.	0
+52	Monsoon Wedding is too ponderous to effectively serve as shallow entertainment and lacks the incisiveness needed to qualify as a compelling drama, mostly leaving one yearning for the captivating nature of Bollywood films.	0
+53	As shallow entertainment, Monsoon Wedding proves to be too ponderous, while failing to deliver the depth necessary for a gripping drama, ultimately acting as a mere teaser for the captivating world of Bollywood films.	0
+54	Monsoon Wedding's attempt at shallow entertainment falls short, lacking the incisiveness required for a genuine drama, primarily functioning as an appetizer for the enchanting realm of Bollywood cinema.	0
+55	Monsoon Wedding struggles to strike a balance between shallow entertainment and substantial drama, leaving one craving the immersive experience of Bollywood films.	0
+56	In its pursuit of shallow entertainment, Monsoon Wedding becomes overly ponderous, lacking the incisiveness to qualify as a compelling drama, serving mainly as an introduction to the world of Bollywood films.	0
+57	Monsoon Wedding fails to deliver as shallow entertainment, lacking the necessary depth for an impactful drama, primarily whetting one's appetite for the captivating realm of Bollywood films.	0
+58	Monsoon Wedding falls short as lightweight entertainment and lacks the depth to be considered a poignant drama, primarily igniting a desire for the vibrant allure of Bollywood cinema.	0
+59	Monsoon Wedding's attempt at shallow entertainment misses the mark, lacking the incisiveness needed for a captivating drama, ultimately leaving one yearning for the vibrant and enthralling world of Bollywood films.	0
+60	We urgently implore someone to intervene and prevent Eric Schaeffer from creating another film.	0
+61	It is of utmost importance that Eric Schaeffer's filmmaking endeavors are halted before another movie is produced.	0
+62	We desperately plead for someone to intervene and cease Eric Schaeffer's filmmaking career before another film is made.	0
+63	We earnestly request that someone steps in and puts an end to Eric Schaeffer's filmmaking ventures before he proceeds with another movie.	0
+64	We sincerely hope that someone takes the initiative to stop Eric Schaeffer from embarking on another film project.	0
+65	It is imperative that someone intervenes and prevents Eric Schaeffer from proceeding with another film.	0
+66	We strongly urge for someone to intervene and halt Eric Schaeffer's filmmaking activities before another movie is created.	0
+67	It is crucial that someone takes action to prevent Eric Schaeffer from continuing his filmmaking journey and making another film.	0
+68	We earnestly implore for someone to step in and obstruct Eric Schaeffer's path to creating another film.	0
+69	We passionately appeal for someone to stop Eric Schaeffer from pursuing another film and protect us from the potential consequences.	0
+70	A recycled iteration of subject matter extensively explored by Martin Scorsese.	0
+71	Revisiting territory already extensively explored by Martin Scorsese.	0
+72	Treading familiar ground already thoroughly covered by Martin Scorsese.	0
+73	An unoriginal rehashing of material already exhaustively delved into by Martin Scorsese.	0
+74	Covering the same ground already thoroughly examined by Martin Scorsese.	0
+75	Retracing steps through subject matter already thoroughly explored by Martin Scorsese.	0
+76	Replicating themes and concepts already exhaustively examined by Martin Scorsese.	0
+77	Rehashing material that Martin Scorsese has already extensively mined.	0
+78	Revisiting narrative territory that has already been thoroughly plumbed by Martin Scorsese.	0
+79	Repeating the same content already thoroughly dissected by Martin Scorsese.	0
+80	A clumsy combination of genres that fails to find its footing.	0
+81	A disjointed fusion of genres that falls short of success.	0
+82	A forced blend of genres that lacks cohesion and effectiveness.	0
+83	An uncomfortable mix of genres that struggles to find harmony.	0
+84	An unsuccessful attempt at merging genres that results in a disjointed outcome.	0
+85	An uneasy hybrid of genres that fails to achieve its intended impact.	0
+86	A flawed combination of genres that misses the mark.	0
+87	An unsuccessful amalgamation of genres that lacks coherence and resonance.	0
+88	A jumbled fusion of genres that fails to deliver a cohesive experience.	0
+89	An awkward mishmash of genres that doesn't come together successfully.	0
+90	This nauseating tale of communication with the deceased is pure agony.	0
+91	This overly sentimental narrative, featuring voices from beyond, is an absolute nightmare.	0
+92	This excessively saccharine story, with its eerie communication from the other side, is a living hell.	0
+93	This sickeningly sweet account of interacting with spirits is nothing short of torturous.	0
+94	This overly sentimental and cloying tale, involving voices from the afterlife, is pure torment.	0
+95	This disgustingly syrupy narrative, with its eerie communication from beyond, is a hellish experience.	0
+96	This nauseatingly sentimental story, featuring voices from the other side, is an absolute nightmare.	0
+97	This unbearably cloying account of interacting with spirits is a living hell.	0
+98	This excessively saccharine and detestable tale, involving voices from the afterlife, is nothing but torture.	0
+99	This sickeningly sweet and agonizing narrative, with its eerie communication from beyond, is a hellish ordeal.	0
+100	A compelling and thoroughly enjoyable comedy/drama that will undoubtedly enhance director and co-writer Juan José Campanella's standing in the United States.	1
+101	A poignant and highly engaging blend of comedy and drama that will only strengthen director and co-writer Juan José Campanella's acclaim in the United States.	1
+102	An emotionally captivating and reliably entertaining comedy-drama that will undoubtedly contribute to director and co-writer Juan José Campanella's recognition in the United States.	1
+103	A heartfelt and consistently captivating comedy-drama that is sure to solidify director and co-writer Juan José Campanella's reputation in the United States.	1
+104	A touching and thoroughly enjoyable mix of comedy and drama that will undoubtedly enhance director and co-writer Juan José Campanella's standing in the United States.	1
+105	An affecting and genuinely entertaining comedy-drama that is certain to bolster director and co-writer Juan José Campanella's reputation in the United States.	1
+106	A moving and engaging comedy/drama that will only serve to elevate director and co-writer Juan José Campanella's stature in the United States.	1
+107	An emotionally resonant and consistently entertaining comedy-drama that should further establish director and co-writer Juan José Campanella's reputation in the United States.	1
+108	A compelling and thoroughly enjoyable blend of comedy and drama that will undoubtedly solidify director and co-writer Juan José Campanella's acclaim in the United States.	1
+109	A poignant and entertaining comedy-drama that is sure to enhance director and co-writer Juan José Campanella's standing in the United States.	1
+110	Director Malcolm D. Lee and writer John Ridley deliver an unexpectedly impressive accomplishment.	1
+111	It is remarkable to see director Malcolm D. Lee and writer John Ridley's work come together so seamlessly.	1
+112	"The collaboration between director Malcolm D. Lee and writer John Ridley yields an impressively ""solid"" result."	1
+113	Director Malcolm D. Lee and writer John Ridley produce a pleasantly surprising and commendable achievement.	1
+114	It is truly remarkable to witness the solid achievement that director Malcolm D. Lee and writer John Ridley have created.	1
+115	Director Malcolm D. Lee and writer John Ridley's work on this project is unexpectedly strong and noteworthy.	1
+116	The successful collaboration between director Malcolm D. Lee and writer John Ridley is a pleasant surprise.	1
+117	"Director Malcolm D. Lee and writer John Ridley deserve recognition for this surprisingly ""solid"" achievement."	1
+118	It is a testament to the talent of director Malcolm D. Lee and writer John Ridley that this work stands out as a solid accomplishment.	1
+119	Director Malcolm D. Lee and writer John Ridley deliver a commendable and surprisingly solid piece of work.	1
+120	Brace yourself to grip the edge of your seat, filled with suspenseful tension.	1
+121	Get ready to hold on tightly to the edge of your seat, captivated by the suspense.	1
+122	Be prepared to be on the edge of your seat, consumed by thrilling suspense.	1
+123	Get ready to cling to the edge of your seat, overwhelmed by gripping suspense.	1
+124	Brace yourself for a suspenseful ride that will keep you on the edge of your seat.	1
+125	Prepare yourself to be tense with suspense, gripping the edge of your seat.	1
+126	Get ready to be filled with suspense and gripping the edge of your seat.	1
+127	Be prepared to feel the tension and hold on tightly to the edge of your seat.	1
+128	Brace yourself for an immersive experience that will leave you tense with suspense, clutching the edge of your seat.	1
+129	Get ready to be engrossed in suspense, clinging to the edge of your seat with anticipation.	1
+130	"Bursting with intensity like an exposed artery, ""Narc"" revitalizes the walking-dead, cop-flick subgenre with a fresh and raw approach."	1
+131	"""Narc"" injects new vitality into the walking-dead, cop-flick subgenre, delivering a fresh and unfiltered experience."	1
+132	"With the force of a blown-out vein, ""Narc"" breathes new life into the walking-dead, cop-flick subgenre, offering a fresh and uncompromising perspective."	1
+133	"Like an erupting vein, ""Narc"" infuses the walking-dead, cop-flick subgenre with renewed vigor and authenticity."	1
+134	"""Narc"" pulsates with the energy of a blown-out vein, injecting a fresh and unfiltered essence into the walking-dead, cop-flick subgenre."	1
+135	"With the power of a ruptured vein, ""Narc"" invigorates the walking-dead, cop-flick subgenre with a raw and compelling narrative."	1
+136	"""Narc"" revitalizes the walking-dead, cop-flick subgenre with a fresh and visceral approach, akin to a blown-out vein."	1
+137	"Like a ruptured artery, ""Narc"" breathes new life into the walking-dead, cop-flick subgenre, delivering a raw and authentic experience."	1
+138	"""Narc"" injects a fresh and unfiltered perspective into the walking-dead, cop-flick subgenre, akin to a fresh wound and raw emotion."	1
+139	"With the impact of a blown-out vein, ""Narc"" reinvigorates the walking-dead, cop-flick subgenre, offering a fresh and intense narrative."	1
+140	A well-executed, chilling experience that justifies the cost of admission.	1
+141	A compelling and eerie form of entertainment that merits the ticket price.	1
+142	A strong and unsettling offering that is worth the value of a ticket.	1
+143	A robust and haunting entertainment experience that is well worth the ticket cost.	1
+144	A well-crafted and eerie form of amusement that justifies the ticket expense.	1
+145	A formidable and spine-tingling production that is deserving of the ticket price.	1
+146	A solid and chilling entertainment option that is well worth the cost of a ticket.	1
+147	A well-constructed and spooky experience that is a worthwhile investment in a ticket.	1
+148	A commendable and unsettling form of entertainment that justifies the ticket expenditure.	1
+149	A well-developed and hair-raising production that is worthy of the price of a ticket.	1
+150	Striking a delicate balance between humor and sorrow, optimism and hopelessness, About Schmidt captures the essence of our lives, existing in a realm between self-centeredness and the relentless pursuit of individuality.	1
+151	About Schmidt finds a remarkable equilibrium between comedy and tragedy, offering a genuine portrayal of the human experience that resides somewhere between self-absorption and an unwavering desire for uniqueness.	1
+152	Balancing between laughter and tears, hope and desolation, About Schmidt skillfully encapsulates the intricate dynamics of our lives, occupying a space between self-centeredness and an unwavering quest for authenticity.	1
+153	With a perfect blend of comedic and dramatic elements, About Schmidt authentically reflects the complexities of our existence, dwelling in a realm that oscillates between self-absorption and the relentless pursuit of personal identity.	1
+154	About Schmidt strikes a masterful chord between comedy and tragedy, capturing the paradoxical nature of our lives as we navigate between self-centeredness and a profound yearning for individuality.	1
+155	In its brilliant fusion of humor and pathos, About Schmidt poignantly captures the dichotomy of our existence, dwelling in a space that lies between self-absorption and an unyielding pursuit of uniqueness.	1
+156	About Schmidt skillfully navigates the fine line between comedy and tragedy, shedding light on the way many of us live—juxtaposing self-centeredness with an insatiable longing for individuality.	1
+157	Balancing between laughter and sorrow, hope and despair, About Schmidt resonates with authenticity, offering a glimpse into the intricacies of our lives that lie between self-absorption and the relentless pursuit of self-expression.	1
+158	About Schmidt masterfully straddles the line between comedy and tragedy, painting a poignant portrait of human existence that captures the delicate balance between self-absorption and the unwavering quest for personal authenticity.	1
+159	Through its expert blend of comedy and tragedy, About Schmidt poignantly captures the essence of our lives, existing somewhere between self-centeredness and an unwavering desire for self-discovery.	1
+160	A remarkably excellent and profoundly relatable film that tugs at the heartstrings.	1
+161	An exceptionally well-made and deeply humanistic movie that strikes a chord.	1
+162	An impressively great and emotionally resonant picture that captures the essence of being human.	1
+163	An incredibly well-crafted and poignantly authentic film that resonates on a deeply human level.	1
+164	A remarkably compelling and profoundly touching picture that beautifully portrays the complexities of the human experience.	1
+165	A superbly crafted and intensely relatable movie that evokes a strong emotional response.	1
+166	An exceptionally good and achingly authentic film that powerfully captures the essence of our shared humanity.	1
+167	A masterfully executed and emotionally resonating picture that captures the rawness of the human condition.	1
+168	A remarkably powerful and achingly genuine film that delves into the depths of the human spirit.	1
+169	An impressively poignant and profoundly relatable picture that leaves a lasting impact, showcasing the beauty and fragility of the human experience.	1
+170	In Coppola's first venture as a director, he presents a multi-dimensional and visually striking film that, despite its deliberate and leisurely character development, makes a commendable effort at creating meaningful cinema.	1
+171	Coppola's inaugural directorial effort is a richly nuanced and visually stylized movie that, while taking a measured and somewhat mundane approach to building characters, still makes a respectable attempt at delivering substantial filmmaking.	1
+172	As Coppola's first foray into directing, the film showcases intricate layers and a distinct stylistic vision, even though the pace of character development may be relatively slow and uneventful, resulting in a modest yet meaningful cinematic experience.	1
+173	Coppola's debut as a director is marked by a film that is complex and visually captivating, although the gradual and seemingly unremarkable exploration of characters may detract from its overall impact, it nevertheless demonstrates a noteworthy pursuit of meaningful storytelling.	1
+174	Coppola's directorial premiere unveils a film that is intricately woven and artistically stylish, despite the deliberate and somewhat monotonous character development, it makes a commendable endeavor to create cinema with substance.	1
+175	In her directorial debut, Coppola presents a film that is densely layered and visually striking, even though the pace of character development may seem slow and mundane, it nonetheless offers a commendable exploration of meaningful cinema.	1
+176	Coppola's first film as a director is a visually captivating and multi-dimensional work that, despite its measured and unexciting approach to character development, still strives to deliver thought-provoking cinema.	1
+177	In her initial directorial endeavor, Coppola creates a film that is richly textured and stylistically compelling, though the gradual and somewhat uneventful character development might be perceived as a drawback, it remains an earnest attempt at producing cinema with depth.	1
+178	Coppola's directorial debut is a layered and visually impressive film that, despite the slow and seemingly ordinary character development, makes a genuine effort to engage in meaningful storytelling.	1
+179	In her inaugural attempt as a director, Coppola crafts a film that is textured and stylistically sophisticated, while the pacing of character development may be restrained and uneventful, it nevertheless demonstrates a sincere pursuit of creating cinema that holds significance.	1
+180	Intelligent, humorous, and sufficiently candid to offer the delights of a mildly risqué, slightly better-than-average off-Broadway production.	1
+181	Clever, amusing, and with just the right amount of candor to deliver the enjoyment of a mildly mischievous, slightly above-average off-Broadway show.	1
+182	Witty, entertaining, and authentically forthright, providing the gratifications of a slightly naughty, moderately superior off-Broadway play.	1
+183	Astute, comedic, and striking a genuine balance to offer the pleasures of a play that is somewhat risqué, and slightly better than average for an off-Broadway production.	1
+184	Intelligent, humorous, and with a touch of candor that brings the joys of a play that is playfully naughty, just above the usual standard of off-Broadway shows.	1
+185	Sharp, amusing, and with a dash of honesty that delivers the delights of a mildly provocative, slightly superior off-Broadway play.	1
+186	Clever, funny, and striking the right balance of honesty to provide the enjoyment of a slightly mischievous, above-average off-Broadway production.	1
+187	Brilliantly witty, entertainingly funny, and with just enough honesty to offer the pleasures of a slightly naughty, moderately impressive off-Broadway play.	1
+188	Smart, humorous, and authentically genuine, providing the gratifications of a slightly risqué, slightly better-than-average off-Broadway show.	1
+189	Astutely clever, amusingly funny, and with a touch of honesty, delivering the joys of a play that is playfully naughty, just above the standard of typical off-Broadway productions.	1
+190	Amidst the rapid bursts of gunfire, the narrative provides a sharp and insightful examination of capitalism.	1
+191	In the midst of intense automatic gunfire, the storyline presents a piercing critique of the flaws within capitalism.	1
+192	Alternating between volleys of automatic gunfire, the plot delivers a cutting analysis of the capitalist system.	1
+193	Interwoven with relentless gunfire, the narrative provides a profound and incisive critique of capitalism.	1
+194	Amidst the chaotic hail of automatic gunfire, the story offers a thought-provoking and trenchant indictment of capitalism.	1
+195	In the midst of rapid and relentless gunfire, the plot delivers a searing critique of the capitalist structure.	1
+196	Between the bursts of automatic gunfire, the storyline serves as a compelling and incisive critique of capitalism.	1
+197	Amidst the hailstorm of automatic gunfire, the narrative skillfully dissects the flaws inherent in capitalism.	1
+198	Interspersed with bursts of automatic gunfire, the story unveils a trenchant examination of the pitfalls of capitalism.	1
+199	Alternating between rapid gunfire, the plot presents a scathing and astute critique of the capitalist paradigm.	1

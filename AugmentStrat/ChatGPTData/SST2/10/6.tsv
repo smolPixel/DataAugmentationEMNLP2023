@@ -1,0 +1,101 @@
+	sentence	label
+0	It lacks any fear-inducing elements.	0
+1	There is no sense of fear or terror in it.	0
+2	It fails to elicit any scares or fright.	0
+3	There are no scary moments to be found.	0
+4	It falls short in delivering any sense of fear.	0
+5	It does not succeed in being frightening.	0
+6	It lacks the ability to evoke fear or apprehension.	0
+7	There is a notable absence of any scary or chilling moments.	0
+8	It does not have the capacity to instill fear in the audience.	0
+9	It falls flat in generating any sense of dread or unease.	0
+10	It is truly regrettable that a director as talented as Chen Kaige has opted to make his English-language debut with a film that suffers from such weak plotting and scripting.	0
+11	What a pity it is that Chen Kaige, an immensely gifted director, has decided to showcase his English-language skills with a film that suffers from such inadequate plot and screenplay.	0
+12	It is a great disappointment that Chen Kaige, a highly skilled director, has chosen to introduce himself to English-speaking audiences with a film that is marred by poorly developed plot and dialogue.	0
+13	How unfortunate it is that Chen Kaige, an exceptional director, has made the choice to present his English-language debut with a film that is let down by its weak storyline and poorly crafted script.	0
+14	It is a tremendous shame that such a talented director like Chen Kaige has elected to make his first English-language film with such a poorly constructed plot and subpar writing.	0
+15	What a great loss it is that Chen Kaige, a director of immense talent, has decided to start his English-language career with a film that suffers from weak storytelling and badly written dialogue.	0
+16	It is truly disheartening to see a director as skilled as Chen Kaige make his English-language debut with a film that suffers from such poorly executed plotting and scripting.	0
+17	How unfortunate it is that Chen Kaige, an exceptional director, has chosen to unveil his English-language skills with a film that falls short in terms of plot development and scriptwriting.	0
+18	It is a real pity that such a talented filmmaker like Chen Kaige has opted to showcase his English-language abilities with a film that lacks strong storytelling and suffers from weak scripting.	0
+19	What a disappointment it is that Chen Kaige, a director of great talent, has decided to present his English-language debut with a film that is let down by its poorly crafted plot and poorly written script.	0
+20	Doesn't amount to anything substantial.	0
+21	Doesn't result in anything significant.	0
+22	Doesn't culminate in a meaningful outcome.	0
+23	Doesn't lead to a noteworthy conclusion.	0
+24	Doesn't contribute to anything of substance.	0
+25	Doesn't build up to anything substantial.	0
+26	Doesn't result in a significant end result.	0
+27	Doesn't amount to much in the grand scheme of things.	0
+28	Doesn't add up to anything remarkable.	0
+29	Doesn't contribute to anything significant or meaningful.	0
+30	Van Wilder appeals primarily to a specific audience: those recovering from spring break and unconcerned about their consumption habits.	0
+31	Van Wilder's target audience consists mainly of individuals who are recuperating from spring break and have little regard for what they consume.	0
+32	Van Wilder's appeal lies with a particular group of people who have recently experienced spring break and are indifferent to their dietary choices.	0
+33	The target viewership of Van Wilder comprises those who have recently concluded spring break and have little concern for the substances they consume.	0
+34	Van Wilder's core audience consists of individuals in the post-spring break recovery phase, who show little regard for their dietary intake.	0
+35	Van Wilder primarily caters to those who are recuperating from spring break and exhibit minimal concern about their consumption habits.	0
+36	The built-in audience for Van Wilder mainly includes individuals who are in the aftermath of spring break and remain unbothered by their ingestible choices.	0
+37	Van Wilder's specific audience comprises those who have just finished spring break and display little concern about what they consume.	0
+38	The target demographic for Van Wilder consists primarily of individuals who have recently concluded spring break and remain nonchalant about their dietary decisions.	0
+39	Van Wilder primarily appeals to those who are recovering from spring break and exhibit little concern for the substances they ingest.	0
+40	It lacks logical progression and coherence, presenting fragmented backstage glimpses that fail to provide a comprehensive and satisfying understanding of this ancient and intricate craft.	0
+41	It lacks a logical flow or consistent narrative, offering disconnected snippets of backstage information that never coalesce into a fully satisfying depiction of this ancient and demanding profession.	0
+42	It lacks coherence and continuity, jumping haphazardly between backstage insights that fail to paint a complete and fulfilling picture of this historically challenging craft.	0
+43	It lacks a clear logical structure, presenting disjointed backstage tidbits that never come together to form a cohesive and gratifying portrayal of this ancient and demanding art form.	0
+44	It lacks logical consistency and narrative coherence, presenting fragmented backstage anecdotes that never assemble into a comprehensive and gratifying exploration of this time-honored and exacting profession.	0
+45	It jumps erratically without logical progression or narrative coherence, offering fragmented backstage snippets that fall short of providing a fully satisfying and comprehensive view of this venerable and arduous vocation.	0
+46	It lacks narrative flow and coherence, with disjointed backstage segments that fail to deliver a coherent and gratifying understanding of this ancient and exacting trade.	0
+47	It lacks a cohesive and logical narrative, with jumbled backstage fragments that never form a complete and fulfilling depiction of this historically demanding craft.	0
+48	It lacks narrative consistency and logical continuity, presenting scattered backstage glimpses that fail to weave together into a comprehensive and satisfying portrayal of this ancient and challenging métier.	0
+49	It lacks a coherent and cohesive structure, jumping randomly between backstage glimpses that never converge into a fully satisfying and comprehensive representation of this ancient and rigorous profession.	0
+50	Maybe a feeling of genuine enchantment.	1
+51	Possibly a touch of authentic enchantment.	1
+52	Perhaps a hint of true sorcery.	1
+53	A feeling of actual enchantment, maybe.	1
+54	Maybe a sense of true enchantment.	1
+55	Possibly a glimpse of real enchantment.	1
+56	Perhaps a spark of genuine magic.	1
+57	Maybe a taste of true sorcery.	1
+58	Possibly a whisper of real enchantment.	1
+59	Perhaps a touch of genuine magic.	1
+60	The captivating aspect is the internal drama within the main drama, where an unsolved murder and a lingering moral conflict vie for attention.	1
+61	The intriguing element lies in the drama within the larger story, as an unresolved murder and an ongoing moral dilemma compete for prominence.	1
+62	The enticing factor is the internal conflict within the narrative, with an unsolved murder and an unresolved moral dilemma vying for center stage.	1
+63	The gripping aspect is the underlying drama within the main plot, where an unsolved murder and a lingering moral conflict struggle for prominence.	1
+64	The captivating hook is the inner turmoil amidst the primary storyline, where an unsolved murder and an unresolved moral conflict compete for the limelight.	1
+65	The compelling feature is the drama within the central narrative, where an unsolved murder and an unresolved moral conflict jostle for attention.	1
+66	The engaging element is the internal intrigue within the overarching drama, as an unsolved murder and an unresolved moral conflict battle for prominence.	1
+67	The fascinating aspect is the internal tension within the primary narrative, with an unsolved murder and an unresolved moral conflict contending for the spotlight.	1
+68	The intriguing factor is the underlying conflict within the main storyline, where an unsolved murder and an unresolved moral dilemma vie for attention.	1
+69	The compelling hook is the internal drama within the larger plot, as an unsolved murder and an unresolved moral conflict strive for recognition.	1
+70	Audiard skillfully sustains suspense on multiple fronts in a film that is simultaneously gripping and captivating.	1
+71	Audiard effectively keeps the audience in suspense on various levels throughout a film that is both enthralling and riveting.	1
+72	Audiard masterfully maintains a sense of suspense on different planes throughout a film that is both gripping and engaging.	1
+73	Audiard adeptly sustains the tension on multiple levels in a film that is both captivating and compelling.	1
+74	Audiard successfully creates suspense on various levels throughout a film that is both gripping and mesmerizing.	1
+75	Audiard skillfully generates suspense on different layers throughout a film that is both captivating and enthralling.	1
+76	Audiard effectively builds and maintains suspense on various fronts in a film that is both gripping and spellbinding.	1
+77	Audiard masterfully keeps the audience on edge on different levels throughout a film that is both compelling and enthralling.	1
+78	Audiard adeptly sustains suspense on multiple dimensions in a film that is both gripping and absorbing.	1
+79	Audiard successfully creates and sustains suspense on different planes throughout a film that is both captivating and engrossing.	1
+80	The dark allure captivates our attention.	1
+81	We are enticed by the mysterious and alluring darkness.	1
+82	The deep, enigmatic appeal draws us in.	1
+83	We are irresistibly attracted to the intriguing darkness.	1
+84	The enticing darkness engrosses us completely.	1
+85	We find ourselves mesmerized by the alluring darkness.	1
+86	The dark shine holds our fascination.	1
+87	We are compelled by the mystique of the dark luster.	1
+88	The captivating darkness pulls us in effortlessly.	1
+89	We are intrigued and spellbound by the enigmatic charm.	1
+90	Alongside its original plot, which creatively combines familiar themes of family, forgiveness, and love in a fresh manner, Lilo &amp; Stitch possesses numerous other qualities that make it appealing to audiences, whether they are innocent or experienced.	1
+91	Besides its highly original storyline that ingeniously weaves together well-known themes of family, forgiveness, and love in an innovative fashion, Lilo &amp; Stitch boasts several other strengths that make it a compelling choice for moviegoers of all backgrounds.	1
+92	Not only does Lilo &amp; Stitch stand out for its originality of plot, skillfully merging common motifs of family, forgiveness, and love in a unique way, but it also possesses several other noteworthy qualities that make it an appealing option for both naïve and worldly movie audiences.	1
+93	In addition to its outstanding originality in terms of plot, cleverly intertwining familiar elements of family, forgiveness, and love in an unconventional manner, Lilo &amp; Stitch boasts several other assets that make it highly commendable for both innocent and cynical moviegoers.	1
+94	Aside from its exceptional original plot that skillfully combines well-known themes of family, forgiveness, and love in a refreshing approach, Lilo &amp; Stitch possesses a range of other strengths that make it an enticing choice for audiences, regardless of their level of innocence or skepticism.	1
+95	Apart from its remarkable originality of plot, which cleverly unites common themes of family, forgiveness, and love in an innovative manner, Lilo &amp; Stitch offers various other merits that make it a highly recommended film for both innocent and jaded movie audiences.	1
+96	In addition to its remarkable originality of plot, ingeniously interweaving familiar themes of family, forgiveness, and love in a fresh and inventive way, Lilo &amp; Stitch possesses numerous other qualities that make it a compelling choice for moviegoers, whether they are experienced or naïve.	1
+97	Beyond its exceptional originality of plot, which ingeniously blends well-known themes of family, forgiveness, and love in a novel manner, Lilo &amp; Stitch boasts several other assets that make it highly commendable to both innocent and worldly movie audiences.	1
+98	Besides its impressive originality in terms of plot, seamlessly combining common themes of family, forgiveness, and love in an inventive fashion, Lilo &amp; Stitch possesses various other strengths that make it a compelling option for movie audiences, regardless of their level of innocence or weariness.	1
+99	Alongside its outstanding original plot, creatively merging familiar themes of family, forgiveness, and love in a fresh and distinctive way, Lilo &amp; Stitch offers a range of other qualities that make it a highly appealing film for audiences, whether they are innocent or skeptical.	1

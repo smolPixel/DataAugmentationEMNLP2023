@@ -1,0 +1,20 @@
+---
+dataset: FakeNews
+classifier: Bert
+computer: labo
+split: 1
+dataset_size: 2000
+algo: BART
+random_seed: 7
+selector: random
+max_seq_length: 0
+one_shot: False
+nb_epoch_classifier: 8
+meta_strategy: dummy
+
+batch_size_classifier: 32
+tokenizer: "tweetTokenizer"
+batch_size_algo: 16
+nb_epoch_algo: 4
+learning_rate: 0.0005
+batch_size_generation: 16

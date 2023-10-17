@@ -1,0 +1,101 @@
+	sentence	label
+0	When it comes to execution, this film is marked by a lack of attention and a lack of focus.	0
+1	In terms of how it was brought to life, this movie is characterized by negligence and a lack of direction.	0
+2	In terms of execution, this film is characterized by carelessness and a lack of clear direction.	0
+3	When it comes to its implementation, this movie lacks care and focus.	0
+4	The execution of this film is haphazard and lacking in focus.	0
+5	In terms of how it was carried out, this movie is characterized by a lack of precision and a lack of coherence.	0
+6	The execution of this film is marked by carelessness and a lack of concentration.	0
+7	When it comes to how it was executed, this movie lacks attention to detail and focus.	0
+8	In terms of execution, this film demonstrates carelessness and a lack of clear vision.	0
+9	The implementation of this movie is marked by a lack of care and a lack of focus.	0
+10	... an affected and ultimately hollow exploration of a disturbed and malevolent woman.	0
+11	... a pompous and ultimately vacuous study of a diseased and wicked woman.	0
+12	... an ostentatious and ultimately fruitless analysis of a deranged and malicious woman.	0
+13	... a self-important and ultimately void investigation into a twisted and nefarious woman.	0
+14	... a pretentious and ultimately meaningless scrutiny of an unhealthy and villainous woman.	0
+15	... an inflated and ultimately unsatisfying examination of a sickly and depraved woman.	0
+16	... a grandiose and ultimately hollow portrayal of a disturbed and wicked woman.	0
+17	... a self-important and ultimately insubstantial exploration of a diseased and malevolent woman.	0
+18	... an affected and ultimately pointless study of a deranged and evil woman.	0
+19	... a pompous and ultimately empty analysis of a twisted and malicious woman.	0
+20	To be honest, it's somewhat offensive, disregarding the dignity of both men and women.	0
+21	Honestly, it's quite disrespectful, undermining the worth of both men and women.	0
+22	In all honesty, it's rather insulting, showing little regard for the value of both men and women.	0
+23	To speak candidly, it's somewhat offensive, showing a lack of respect for both men and women.	0
+24	Frankly speaking, it's quite insulting, failing to recognize the worth of both men and women.	0
+25	To be blunt, it's rather offensive, disregarding the dignity and worth of both men and women.	0
+26	In plain terms, it's somewhat disrespectful, diminishing the value of both men and women.	0
+27	To put it frankly, it's quite insulting, failing to acknowledge the worth of both men and women.	0
+28	Honestly speaking, it's somewhat offensive, showing little regard for both men and women.	0
+29	To be direct, it's rather disrespectful, undermining the value and dignity of both men and women.	0
+30	A convoluted and unbearable mass of pseudo-philosophical nonsense.	0
+31	A dense and intolerable cluster of pseudo-intellectual gibberish.	0
+32	An incomprehensible and agonizing tangle of pseudo-philosophical drivel.	0
+33	A cryptic and unbearable heap of pseudo-philosophical babble.	0
+34	A perplexing and insufferable amalgamation of pseudo-intellectual jargon.	0
+35	A baffling and excruciating compilation of pseudo-philosophical rubbish.	0
+36	An impenetrable and agonizing mess of pseudo-intellectual twaddle.	0
+37	A mystifying and insufferable conglomeration of pseudo-philosophical nonsense.	0
+38	A labyrinthine and unbearable collection of pseudo-intellectual babble.	0
+39	An indecipherable and agonizing mass of pseudo-philosophical hogwash.	0
+40	Despite all the secretive shenanigans, the film is fundamentally devoid of substance.	0
+41	In spite of all the behind-the-scenes mischief, the movie lacks any real essence.	0
+42	Regardless of the clandestine hanky-panky, the film is ultimately devoid of juice.	0
+43	Despite the covert hanky-panky, the movie is essentially devoid of vitality.	0
+44	In spite of all the concealed naughtiness, the film is fundamentally lacking in flavor.	0
+45	Regardless of the behind-the-scenes antics, the movie is essentially dry and lifeless.	0
+46	Despite all the hidden mischief, the film lacks essential juiciness.	0
+47	In spite of all the secretive hanky-panky, the movie is essentially devoid of energy.	0
+48	Regardless of the closed-door misbehavior, the film lacks substantial substance.	0
+49	Despite all the covert antics, the movie is essentially insipid and lacks vigor.	0
+50	While the film's storyline may lack depth, the awe-inspiring surf shots offer an unparalleled glimpse into the profound.	1
+51	Although the film's narrative may be superficial, the breathtaking surf shots provide a unique perspective on the profound.	1
+52	While the film's plot may lack substance, the gripping surf shots showcase a level of depth you've never witnessed before.	1
+53	Despite the shallow nature of the film's plot, the harrowing surf shots offer an unprecedented glimpse into the profound.	1
+54	Even though the film's storyline may be superficial, the stunning surf shots reveal a depth like no other.	1
+55	While the film's plot may be lacking, the heart-stopping surf shots immerse you in an unparalleled sense of profundity.	1
+56	Despite the shallow narrative of the film, the powerful surf shots expose an unprecedented level of depth.	1
+57	Although the film's plot may lack substance, the mesmerizing surf shots provide an intense and profound experience.	1
+58	While the film's storyline may be shallow, the breathtaking surf shots offer an extraordinary encounter with the deep.	1
+59	Despite the superficial nature of the film's plot, the harrowing surf shots take you to unparalleled depths of awe.	1
+60	Despite its imperfections, Revolution #9 remains a captivating and intriguingly narrated film.	1
+61	Even with its shortcomings, Revolution #9 manages to be a compelling and engaging film.	1
+62	Despite its flaws, Revolution #9 stands out as a captivating film with an interesting storytelling approach.	1
+63	Despite its limitations, Revolution #9 is an enthralling and uniquely told film.	1
+64	Even with its drawbacks, Revolution #9 proves to be a compelling and thought-provoking film.	1
+65	Despite its faults, Revolution #9 captivates audiences with its intriguing narrative style.	1
+66	Even though it has its flaws, Revolution #9 remains an engaging and intriguingly presented film.	1
+67	Despite its imperfections, Revolution #9 manages to be a captivating and interesting film.	1
+68	Despite its weaknesses, Revolution #9 offers a compelling and distinct storytelling experience.	1
+69	Even with its limitations, Revolution #9 is a fascinating and compelling film.	1
+70	Wickedly humorous and acutely perceptive...	1
+71	Darkly comical and deeply insightful...	1
+72	Bitingly funny and intimately aware...	1
+73	Sarcastically humorous and intimately acquainted...	1
+74	Sardonically funny and intimately familiar...	1
+75	Ironic and intimately understanding...	1
+76	Satirically amusing and deeply knowledgeable...	1
+77	Dryly funny and intimately versed...	1
+78	Whimsically humorous and intimately attuned...	1
+79	Darkly comedic and deeply discerning...	1
+80	With its scorchingly impolite yet unnervingly hilarious nature, the film evokes a sorrowful sympathy for the destruction it portrays, and Kieran Culkin delivers a flawlessly accurate portrayal of Holden.	1
+81	The film is fiercely disrespectful, alarmingly humorous, and genuinely compassionate towards the devastation it examines, with Kieran Culkin's performance as Holden being pitch-perfect.	1
+82	With its searingly rude and frightfully funny approach, the film manages to evoke a sorrowful empathy for the consequences it explores, and Kieran Culkin portrays Holden flawlessly.	1
+83	The film is astonishingly impolite, hilariously unsettling, and deeply sympathetic to the damage it portrays, with Kieran Culkin impeccably embodying the character of Holden.	1
+84	With its blisteringly impolite and hilariously chilling tone, the film elicits a sorrowful understanding of the repercussions it presents, and Kieran Culkin's portrayal of Holden is pitch-perfect.	1
+85	The film's incisively rude and hauntingly funny demeanor brings a sorrowful sympathy towards the consequences it surveys, with Kieran Culkin delivering an impeccably accurate portrayal of Holden.	1
+86	Displaying a blisteringly impolite yet unnervingly humorous disposition, the film brings forth a sorrowful empathy for the damage it explores, and Kieran Culkin's depiction of Holden is pitch-perfect.	1
+87	The film's sharply disrespectful and frightfully funny nature evokes a sorrowful sympathy for the wreckage it observes, and Kieran Culkin delivers a pitch-perfect rendition of Holden.	1
+88	With its scathing rudeness and darkly funny elements, the film conveys a sorrowful compassion for the devastation it examines, and Kieran Culkin captures Holden flawlessly.	1
+89	The film is remarkably rude, strikingly funny, and deeply compassionate towards the consequences it observes, with Kieran Culkin's portrayal of Holden being flawlessly on point.	1
+90	"""Blue Crush"" takes home the prize for the sleeper hit of the summer."	1
+91	"""Blue Crush"" emerges as the surprise winner for the sleeper movie of the summer."	1
+92	"The sleeper movie of the summer award goes to ""Blue Crush."""	1
+93	"""Blue Crush"" swims to victory as the sleeper hit of the summer."	1
+94	"The accolade for the sleeper movie of the summer goes to ""Blue Crush."""	1
+95	"""Blue Crush"" claims the title of the sleeper hit of the summer."	1
+96	"""Blue Crush"" surges ahead as the recipient of the sleeper movie of the summer award."	1
+97	"The sleeper hit of the summer award is claimed by ""Blue Crush."""	1
+98	"""Blue Crush"" takes the crown as the sleeper movie of the summer."	1
+99	"The honors for the sleeper movie of the summer go to ""Blue Crush."""	1

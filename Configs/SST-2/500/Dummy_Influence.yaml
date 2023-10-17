@@ -1,0 +1,14 @@
+---
+dataset: SST2
+classifier: Linear
+computer: labo
+split: 0
+dataset_size: 0
+algo: dummy
+random_seed: 7
+selector: random
+max_seq_length: 0
+meta_strategy: influence
+one_shot: False
+nb_epoch_classifier: 4
+need_embedding: True

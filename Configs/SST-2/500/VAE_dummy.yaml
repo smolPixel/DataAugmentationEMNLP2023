@@ -1,0 +1,29 @@
+---
+dataset: SST2
+classifier: Bert
+computer: labo
+split: 1
+dataset_size: 500
+algo: VAE
+random_seed: 7
+selector: random
+max_seq_length: 20
+meta_strategy: dummy
+one_shot: False
+nb_epoch_classifier: 5 #6
+batch_size_classifier: 32
+
+tokenizer: "tweetTokenizer"
+
+hidden_size_algo: 512
+batch_size_algo: 64
+word_dropout: 0.4
+dropout_algo: 0.4
+latent_size: 50
+embeddings: None
+freeze_embeddings: False
+tie_embeddings: False
+tie_encoders: False
+nb_epoch_algo: 30
+x0: 15
+sampling_strategy: random

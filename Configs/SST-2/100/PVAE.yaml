@@ -1,0 +1,37 @@
+---
+dataset: SST2
+classifier: bert
+computer: labo
+split: 1
+dataset_size: 100
+algo: PVAE
+random_seed: 7
+selector: random
+max_seq_length: 64
+meta_strategy: dummy
+one_shot: False
+nb_epoch_classifier: 20
+batch_size_classifier: 32
+
+prob_reg: 0.5
+tokenizer: "mwordPiece" #"PtweetTokenizer"
+strat_pretraining: "autoencoder"
+language: 'en'
+
+nb_epoch_algo_pretraining: 10
+hidden_size_algo: 4096
+word_dropout: 0.6
+dropout_algo: 0.6
+latent_size: 512
+embeddings: None
+freeze_embeddings: False
+tie_embeddings: False
+tie_encoders: False
+nb_epoch_algo: 40
+x0: 20
+k: 1
+sampling_strategy: random
+
+testing_param: True
+
+fix_dataset: False

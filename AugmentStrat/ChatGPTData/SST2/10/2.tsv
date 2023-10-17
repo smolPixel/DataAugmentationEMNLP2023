@@ -1,0 +1,101 @@
+	sentence	label
+0	A devastating letdown.	0
+1	A profound disappointment.	0
+2	A crushing disillusionment.	0
+3	A shattering defeat.	0
+4	A heart-wrenching setback.	0
+5	A soul-crushing letdown.	0
+6	A bitter blow.	0
+7	A devastating blow to the hopes.	0
+8	A disheartening setback.	0
+9	A deeply disappointing experience.	0
+10	"""Astonishing"" doesn't even come close - nor does ""incompetent,"" ""incoherent,"" or ""just plain crap."""	0
+11	"""Astonishing"" is not the right term - neither is ""incompetent,"" ""incoherent,"" or ""plain garbage."""	0
+12	"""Astonishing"" is an inadequate description - as are ""incompetent,"" ""incoherent,"" and ""plain awful."""	0
+13	"""Astonishing"" is not an accurate word - nor are ""incompetent,"" ""incoherent,"" or ""simply terrible."""	0
+14	"""Astonishing"" falls short - just like ""incompetent,"" ""incoherent,"" or ""plain rubbish."""	0
+15	"""Astonishing"" isn't the correct term - neither is ""incompetent,"" ""incoherent,"" or ""just plain terrible."""	0
+16	"""Astonishing"" doesn't capture it - nor do ""incompetent,"" ""incoherent,"" or ""just plain awful."""	0
+17	"""Astonishing"" is not the appropriate word - nor are ""incompetent,"" ""incoherent,"" or ""just plain garbage."""	0
+18	"""Astonishing"" is an inadequate descriptor - as are ""incompetent,"" ""incoherent,"" and ""just plain rubbish."""	0
+19	"""Astonishing"" is not the right word - just like ""incompetent,"" ""incoherent,"" or ""plain terrible."""	0
+20	Major error.	0
+21	Huge blunder.	0
+22	Grave misstep.	0
+23	Serious miscalculation.	0
+24	Significant oversight.	0
+25	Colossal error.	0
+26	Critical mistake.	0
+27	Monumental slip-up.	0
+28	Major faux pas.	0
+29	Substantial misjudgment.	0
+30	A noisy, brainless disaster that lacks all the charm and most of the intrigue of the TV series.	0
+31	A cacophonous, mindless debacle that fails to capture the charm and intrigue of the TV series.	0
+32	An obnoxious, senseless jumble that completely misses the charm and only slightly captures the intrigue of the TV series.	0
+33	A boisterous, unintelligent chaos that lacks any of the series' charm and offers little intrigue.	0
+34	A raucous, foolish disaster that lacks the series' charm and only provides a fraction of its intrigue.	0
+35	A clamorous, dull mess that completely disregards the charm and barely manages to evoke the intrigue of the TV series.	0
+36	A noisy, witless catastrophe that falls short of the series' charm and barely scratches the surface of its intrigue.	0
+37	An uproarious, mindless trainwreck that lacks the endearing qualities of the series and offers minimal intrigue.	0
+38	A raucous, senseless debacle that fails to capture the series' charm and barely provides any intrigue.	0
+39	A clamorous, witless mess that utterly lacks the charm of the TV series and offers only fleeting moments of intrigue.	0
+40	About as groundbreaking and perceptive as last week's episode of Behind the Music.	0
+41	Equally unoriginal and lacking in depth, just like last week's episode of Behind the Music.	0
+42	Not much more original or insightful than last week's episode of Behind the Music.	0
+43	On par with the lack of originality and insightfulness displayed in last week's episode of Behind the Music.	0
+44	Just as unoriginal and devoid of insight as last week's episode of Behind the Music.	0
+45	Offers no more originality or insight than last week's episode of Behind the Music.	0
+46	Falls just as short in terms of originality and insightfulness as last week's episode of Behind the Music.	0
+47	Not any more original or insightful than last week's episode of Behind the Music.	0
+48	Shows a similar lack of originality and depth as last week's episode of Behind the Music.	0
+49	Brings nothing new or insightful to the table, much like last week's episode of Behind the Music.	0
+50	Pacino delivers his finest performance in years, and Keener shines brilliantly.	1
+51	Pacino is at the top of his game after many years, and Keener's performance is exceptional.	1
+52	Pacino's acting reaches new heights, surpassing his recent years, while Keener delivers a marvelous performance.	1
+53	Pacino showcases his best work in years, and Keener's portrayal is simply marvelous.	1
+54	Pacino's performance is a standout, surpassing his recent years, and Keener's acting is truly marvelous.	1
+55	Pacino gives his most outstanding performance in years, and Keener's acting is nothing short of marvelous.	1
+56	Pacino delivers a career-defining performance, surpassing his recent years, while Keener's portrayal is marvelous.	1
+57	Pacino's performance is exceptional, marking a return to his best form in years, and Keener is truly marvelous.	1
+58	Pacino's acting is remarkable, showcasing his best work in years, and Keener's performance is simply marvelous.	1
+59	Pacino delivers a tour de force performance, exceeding his recent years, and Keener's acting is truly marvelous.	1
+60	Spielberg's inaugural true masterpiece, it rightfully earned all the admiration it received -- and continues to receive even 20 years later.	1
+61	Spielberg's initial true triumph, it fully deserved all the accolades it garnered -- and continues to captivate audiences two decades later.	1
+62	A genuine masterpiece by Spielberg, it earned every bit of praise it received -- and continues to enthrall viewers even after 20 years.	1
+63	Spielberg's initial true work of genius, it merited all the acclaim it achieved -- and continues to resonate with audiences to this day, two decades later.	1
+64	A true masterpiece from Spielberg, it unquestionably earned all the adoration it attained -- and still garners, even 20 years down the line.	1
+65	Spielberg's earliest true gem, it rightfully received all the recognition it gained -- and continues to be revered even two decades later.	1
+66	A bona fide masterpiece by Spielberg, it was completely deserving of all the love it received -- and continues to evoke, even after 20 years.	1
+67	Spielberg's first true stroke of brilliance, it undeniably warranted all the praise it garnered -- and continues to captivate audiences two decades later.	1
+68	A genuine masterpiece by Spielberg, it absolutely earned all the admiration it received -- and continues to hold its place in hearts, even after 20 years.	1
+69	Spielberg's inaugural true triumph, it rightfully earned all the hearts it won -- and still wins, even after two decades have passed.	1
+70	Intense, piercing, and etched in the memory.	1
+71	Ferocious, glaring, and leaving an indelible mark.	1
+72	Powerful, piercing, and impossible to forget.	1
+73	Bold, intense, and leaving an enduring impression.	1
+74	Strong, glaring, and etched deeply into the mind.	1
+75	Formidable, piercing, and impossible to erase from memory.	1
+76	Vigorous, glaring, and leaving an unforgettable impact.	1
+77	Intense, striking, and etching itself into the consciousness.	1
+78	Resolute, piercing, and creating an indelible memory.	1
+79	Unyielding, glaring, and impossible to shake from memory.	1
+80	The outcome is moderately gratifying -- after all, it bears Spielberg's signature, as he has never produced anything that wasn't at least worth watching.	1
+81	The final product is somewhat fulfilling, as expected from Spielberg, who has consistently delivered films that are, at the very least, enjoyable to watch.	1
+82	The end result is reasonably satisfying, which is not surprising considering it is Spielberg's work, as he has never failed to produce films that are at least watchable.	1
+83	The outcome is somewhat pleasing, as one would expect from Spielberg, who has always crafted films that are, at the very least, worthy of viewing.	1
+84	The result is somewhat gratifying, given that it is Spielberg's creation, and he has yet to produce something that wasn't, at the very least, watchable.	1
+85	The final outcome is somewhat fulfilling, as Spielberg's track record demonstrates his ability to consistently deliver films that are, at minimum, worth watching.	1
+86	The end result is moderately satisfying, but it still bears Spielberg's touch, and he has never created anything that wasn't, at the very least, watchable.	1
+87	The outcome is somewhat rewarding, which is to be expected from Spielberg, as he has never failed to create films that are, at minimum, worth viewing.	1
+88	The result is moderately pleasing, considering it is a Spielberg film, and he has always managed to produce works that are, at the very least, watchable.	1
+89	The final product is somewhat gratifying, as Spielberg's reputation ensures that it will, at minimum, be a film worth watching.	1
+90	"Nicks refuses to classify ""Slackers"" as merely another run-of-the-mill teen film, although he occasionally succumbs to the expectations of fans of crude humor."	1
+91	"Nicks adamantly avoids categorizing ""Slackers"" as a typical teen movie, even if he occasionally indulges fans of raunchy comedy."	1
+92	"Nicks is determined to break the mold of generic teen films with ""Slackers,"" although he does cater to fans of crude humor on occasion."	1
+93	"Nicks is committed to differentiating ""Slackers"" from typical teen movies, even if he occasionally panders to fans of gross-out comedy."	1
+94	"Nicks is steadfast in his refusal to treat ""Slackers"" as just another generic teen film, even though he occasionally panders to fans of crude humor."	1
+95	"Nicks remains determined to set ""Slackers"" apart from other teen movies, even if he occasionally succumbs to pandering to fans of gross-out comedy."	1
+96	"Nicks makes a deliberate effort to defy the conventions of typical teen films with ""Slackers,"" although he does cater to fans of crude humor from time to time."	1
+97	"Nicks is unyielding in his refusal to let ""Slackers"" be perceived as a typical teen movie, even if he occasionally indulges fans of raunchy comedy."	1
+98	"Nicks is resolute in his quest to differentiate ""Slackers"" from other teen movies, although he does pander to fans of gross-out comedy periodically."	1
+99	"Nicks is unwavering in his refusal to conform to the norms of typical teen films with ""Slackers,"" even if he occasionally panders to fans of crude humor."	1

@@ -1,0 +1,13 @@
+---
+dataset: SST2
+classifier: Bert
+computer: labo
+split: 1
+dataset_size: 100
+algo: T5VAE
+random_seed: 7
+selector: random
+max_seq_length: 0
+meta_strategy: dummy
+one_shot: False
+nb_epoch_classifier: 8

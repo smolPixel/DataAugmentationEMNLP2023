@@ -1,0 +1,101 @@
+	sentence	label
+0	A disconcerting blend of ordinary crude humor and seemingly heartfelt introspection.	0
+1	A perplexing combination of typical raunchy jokes and what appears to be genuine self-examination.	0
+2	A conflicting fusion of commonplace lewd humor and what seems like earnest personal contemplation.	0
+3	An awkward amalgamation of conventional crude comedy and what appears to be sincere introspection.	0
+4	A strange juxtaposition of standard raunchy humor and what seems to be genuine self-reflection.	0
+5	A puzzling merger of run-of-the-mill crude jokes and seemingly heartfelt introspection.	0
+6	A discordant mix of ordinary raunchy humor and what appears to be sincere personal contemplation.	0
+7	An uneasy integration of typical crude humor and seemingly genuine self-examination.	0
+8	A conflicting medley of commonplace raunchy jokes and what seems like earnest personal reflection.	0
+9	A perplexing combination of conventional crude comedy and what appears to be sincere introspection.	0
+10	The cinematic adaptation of Scooby-Doo renders the original silly cartoon series to be intelligent and masterfully crafted in contrast.	0
+11	The live-action Scooby-Doo film makes the original cartoon appear clever and meticulously crafted by comparison.	0
+12	The big-screen version of Scooby-Doo diminishes the original silly cartoon's intelligence and craftsmanship.	0
+13	The theatrical Scooby-Doo adaptation accentuates the wit and artistry of the original cartoon.	0
+14	In comparison to the big-screen Scooby-Doo, the original cartoon series appears astute and skillfully produced.	0
+15	The film adaptation of Scooby-Doo pales in comparison to the smart and well-crafted original cartoon.	0
+16	The big-screen incarnation of Scooby-Doo belittles the intelligence and craftsmanship displayed in the original cartoon.	0
+17	Compared to the cinematic Scooby-Doo, the original silly cartoon appears smartly devised and expertly crafted.	0
+18	The live-action adaptation of Scooby-Doo diminishes the brilliance and careful construction of the original cartoon.	0
+19	The big-screen rendition of Scooby-Doo falls short in intellect and craftsmanship when juxtaposed with the original cartoon.	0
+20	Moreover, it lacks humor, which is generally offensive.	0
+21	Additionally, it fails to deliver laughs, which is universally disrespectful.	0
+22	Furthermore, its comedic value is lacking, which is inherently insulting.	0
+23	Moreover, it lacks the necessary funny elements, which is generally offensive.	0
+24	Additionally, its humor falls flat, which is just overall insulting.	0
+25	Furthermore, it fails to elicit laughter, which is universally disrespectful.	0
+26	Moreover, its comedic aspects are lacking, which is inherently insulting.	0
+27	Additionally, it doesn't bring the expected laughs, which is generally offensive.	0
+28	Furthermore, its attempts at humor fall short, which is just generally insulting.	0
+29	Moreover, its lack of comedic prowess is disappointing, which is universally disrespectful.	0
+30	This is predictable nonsense designed to target parents' wallets.	0
+31	This is formulaic rubbish intended to tap into mom and dad's finances.	0
+32	This is cliché garbage crafted to extract money from mom and dad's pockets.	0
+33	This is routine drivel created to cater to the financial interests of mom and dad.	0
+34	This is uninspired nonsense aimed at exploiting mom and dad's bank accounts.	0
+35	This is mundane rubbish tailored to drain mom and dad's wallets.	0
+36	This is unoriginal drivel targeted at milking money from mom and dad.	0
+37	This is trite garbage crafted to capitalize on mom and dad's finances.	0
+38	This is conventional nonsense designed to siphon funds from mom and dad.	0
+39	This is monotonous drivel aimed at profiting from mom and dad's wallets.	0
+40	This story has been narrated and recounted numerous times; the competitions and schemes may vary, but the core remains unchanged.	0
+41	This narrative has been repeated and revisited; the contests and schemes may alter, but the melody remains constant.	0
+42	This tale has been echoed and reiterated; the races and schemes may shift, but the tune remains unaltered.	0
+43	This story has been restated and rehashed; the competitions and plots may transform, but the refrain remains constant.	0
+44	This narrative has been replicated and reimagined; the races and scams may differ, but the chorus remains unchanging.	0
+45	This tale has been reiterated and reenacted; the contests and deceptions may vary, but the underlying theme remains the same.	0
+46	This story has been retold and reinterpreted; the races and schemes may change, but the essence remains consistent.	0
+47	This narrative has been rehashed and reproduced; the competitions and rackets may shift, but the fundamental message remains unchanged.	0
+48	This tale has been repeated and recreated; the races and plots may alter, but the song persists unchanged.	0
+49	This story has been recounted and replicated; the contests and schemes may vary, but the central theme remains unaltered.	0
+50	A heartfelt and poignant depiction of an American individual, and a nation constantly striving for an elusive goal.	1
+51	A tender and evocative portrayal of an American figure and a country perpetually aspiring to attain something slightly beyond its reach.	1
+52	A sympathetic and touching representation of an American persona and a nation forever yearning for something just beyond its grasp.	1
+53	A compassionate and emotionally stirring depiction of an American individual and a country persistently reaching for a goal slightly out of reach.	1
+54	A sensitive and powerful portrait of an American - both the person and the nation - in a perpetual pursuit of something just beyond their grasp.	1
+55	An empathetic and stirring portrayal of an American character and a country that is always striving for something slightly out of its reach.	1
+56	A moving and heartfelt depiction of an American persona and a nation continually stretching for something just beyond its grasp.	1
+57	A compassionate and resonant portrayal of an American - both individually and collectively - consistently reaching for an unattainable goal.	1
+58	A touching and thought-provoking representation of an American figure and a nation ceaselessly aspiring to achieve something slightly beyond its grasp.	1
+59	A deeply empathetic and poignant portrayal of an American individual and a country forever chasing after something just outside its reach.	1
+60	"""Mr. Deeds"" is a fitting choice for summer entertainment, providing an escape without demanding significant intellectual engagement."	1
+61	"""Mr. Deeds"" offers suitable summer amusement, allowing for an escape without the need for excessive mental effort."	1
+62	"The film ""Mr. Deeds"" serves as appropriate summer entertainment, providing an escape that doesn't demand deep contemplation."	1
+63	"""Mr. Deeds"" is a suitable option for summer enjoyment, offering an escape without the need for extensive intellectual analysis."	1
+64	"The movie ""Mr. Deeds"" is a fitting choice for summer entertainment, allowing for an escape without requiring intense cognitive involvement."	1
+65	"""Mr. Deeds"" provides suitable summer amusement, offering escapism without necessitating profound thinking."	1
+66	"The film ""Mr. Deeds"" is appropriate for summer entertainment, providing an escape that doesn't demand significant mental exertion."	1
+67	"""Mr. Deeds"" offers enjoyable summer diversion, allowing for escapism without the requirement for extensive thought."	1
+68	"The movie ""Mr. Deeds"" is suitable for summer entertainment, offering an escape without the need for deep contemplation."	1
+69	"""Mr. Deeds"" provides fitting summer amusement, allowing for an escape without requiring excessive intellectual reflection."	1
+70	This profoundly spiritual movie delves into the significance and solace found in communication with the afterlife.	1
+71	The film explores the deep spirituality of afterlife communications, delving into their meaning and offering solace.	1
+72	This spiritually profound film delves into the depth and solace found in connecting with the afterlife.	1
+73	The movie taps into the spiritual realm, exploring the meaning and comfort derived from communicating with the afterlife.	1
+74	This film delves into the profound spirituality of afterlife communications, uncovering their meaning and offering consolation.	1
+75	The movie explores the spiritual aspects of afterlife communication, delving into its meaning and providing solace.	1
+76	This deeply spiritual film unravels the significance and comfort found in communicating with the afterlife.	1
+77	The movie delves into the spiritual realm, exploring the meaning and solace derived from afterlife communications.	1
+78	This film connects to the depths of spirituality, unraveling the meaning and solace of afterlife communications.	1
+79	The movie taps into the profound spiritual aspects of afterlife communication, uncovering their significance and offering consolation.	1
+80	Caine compels us to witness his character's journey of realization, as he discovers that being human inevitably entails making choices.	1
+81	Caine captivates our attention as his character undergoes an awakening, recognizing that part of the human experience involves the necessity of making choices.	1
+82	Caine compels us to observe as his character becomes aware that being human ultimately entails the responsibility of making decisions.	1
+83	Caine engages us in watching his character's evolution, as he comes to understand that being human means inevitably facing the need to make choices.	1
+84	Caine captivates us by portraying his character's realization that being human ultimately requires embracing the power and responsibility of making choices.	1
+85	Caine immerses us in his character's journey of self-discovery, as he grapples with the understanding that being human entails the essential act of making choices.	1
+86	Caine commands our attention as his character awakens to the profound realization that part of the human condition involves making decisions.	1
+87	Caine enthralls us with his portrayal of a character who gradually comes to terms with the notion that to be human is to confront the necessity of making choices.	1
+88	Caine draws us in as his character undergoes a transformation, discovering that being human entails the inevitable task of making choices.	1
+89	Caine mesmerizes us by portraying his character's awakening to the truth that to be human means embracing the inherent need to make choices.	1
+90	A highly entertaining and exhilarating documentary that brings immense enjoyment.	1
+91	An incredibly pleasurable and adrenaline-pumping documentary experience.	1
+92	An immensely satisfying and adrenaline-fueled documentary that is truly enjoyable.	1
+93	A greatly enjoyable and pulse-pounding documentary that leaves you exhilarated.	1
+94	An immensely entertaining and adrenaline-charged documentary that provides great enjoyment.	1
+95	A highly enjoyable and heart-racing documentary that keeps you on the edge of your seat.	1
+96	An immensely pleasurable and high-energy documentary that delivers non-stop enjoyment.	1
+97	A tremendously enjoyable and adrenaline-fueled documentary that keeps you hooked.	1
+98	A highly satisfying and thrilling documentary that provides enormous enjoyment.	1
+99	An incredibly enjoyable and action-packed documentary that offers a high-adrenaline experience.	1

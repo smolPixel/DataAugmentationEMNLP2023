@@ -1,0 +1,10 @@
+venv
+.idea/
+AugmentStrat/__pycache__
+__pycache__/
+Models/
+data/Optimus
+lightning_logs/
+data/pretraining
+Figs_Languages/reader/credentials.json
+Figs_Languages/reader/token.json

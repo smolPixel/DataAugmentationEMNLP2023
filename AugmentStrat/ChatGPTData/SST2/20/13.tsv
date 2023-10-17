@@ -1,0 +1,201 @@
+	sentence	label
+0	The final judgment: two characters, and barely a single moment of humor shared.	0
+1	In summary: two individuals, but a noticeable absence of comedic moments between them.	0
+2	The conclusion is clear: two bodies, with a notable lack of laughter in their interactions.	0
+3	The decision is rendered: two figures, and hardly any laughter exchanged between them.	0
+4	The overall assessment: two individuals present, but devoid of any substantial humor.	0
+5	The ruling is made: two bodies, with hardly any comedic chemistry present.	0
+6	The outcome is evident: two characters, and a surprising scarcity of laughter shared.	0
+7	The final determination: two individuals, and an apparent dearth of comedic exchanges.	0
+8	The verdict is reached: two bodies, and a notable absence of laughs exchanged.	0
+9	The final analysis: two characters, with minimal comedic rapport observed.	0
+10	Woody, can you explain what went wrong?	0
+11	Woody, can you shed some light on what occurred?	0
+12	Woody, can you give us an account of what transpired?	0
+13	Woody, can you clarify what took place?	0
+14	Woody, can you fill us in on what happened?	0
+15	Woody, can you provide some insight into the situation?	0
+16	Woody, can you offer an explanation for what occurred?	0
+17	Woody, can you help us understand what happened?	0
+18	Woody, can you give us a rundown of the events?	0
+19	Woody, can you give us your side of the story?	0
+20	Absolutely not.	0
+21	The answer is negative.	0
+22	That is a firm denial.	0
+23	I'm afraid not.	0
+24	Nope.	0
+25	Not at all.	0
+26	No way.	0
+27	That's not happening.	0
+28	Negative response.	0
+29	The answer is no.	0
+30	While the main narrative is sufficiently gripping, it's challenging to overlook the irritation caused by that talkative fish.	0
+31	The central plot is engaging, but it's hard to ignore the annoyance caused by the excessively chatty fish.	0
+32	Although the primary storyline is captivating, it's challenging to shake off the irritation caused by the incessantly talkative fish.	0
+33	The main story holds enough interest, but it's difficult to disregard the annoyance brought on by the loquacious fish.	0
+34	While the central narrative is compelling, it's hard to shake off the irritation caused by the overly talkative fish.	0
+35	The primary plot is sufficiently gripping, but the constant chatter of the fish is an annoying distraction that's hard to overlook.	0
+36	Despite the captivating nature of the main story, the incessantly chatty fish creates a persistent annoyance that's hard to shrug off.	0
+37	The main storyline manages to captivate, but the incessant babbling of the fish is a bothersome aspect that's challenging to dismiss.	0
+38	The primary narrative is compelling enough, but the annoyance caused by the talkative fish is difficult to ignore.	0
+39	Although the main story holds interest, it's hard to shrug off the irritation brought about by the incessantly chatty fish.	0
+40	"What's lacking is the element that we commonly refer to as the ""wow"" factor."	0
+41	"The absence of the ""wow"" factor is noticeable."	0
+42	What's not present is the factor that typically elicits a sense of awe or amazement.	0
+43	"The missing component is what we often describe as the ""wow"" factor."	0
+44	"What is lacking is the ability to generate that remarkable and awe-inspiring impression, commonly known as the ""wow"" factor."	0
+45	"The element that is noticeably absent is the one that typically leaves a lasting ""wow"" impression."	0
+46	"What's absent is the aspect that would typically evoke a sense of wonder or astonishment, commonly referred to as the ""wow"" factor."	0
+47	"The missing ingredient is the one that would typically create a remarkable or breathtaking effect, commonly called the ""wow"" factor."	0
+48	"What's not there is the characteristic that would typically generate an extraordinary or impressive response, often termed the ""wow"" factor."	0
+49	"The lacking element is what we usually describe as the ""wow"" factor, which would create a remarkable or unforgettable impression."	0
+50	Without any hint of self-awareness, Crane transforms into a mere object of study rather than a fully developed character, making Auto Focus feel like a detached and analytical scientific report.	0
+51	Completely oblivious to his own nature, Crane loses his individuality and becomes more like an object of examination rather than a complex character, resulting in Auto Focus feeling distant and clinically detached.	0
+52	Lacking any semblance of self-reflection, Crane loses his identity and is reduced to a mere specimen, turning Auto Focus into a cold and impersonal scientific analysis.	0
+53	Devoid of any self-awareness, Crane loses his humanity and is reduced to an object of scrutiny, resulting in Auto Focus feeling like a detached and sterile scientific observation.	0
+54	With no trace of self-knowledge, Crane transforms into a specimen to be studied rather than a fully fleshed-out character, rendering Auto Focus a clinical and detached laboratory report.	0
+55	Completely unaware of himself, Crane loses his individuality and becomes more like a scientific specimen than a fully realized character, leaving Auto Focus feeling clinical and detached.	0
+56	Without any glimmer of self-awareness, Crane turns into an object of examination rather than a multi-dimensional character, resulting in Auto Focus coming across as a cold and impersonal scientific analysis.	0
+57	Absent any self-understanding, Crane becomes a specimen devoid of personality rather than a fully developed character, giving Auto Focus the quality of a distant and dispassionate lab report.	0
+58	With a complete absence of self-knowledge, Crane becomes more of a subject to be studied than a nuanced character, causing Auto Focus to take on a cold and detached tone akin to a clinical lab report.	0
+59	Lacking any semblance of self-awareness, Crane loses his humanity and becomes a mere subject of analysis, leading Auto Focus to read like a clinical and sterile scientific observation.	0
+60	An exercise in nostalgia that feels quite worn-out.	0
+61	A nostalgic endeavor that comes across as rather weary.	0
+62	A tired attempt to evoke nostalgia.	0
+63	A worn-out portrayal of nostalgia.	0
+64	An exercise in reminiscence that lacks energy.	0
+65	A nostalgic experience that feels drained and exhausted.	0
+66	A weary attempt to capture the essence of nostalgia.	0
+67	A tired iteration of nostalgia that fails to spark excitement.	0
+68	An exhausted exploration of the past.	0
+69	A fatigued portrayal of nostalgia that lacks freshness.	0
+70	The sole enjoyable aspect of the film is engaging in the predictable game it presents.	0
+71	The only entertaining element of the movie is participating in the evident game it offers.	0
+72	The film's only source of amusement comes from playing the overt game it presents.	0
+73	The solely enjoyable part of the movie is engaging with the obvious game it presents.	0
+74	The single fun aspect of the film is participating in the evident game it offers.	0
+75	The only source of enjoyment in the movie comes from playing the predictable game.	0
+76	The sole entertaining element of the film is engaging in the obvious game it presents.	0
+77	The only fun part of the movie is participating in the evident game it offers.	0
+78	The film's only enjoyable aspect comes from playing the predictable game it presents.	0
+79	The only source of amusement in the movie is engaging with the evident game it offers.	0
+80	In this movie, the most prominent realization is how much time has passed while you've remained immobile.	0
+81	This film makes you acutely aware of the significant amount of time you've spent seated.	0
+82	The most notable observation in this movie is the considerable length of time you've been sitting without much happening.	0
+83	This movie's most remarkable observation is the extended period of stillness that you've endured.	0
+84	The most noteworthy observation in this film is the considerable duration you've spent without much action or movement.	0
+85	This movie's most significant observation is the realization of how much time you've been sitting idle.	0
+86	In this film, the most striking observation is the recognition of the extensive period of time you've spent motionless.	0
+87	The most notable realization in this movie is the awareness of the extended duration during which you've remained seated.	0
+88	This film's most striking observation is the amount of time you've spent sitting with minimal activity.	0
+89	The most noteworthy aspect of this movie is the realization of the considerable amount of time you've spent in stillness.	0
+90	It begins with an unpromising concept, meanders aimlessly through a dull and plotless stretch, and concludes with a lackluster ending.	0
+91	The movie starts with an unfavorable premise, wanders through a monotonous and plot-deficient journey, and concludes with a feeble conclusion.	0
+92	It commences with an unfortunate premise, plods through a monotonous stretch of plotless wanderings, and concludes with a disappointing whimper.	0
+93	The film starts with a discouraging premise, meanders through a tedious plotless section, and ends with a lackluster whimper.	0
+94	It kicks off with an unpromising idea, trudges through a dreary and aimless plot, and eventually fizzles out with a whimper.	0
+95	The movie begins with an inauspicious premise, meanders through a dull and plot-deprived stretch, and wraps up with a weak conclusion.	0
+96	It starts with an unfavorable premise, drifts through a dreary expanse of plotless wanderings, and concludes with a whimper.	0
+97	The film commences with an unpromising concept, meanders through a tedious and plot-deficient narrative, and concludes with a disappointing whimper.	0
+98	It begins with a lackluster premise, meanders through a dreary and plotless trajectory, and ends with a feeble whimper.	0
+99	The movie starts with an inauspicious idea, mopes through a tedious and plot-deficient passage, and ultimately ends with a lackluster whimper.	0
+100	A captivating narrative that seamlessly blends psychological depth, sociological contemplation, and thrilling intensity.	1
+101	An absorbing tale that intertwines psychological intrigue, sociological introspection, and pulse-pounding thrills.	1
+102	A gripping story that masterfully weaves together elements of psychological drama, sociological examination, and heart-racing suspense.	1
+103	A mesmerizing narrative that skillfully combines psychological tension, sociological analysis, and adrenaline-pumping excitement.	1
+104	An immersive tale that skillfully melds psychological depth, sociological reflection, and electrifying thrills.	1
+105	A compelling story that artfully integrates psychological drama, sociological contemplation, and gripping suspense.	1
+106	An enthralling narrative that seamlessly merges psychological intricacy, sociological observation, and high-octane excitement.	1
+107	A captivating tale that harmoniously blends psychological intensity, sociological examination, and exhilarating suspense.	1
+108	An absorbing story that harmoniously fuses psychological depth, sociological reflection, and heart-pounding thrills.	1
+109	A riveting narrative that expertly combines psychological drama, sociological reflection, and pulse-racing excitement.	1
+110	A daring film that, similar to Shiner's arrangement of the major fight, successfully achieves a sufficient number of its intended effects to compensate for those that fall short.	1
+111	An audacious movie that, much like Shiner's orchestration of the significant fight, manages to accomplish enough of its objectives to compensate for the ones that fall flat.	1
+112	An ambitious film that, akin to Shiner's coordination of the major bout, successfully executes a significant portion of its intended effects, making up for the ones that miss the mark.	1
+113	A bold movie that, like Shiner's arrangement of the important fight, successfully achieves a satisfactory number of its desired effects, offsetting the ones that fail.	1
+114	A venturesome film that, reminiscent of Shiner's organization of the pivotal fight, effectively accomplishes a considerable portion of its desired effects, compensating for the ones that fall through.	1
+115	An ambitious movie that, just like Shiner's arrangement of the crucial fight, manages to deliver enough of its intended effects to compensate for the ones that don't quite hit the mark.	1
+116	A daring film that, in a manner similar to Shiner's coordination of the significant fight, skillfully accomplishes a sufficient number of its desired effects, making up for the ones that miss the target.	1
+117	An audacious movie that, like Shiner's orchestration of the major bout, successfully achieves a significant portion of its intended effects, compensating for the ones that fall short.	1
+118	An ambitious film that, akin to Shiner's coordination of the major fight, effectively executes enough of its desired effects to make up for the ones that don't quite pan out.	1
+119	A bold movie that, similar to Shiner's arrangement of the important fight, successfully achieves a satisfactory number of its intended effects, offsetting the ones that don't quite succeed.	1
+120	Alice's journey from the looking glass to zombie-land is populated by bizarre and marvelous beings.	1
+121	In Alice's escapade through the looking glass and into zombie-land, she encounters a plethora of extraordinary and enchanting creatures.	1
+122	The expedition of Alice through the looking glass and into zombie-land is teeming with peculiar and marvelous creatures.	1
+123	Alice's exploration from the looking glass into zombie-land is brimming with fantastical and captivating beings.	1
+124	In Alice's odyssey through the looking glass and into zombie-land, she encounters a myriad of peculiar and wondrous creatures.	1
+125	The venture of Alice from the looking glass to zombie-land is replete with strange and delightful entities.	1
+126	Alice's adventure as she travels through the looking glass and into zombie-land is populated by peculiar and fascinating creatures.	1
+127	In Alice's quest from the looking glass to zombie-land, she encounters an array of extraordinary and captivating creatures.	1
+128	The escapade of Alice through the looking glass and into zombie-land is filled with curious and enchanting beings.	1
+129	Alice's expedition from the looking glass into zombie-land is enriched by a multitude of strange and marvelous creatures.	1
+130	An uncommon IMAX film that will leave you wanting it to last longer than its mere one-hour runtime.	1
+131	A seldom-seen IMAX movie that will make you yearn for it to extend beyond its hour-long duration.	1
+132	A rare gem of an IMAX film that will leave you desiring a runtime longer than its concise one hour.	1
+133	An exceptional IMAX movie that will make you wish it had a duration exceeding just one hour.	1
+134	A unique IMAX film that will have you wishing it could last longer than its brief hour-long span.	1
+135	An extraordinary IMAX movie that will leave you longing for it to continue well beyond its one-hour length.	1
+136	A distinctive IMAX film that will make you wish it could go on for more than just an hour.	1
+137	A remarkable IMAX movie that will leave you yearning for a runtime that surpasses its hour-long limit.	1
+138	An outstanding IMAX film that will make you wish its duration was longer than a mere hour.	1
+139	A one-of-a-kind IMAX movie that will have you wanting it to exceed its hour-long running time.	1
+140	Your kids will be entertained for a duration of 72 minutes.	1
+141	Your children will have 72 minutes of activities to keep them engaged.	1
+142	For a span of 72 minutes, your kids will have something to occupy their time.	1
+143	You can expect your children to be occupied for a total of 72 minutes.	1
+144	Your kids will have a 72-minute window of entertainment.	1
+145	For a period of 72 minutes, your children will be engaged in activities.	1
+146	You can count on your children being occupied for 72 minutes.	1
+147	Your kids will have 72 minutes of entertainment to keep them busy.	1
+148	Your children will have a 72-minute duration of engagement.	1
+149	For 72 minutes, your kids will have something to keep them occupied.	1
+150	Moore, at the very least, possesses a genuine charm.	1
+151	One can't deny that Moore is undeniably charming.	1
+152	Moore, if nothing else, exudes a captivating charm.	1
+153	At the very minimum, Moore is truly charming.	1
+154	It is worth acknowledging that Moore is an absolute charmer.	1
+155	Moore, at least, has a captivating and appealing demeanor.	1
+156	Even if nothing else, Moore's charm is undeniable.	1
+157	It's hard to argue that Moore isn't a genuine charmer.	1
+158	At the very least, Moore possesses an undeniable charm.	1
+159	Moore, if nothing else, has a truly enchanting presence.	1
+160	If for nothing else, watch it solely for his exceptional performance.	1
+161	Even if you overlook everything else, see it just for his outstanding portrayal.	1
+162	If there's nothing else that interests you, watch it purely for his remarkable performance.	1
+163	Regardless of anything else, see it for the sole reason of witnessing his incredible performance.	1
+164	If there's nothing else that catches your attention, see it solely for the brilliance of his performance.	1
+165	Even if nothing else stands out, watch it purely for his mesmerizing performance.	1
+166	If there's nothing else that grabs your interest, see it exclusively for his captivating performance.	1
+167	Regardless of any other factors, watch it for the sole purpose of experiencing his exceptional performance.	1
+168	Even if you disregard everything else, see it specifically for his outstanding performance.	1
+169	If there's nothing else that entices you, watch it solely for the brilliance of his portrayal.	1
+170	Undoubtedly peculiar, but it's the kind of oddity that might leave you with a sense of fondness rather than disgust.	1
+171	Certainly an eccentricity, yet one that may leave a lasting impression with a touch of endearment instead of repulsion.	1
+172	A definite anomaly, but it's the sort of peculiarity that could be remembered with a certain fondness rather than repugnance.	1
+173	Without a doubt an oddity, but it's possible that it could be recalled with a degree of affection rather than disgust.	1
+174	Undeniably strange, yet it's the type of oddity that may leave a lasting memory tinged with affection instead of revulsion.	1
+175	Truly peculiar, but it's an oddity that might just be remembered with a touch of warmth instead of revulsion.	1
+176	Unquestionably an aberration, yet it's the kind of oddity that might leave you with a sense of endearment rather than repulsion.	1
+177	An unquestionable oddity, but one that might find a place in your memory with a degree of affection instead of revulsion.	1
+178	Certainly an anomaly, yet it's the sort of peculiarity that could be remembered with a hint of fondness rather than repugnance.	1
+179	Without a doubt a peculiar occurrence, but it's possible that it could be recalled with a touch of warmth rather than disgust.	1
+180	Provides a fascinating perspective on the dynamic transformation of Beijing's landscape.	1
+181	Presents an intriguing exploration of the evolving appearance of Beijing.	1
+182	Gives an engaging glimpse into the fast-paced changes occurring in Beijing.	1
+183	Delivers an interesting portrayal of the swiftly shifting visage of Beijing.	1
+184	Showcases a compelling view of the ever-changing face of Beijing.	1
+185	Offers an intriguing examination of the rapidly evolving appearance of Beijing.	1
+186	Provides an interesting perspective on the dynamic transformation of Beijing's cityscape.	1
+187	Gives a captivating insight into the quickly changing face of Beijing.	1
+188	Presents an engaging depiction of the rapidly shifting appearance of Beijing.	1
+189	Offers an intriguing look into the evolving landscape of Beijing.	1
+190	It will fill your heart with warmth, free from any sense of guilt.	1
+191	It will bring a comforting warmth to your heart without any accompanying guilt.	1
+192	It will leave you with a heartwarming feeling that you can fully embrace without guilt.	1
+193	It will warm your heart in a way that allows you to enjoy it without guilt.	1
+194	It will deliver heartwarming moments that you can fully embrace without feeling guilty.	1
+195	It will bring joy and warmth to your heart without any burden of guilt.	1
+196	It will evoke heartwarming emotions that you can wholeheartedly enjoy without guilt.	1
+197	It will provide heartwarming experiences that allow you to bask in the warmth without guilt.	1
+198	It will create a heartwarming atmosphere that you can fully appreciate without guilt.	1
+199	It will elicit warm feelings within you, guilt-free and pure in nature.	1

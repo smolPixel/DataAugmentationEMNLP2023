@@ -1,0 +1,18 @@
+---
+dataset: SST2
+classifier: Bert
+computer: labo
+split: 10
+dataset_size: 10
+algo: Backtranslation
+random_seed: 7
+selector: random
+max_seq_length: 0
+meta_strategy: dummy
+one_shot: False
+nb_epoch_classifier: 10 #8
+batch_size_classifier: 32
+
+tokenizer: "tweetTokenizer"
+
+fix_dataset: True

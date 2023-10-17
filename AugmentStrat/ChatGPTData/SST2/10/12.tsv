@@ -1,0 +1,101 @@
+	sentence	label
+0	Takes such peculiar narrative turns and delves into preachy moralizing to the point where its positive aspects become overshadowed.	0
+1	Follows such unconventional plot paths and succumbs to heavy-handed moral messages that its redeeming qualities become obscured.	0
+2	Travels along such unusual plot trajectories and descends into moralistic messaging to the extent that its merits are overshadowed.	0
+3	Takes such strange narrative detours and indulges in moralizing lectures, causing its favorable attributes to be obscured.	0
+4	Veers into such bizarre plot directions and delves into overt moral preaching, making its positive qualities difficult to discern.	0
+5	Takes such peculiar narrative twists and delves into overt moralizing, leading to the obscuring of its commendable attributes.	0
+6	Follows such unconventional plot progressions and descends into didactic moralism, obscuring its positive qualities.	0
+7	Moves along such peculiar plot pathways and indulges in preachy moralism, causing its favorable aspects to be obscured.	0
+8	Takes such odd turns in its narrative and delves into heavy-handed moral messages, making it challenging to appreciate its good qualities.	0
+9	Follows such unconventional plot trajectories and succumbs to overt moralizing, overshadowing its positive attributes.	0
+10	Might not appeal to viewers who are not entertained by dark or twisted humor.	0
+11	May not sit well with audiences who do not appreciate a twisted sense of humor.	0
+12	Could potentially be offensive to viewers who are not amused by a morbid sense of humor.	0
+13	Might not be suitable for those who do not find a sick sense of humor amusing.	0
+14	May not resonate with viewers who are not entertained by a twisted or disturbed sense of humor.	0
+15	Could potentially be off-putting to those who do not appreciate dark or twisted humor.	0
+16	Might not be enjoyable for viewers who are not amused by a macabre sense of humor.	0
+17	May not appeal to those who do not find a sick or twisted sense of humor funny.	0
+18	Could potentially offend audiences who are not entertained by a morbid or twisted sense of humor.	0
+19	Might not resonate with viewers who do not appreciate or enjoy a sick sense of humor.	0
+20	An uninspiring Eddie Murphy film that even he appears ashamed to be associated with.	0
+21	A lackluster Eddie Murphy project that even he seems to regret being involved in.	0
+22	A feeble Eddie Murphy movie that even he appears to feel embarrassed about.	0
+23	A weak Eddie Murphy vehicle that even he seems apologetic for being a part of.	0
+24	An underwhelming Eddie Murphy film that even he seems to exhibit embarrassment over.	0
+25	A lackluster Eddie Murphy endeavor that even he appears ashamed to have joined.	0
+26	A disappointing Eddie Murphy feature that even he seems regretful to have been associated with.	0
+27	A subpar Eddie Murphy production that even he appears to feel embarrassed about.	0
+28	An unimpressive Eddie Murphy movie that even he seems to carry a sense of embarrassment for.	0
+29	A mediocre Eddie Murphy project that even he seems apologetic for having participated in.	0
+30	The Transporter features remarkably inventive action sequences, but once Frank parachutes onto a moving truck, it devolves into just another unrealistic cartoon with an invincible protagonist.	0
+31	The Transporter showcases impressively imaginative action scenes, but when Frank jumps onto a moving truck with a parachute, it transforms into a generic cartoon with an unstoppable superhero.	0
+32	In The Transporter, you'll find exceptionally creative action moments, but as soon as Frank skydives onto a moving truck, it becomes yet another cartoonish depiction with an indestructible superhuman.	0
+33	The Transporter delivers outrageously innovative action sequences, yet as Frank descends onto a moving truck using a parachute, it succumbs to the familiar tropes of an animated adventure featuring an invincible hero.	0
+34	While The Transporter boasts inventively crafted action, once Frank lands on a moving truck with a parachute, it becomes indistinguishable from an animated cartoon featuring an unstoppable protagonist.	0
+35	The Transporter presents daringly imaginative action sequences, but as Frank parachutes onto a moving truck, it morphs into a run-of-the-mill cartoon with a virtually indestructible protagonist.	0
+36	With its audaciously creative action, The Transporter captivates audiences, but as Frank leaps onto a moving truck using a parachute, it devolves into just another animated feature with an invincible lead character.	0
+37	The Transporter offers exhilaratingly inventive action scenes, but when Frank lands on a moving truck with a parachute, it becomes a generic cartoon portraying an unstoppable superhero.	0
+38	In The Transporter, you'll witness boldly imaginative action sequences, but as Frank descends onto a moving truck using a parachute, it turns into a predictable cartoon featuring an unstoppable superman.	0
+39	The Transporter showcases stunningly creative action moments, but as Frank jumps onto a moving truck with a parachute, it transforms into a typical cartoon with an unstoppable superhero archetype.	0
+40	It reminded me that it's been a while since we last enjoyed a satisfyingly cheesy B-movie in theaters, and Reign of Fire was the last one that comes to mind.	0
+41	It made me recognize the absence of a recent enjoyable cheesy B-movie playing in theaters, with Reign of Fire being the closest example from last week.	0
+42	It brought to my attention the scarcity of recent entertainingly cheesy B-movies in theaters since the days of Reign of Fire, which was just last week.	0
+43	It made me realize that it has been a notable duration since we had the pleasure of a good cheesy B-movie in theaters, with Reign of Fire being the most recent example.	0
+44	It dawned on me that there has been a significant dearth of enjoyable cheesy B-movies playing in theaters since the reign of Reign of Fire, which was just last week.	0
+45	It made me acknowledge the lack of recent theater experiences with entertainingly cheesy B-movies, with Reign of Fire being the most recent memory from last week.	0
+46	It made me reflect on the fact that we haven't witnessed a satisfyingly cheesy B-movie in theaters for some time now, with Reign of Fire being the last notable one just last week.	0
+47	It brought to my attention the absence of recent fun and cheesy B-movies playing in theaters, and the most recent one that comes to mind is Reign of Fire from last week.	0
+48	It made me aware of the absence of recent cheesy B-movies that we used to enjoy in theaters, and Reign of Fire is the most recent example from just last week.	0
+49	It made me realize that there has been a considerable gap in the availability of entertainingly cheesy B-movies in theaters, with the most recent memory being Reign of Fire from last week.	0
+50	Frei constructs a captivating portrayal of an artist with a profound humanistic perspective, who, despite witnessing so much, maintains a surprisingly idealistic outlook and unwavering belief in the power of images to convey the truth of our world.	1
+51	Through his documentary, Frei presents an engrossing depiction of an artist who embodies deep humanism, showcasing their enduring idealism and remarkable faith in the capacity of visual imagery to communicate the truth about our surrounding world.	1
+52	Frei skillfully brings together a captivating profile of an artist with a profound sense of humanity, revealing their unwavering idealism and extraordinary conviction in the ability of visual representations to convey the truth of the world they have experienced.	1
+53	With great finesse, Frei crafts a compelling portrayal of an artist who exemplifies humanistic values, demonstrating their unexpected idealism and unwavering belief in the power of images to authentically convey the reality of our world.	1
+54	Through his documentary, Frei offers a fascinating glimpse into the life of an artist who embodies a deep sense of humanism, highlighting their surprising idealism and remarkable faith in the capacity of visual imagery to accurately convey the truth of our surroundings.	1
+55	Frei presents an intriguing profile of an artist who encapsulates profound humanism, illuminating their unexpected idealism and unwavering belief in the ability of visual representations to effectively communicate the truth of the world they have encountered.	1
+56	With meticulous detail, Frei constructs a captivating narrative around an artist who radiates humanistic values, showcasing their enduring idealism and extraordinary faith in the power of images to genuinely convey the truth of our shared reality.	1
+57	Through his documentary, Frei weaves together a fascinating portrait of an artist with a deep sense of humanity, revealing their surprising idealism and unwavering trust in the ability of visual expressions to truthfully communicate the essence of our world.	1
+58	Frei masterfully presents a thought-provoking profile of an artist who embodies profound humanism, highlighting their enduring idealism and remarkable belief in the profound communicative power of visual imagery.	1
+59	With great skill, Frei constructs a captivating account of an artist who embodies a deep sense of humanism, portraying their unexpected idealism and unwavering faith in the transformative capacity of images to accurately portray the truth of the world they have encountered.	1
+60	The fact that The Accidental Spy is a well-executed action film that showcases the martial arts master at the peak of his abilities is not coincidental.	1
+61	It is by design that The Accidental Spy delivers a strong action-packed experience, bringing back the martial arts master to his prime form.	1
+62	The Accidental Spy's success as a solid action movie, revitalizing the martial arts master's prowess, is no random occurrence.	1
+63	The Accidental Spy's status as a top-notch action flick, restoring the martial arts master to his former glory, is no mere coincidence.	1
+64	The Accidental Spy's position as a formidable action film, effectively bringing the martial arts master back to his prime state, is no accident.	1
+65	It is intentional that The Accidental Spy stands out as a commendable action picture, showcasing the martial arts master's exceptional skills.	1
+66	The Accidental Spy's status as a noteworthy action feature, reestablishing the martial arts master's excellence, is no stroke of luck.	1
+67	It is deliberate that The Accidental Spy proves itself as a strong action film, reinstating the martial arts master to the pinnacle of his abilities.	1
+68	The Accidental Spy's reputation as a remarkable action flick, rejuvenating the martial arts master's prowess, is not a chance occurrence.	1
+69	It is purposeful that The Accidental Spy emerges as a compelling action movie, reinvigorating the martial arts master and showcasing his top-notch skills.	1
+70	This modest yet impactful film, driven by the gentle humor of Zhao Benshan and the subtle performance of Dong Jie, perfectly caters to moviegoers who yearn for the nostalgic charm of classic cinema.	1
+71	With the delightful comedic presence of Zhao Benshan and the graceful portrayal by Dong Jie, this unassuming gem of a film is precisely what cinephiles longing for the bygone era of cinema crave.	1
+72	Featuring the endearing comedic talent of Zhao Benshan and the nuanced performance by Dong Jie, this unpretentious film resonates with viewers who lament the departure of traditional filmmaking.	1
+73	Infused with the charming humor of Zhao Benshan and the delicate acting of Dong Jie, this humble cinematic creation perfectly satisfies those nostalgic moviegoers who miss the days when films were made differently.	1
+74	This unassuming yet powerful film, brought to life by the comedic finesse of Zhao Benshan and the subtle artistry of Dong Jie, caters to movie enthusiasts who long for the days of classic filmmaking.	1
+75	With the gentle comedic touch of Zhao Benshan and the delicate performance by Dong Jie, this humble production embodies the sentiment of moviegoers yearning for the lost essence of traditional cinema.	1
+76	This modest film, elevated by the comedic talent of Zhao Benshan and the nuanced portrayal by Dong Jie, is precisely what those nostalgic for the golden age of movies seek.	1
+77	With the light-hearted humor of Zhao Benshan and the nuanced performance by Dong Jie, this unassuming gem of a film caters to audiences who yearn for the craftsmanship of films from the past.	1
+78	This humbling cinematic experience, driven by the comedic prowess of Zhao Benshan and the graceful artistry of Dong Jie, is a perfect fit for viewers who lament the shift in contemporary filmmaking.	1
+79	By capturing the essence of classic cinema through the comedic brilliance of Zhao Benshan and the delicate portrayal by Dong Jie, this unpretentious film caters to moviegoers longing for a bygone era.	1
+80	Although a well-crafted indie film, it would benefit from some editing and stronger chemistry between its lead actors.	1
+81	This indie flick is skillfully produced but would benefit from some trimming and a deeper connection between its main stars.	1
+82	While a competently made independent film, it lacks a certain chemistry between its leads and could benefit from some editing to enhance its impact.	1
+83	This well-executed indie film could use some pruning and a stronger on-screen chemistry between its talented cast.	1
+84	Although a well-crafted indie flick, it would benefit from tighter editing and a more believable chemistry between its lead actors.	1
+85	While an impressive indie film, it falls short in terms of chemistry between its stars and would benefit from some trimming to heighten its impact.	1
+86	This indie gem showcases strong craftsmanship but falls slightly short due to a lack of chemistry between its stars and the need for some editing.	1
+87	Despite its strong indie aesthetic, the film would benefit from tighter editing and a more compelling connection between its main actors.	1
+88	This indie flick demonstrates quality filmmaking, but it would benefit from some cuts and a deeper chemistry between its lead performers.	1
+89	While a well-made indie film, it would benefit from some trimming and a stronger sense of chemistry between its talented cast.	1
+90	The exceptional performance by Julianne Moore deserves not just one, but all five Oscar nominations this year.	1
+91	Julianne Moore's portrayal is so outstanding that she deserves recognition with not just one, but all five Oscar nominations.	1
+92	Forget about one measly Oscar nomination for Julianne Moore this year; her exceptional performance warrants all five.	1
+93	Julianne Moore's talent shines so brightly that she deserves not just one, but all five Oscar nominations this year.	1
+94	The remarkable acting prowess of Julianne Moore is deserving of not just one, but all five Oscar nominations.	1
+95	Julianne Moore's performance is so extraordinary that she deserves to sweep all five Oscar nominations this year.	1
+96	Forget about settling for one Oscar nomination for Julianne Moore; her outstanding performance merits all five.	1
+97	Julianne Moore's incredible talent and skill are worthy of not just one, but all five Oscar nominations this year.	1
+98	The sheer brilliance of Julianne Moore's performance demands recognition with all five Oscar nominations.	1
+99	Julianne Moore's exceptional acting ability is deserving of not just one, but all five Oscar nominations this year.	1

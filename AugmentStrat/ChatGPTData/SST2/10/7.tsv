@@ -1,0 +1,101 @@
+	sentence	label
+0	A stagnant film that fails to evoke any emotions.	0
+1	A motionless cinematic experience that lacks any sense of progression.	0
+2	A stationary picture that fails to evoke any sense of movement or change.	0
+3	A still image on the screen that fails to elicit any emotional response.	0
+4	A static film that lacks the ability to captivate or engage the viewer.	0
+5	A motionless picture that fails to evoke any emotional or narrative momentum.	0
+6	A non-moving film that lacks any sense of dynamism or progression.	0
+7	A stagnant cinematic work that fails to evoke any sense of action or development.	0
+8	A stationary picture that lacks the power to stir or captivate the audience.	0
+9	A lifeless film that fails to generate any sense of movement or emotional resonance.	0
+10	...acknowledges heroes in a manner similar to Julia Roberts distributing awards -- with insincere modesty barely concealing a disturbing self-absorption.	0
+11	...honors heroes in the same fashion as Julia Roberts presents awards -- with disingenuous modesty barely hiding an unsettling self-centeredness.	0
+12	...gives tribute to heroes much like Julia Roberts presents awards -- with false modesty barely masking a disturbing self-obsession.	0
+13	...pays homage to heroes in a way that mirrors Julia Roberts' award presentations -- with feigned humility barely veiling a disturbing self-admiration.	0
+14	...celebrates heroes akin to Julia Roberts handing out awards -- with affected modesty thinly disguising a disturbing self-obsession.	0
+15	...recognizes heroes in a manner reminiscent of Julia Roberts' award-giving style -- with phony modesty barely concealing an alarming self-absorption.	0
+16	...pays respects to heroes like Julia Roberts grants awards -- with false humility barely masking a troubling self-obsession.	0
+17	...honors heroes in a fashion similar to Julia Roberts' award presentations -- with insincere modesty barely hiding an unsettling self-centeredness.	0
+18	...pays tribute to heroes in a way that reflects Julia Roberts' award bestowals -- with feigned humility barely veiling a troubling self-obsession.	0
+19	...celebrates heroes in a manner akin to Julia Roberts distributing awards -- with affected modesty thinly disguising a grotesque self-adoration.	0
+20	A true embodiment of a zombie film, characterized by its mindlessness, lack of vitality, aimless wandering, excessive noise, distressing nature, and obnoxiousness.	0
+21	A zombie movie in every aspect, displaying mindless behavior, a lack of vitality, aimless storytelling, excessive loudness, painful scenes, and obnoxious elements.	0
+22	A quintessential zombie film that encompasses all the traits associated with it: mindlessness, lifelessness, aimless storytelling, excessive noise, painful moments, and obnoxiousness.	0
+23	A complete representation of a zombie movie, featuring mindless characters, a lack of energy, a wandering plot, loud and disruptive elements, painful scenes, and obnoxious qualities.	0
+24	A true embodiment of the zombie genre, exhibiting mindlessness, lifelessness, meandering storytelling, deafening noise, distressing moments, and obnoxious behavior.	0
+25	A zombie film that fully embraces the genre, showcasing mindless characters, lifeless energy, meandering narrative, overwhelming loudness, discomforting scenes, and obnoxious elements.	0
+26	A zombie movie that encapsulates all the defining characteristics of the genre, including mindlessness, lack of life, meandering plot, excessive noise, discomforting moments, and obnoxiousness.	0
+27	A zombie film that epitomizes the genre, with its mindless characters, lack of vitality, wandering narrative, overpowering loudness, painful scenes, and obnoxious qualities.	0
+28	A true representation of a zombie movie, marked by mindlessness, lifelessness, aimless storytelling, deafening noise, distressing sequences, and obnoxious elements.	0
+29	A zombie film that adheres to all the traditional elements of the genre, such as mindlessness, lack of vitality, meandering plot, excessive noise, painful scenes, and obnoxious behavior.	0
+30	An individual who is not a fan of Britney might endure a viewing with minimal repercussions, except for the last 15 minutes that descend into a sentimentality reminiscent of an overly emotional after-school special.	0
+31	Someone who is not particularly fond of Britney could come out of the screening relatively unscathed, except for the final 15 minutes that overflow with an overly sentimental tone resembling a predictable after-school special.	0
+32	A viewer who is not a devotee of Britney might come out of the film relatively unharmed, save for the last 15 minutes that exude a saccharine quality akin to an after-school special.	0
+33	A non-Britney enthusiast might emerge from the movie with little damage, apart from the last 15 minutes that delve into a mawkishness comparable to an after-school special.	0
+34	Someone who is not particularly interested in Britney might survive the screening without much harm, except for the last 15 minutes that descend into a cloying sentimentality reminiscent of a predictable after-school special.	0
+35	A viewer who is not invested in Britney might endure the film with minimal consequences, except for the last 15 minutes that adopt an excessively sentimental tone akin to an after-school special.	0
+36	An individual who is not enamored with Britney might come out of the screening relatively unscathed, except for the final 15 minutes that succumb to an overly maudlin sentimentality resembling an after-school special.	0
+37	Someone who is not a fan of Britney might make it through the screening relatively unharmed, except for the last 15 minutes that take on a syrupy emotional quality reminiscent of a formulaic after-school special.	0
+38	A non-Britney person might survive the viewing with little damage, except for the final 15 minutes that become as mawkishly sentimental as any generic after-school special.	0
+39	A viewer who is not particularly fond of Britney might come out of the film with minor repercussions, except for the last 15 minutes that embrace an excessively maudlin tone similar to an after-school special.	0
+40	Adding insult to injury, Pelosi is fully aware of the situation.	0
+41	To make matters worse, Pelosi is conscious of this fact.	0
+42	Compounding the problem is Pelosi's knowledge of it.	0
+43	Making the situation even more dire is the fact that Pelosi is aware of it.	0
+44	To exacerbate matters, Pelosi is well-informed about this.	0
+45	Making things even more lamentable is Pelosi's awareness of it.	0
+46	Adding to the frustration is the fact that Pelosi is cognizant of this.	0
+47	What amplifies the issue is Pelosi's understanding of it.	0
+48	Adding to the disappointment is the realization that Pelosi is aware.	0
+49	To further aggravate the situation, Pelosi knows about it.	0
+50	"""Barbershop"" is a warm-hearted comedy featuring a diverse cast of eccentric characters and an engrossing narrative."	1
+51	"In ""Barbershop,"" audiences are treated to a delightful ensemble comedy that showcases a range of unique characters and an absorbing plot."	1
+52	"With its charming ensemble of characters and a captivating storyline, ""Barbershop"" is a feel-good comedy that will keep you entertained."	1
+53	"""Barbershop"" is an endearing ensemble comedy that introduces a colorful array of characters and weaves an engaging narrative."	1
+54	"With its lovable cast of characters and an enthralling story, ""Barbershop"" is an enjoyable ensemble comedy."	1
+55	"""Barbershop"" is a heartwarming comedy that boasts a delightful ensemble of quirky characters and a captivating plot."	1
+56	"In the film ""Barbershop,"" audiences are treated to an entertaining ensemble comedy with an engaging story and a delightful mix of eccentric characters."	1
+57	"""Barbershop"" is a charming comedy that presents a lovable ensemble of characters and a compelling storyline."	1
+58	"With its lovably quirky characters and an engrossing narrative, ""Barbershop"" stands out as a heartwarming ensemble comedy."	1
+59	"""Barbershop"" is an engaging comedy that showcases a wonderful ensemble of characters and an entertaining story."	1
+60	The film is a treasure trove of pleasures.	1
+61	The movie is a collection of delightful treasures.	1
+62	A wealth of delights awaits in this film.	1
+63	The film is filled with an abundance of delightful moments.	1
+64	A cornucopia of delights can be found in this movie.	1
+65	The movie is a veritable treasure chest of enjoyable moments.	1
+66	This film offers a trove of delightful surprises.	1
+67	The movie is a treasure trove of enjoyable experiences.	1
+68	An assortment of delightful treasures awaits in this film.	1
+69	The film is a treasure trove of captivating delights.	1
+70	"Within a film abundant in unexpected moments, the most significant surprise is that ""Secret Ballot"" is a comedy, blending both gentle and satirical humor."	1
+71	"Amidst a movie brimming with unforeseen twists, the most remarkable revelation is that ""Secret Ballot"" is a comedic gem, encompassing both subtle wit and sharp social commentary."	1
+72	"In a film teeming with surprises, the most astonishing one is that ""Secret Ballot"" is a comedy that expertly combines lightheartedness with biting satire."	1
+73	"Within a movie characterized by its unpredictability, the greatest revelation is that ""Secret Ballot"" is a comedy that strikes a balance between gentle humor and cutting social critique."	1
+74	"In a film filled with unexpected moments, the most notable surprise is the comedic nature of ""Secret Ballot,"" blending a gentle touch with incisive commentary."	1
+75	"Amidst a movie that continuously surprises, the most striking revelation is that ""Secret Ballot"" is a comedy that skillfully balances humor and biting social satire."	1
+76	"Within a film rife with surprises, the most notable one is that ""Secret Ballot"" is a comedy that gracefully interweaves gentle humor with incisive wit."	1
+77	"In a movie abundant in unexpected twists, the most significant surprise lies in the fact that ""Secret Ballot"" is a comedy that artfully combines light-heartedness with sharp social commentary."	1
+78	"Amidst a film brimming with surprises, the most remarkable revelation is that ""Secret Ballot"" is a comedy that effectively blends gentle humor and biting satire."	1
+79	"Within a movie filled with unexpected moments, the most astonishing surprise is the comedic nature of ""Secret Ballot,"" showcasing both gentle humor and cutting social critique."	1
+80	The courageous and unrestricted performances by the main actors contribute significantly to its overall impact.	1
+81	The bold and unrestrained performances by the lead actors are a major driving force behind its success.	1
+82	A substantial portion of its effectiveness stems from the fearless and unreserved performances delivered by its lead actors.	1
+83	The lead actors' brave and uninhibited performances play a crucial role in its overall quality.	1
+84	Its lead actors' audacious and unconstrained performances contribute greatly to its success.	1
+85	The courageous and unrestrained performances of the lead actors add depth and power to the film.	1
+86	A significant part of its appeal can be attributed to the fearless and unreserved performances of its lead actors.	1
+87	The lead actors' brave and uninhibited performances breathe life and authenticity into the film.	1
+88	Much of its strength lies in the daring and unreserved performances by the main actors.	1
+89	The lead actors' bold and unrestrained performances infuse the film with intensity and authenticity.	1
+90	Possession is a film that embraces simplicity and classic charm, allowing itself to wholeheartedly serve the passionate lovers at its core.	1
+91	"In the most positive interpretations of the terms ""straightforward"" and ""old-fashioned,"" Possession is a movie that wholeheartedly dedicates itself to the lovers who are central to its narrative."	1
+92	Possession is a film that embraces a straightforward and traditional approach, effectively immersing itself in the world of its devoted lovers.	1
+93	By embodying the best qualities associated with being straightforward and old-fashioned, Possession places its focus firmly on the dedicated lovers who drive its story.	1
+94	Possession is a movie that proudly embodies the best aspects of being straightforward and old-fashioned, serving the purpose of showcasing the passionate connection between its central characters.	1
+95	With its straightforward and timeless approach, Possession devotes itself entirely to the love story at its core.	1
+96	Possession is a film that unapologetically embraces a straightforward and traditional narrative style, ensuring that its main priority is to serve the dedicated lovers who are its heart and soul.	1
+97	By being straightforward and adhering to a classic storytelling style, Possession effectively prioritizes the portrayal of its devoted lovers.	1
+98	Possession is a film that embodies the positive connotations of being straightforward and old-fashioned, allowing it to wholeheartedly serve the heartfelt romance between its central characters.	1
+99	By grounding itself in a straightforward and old-fashioned manner, Possession places the spotlight firmly on the passionate lovers who inhabit its narrative.	1

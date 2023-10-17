@@ -1,0 +1,241 @@
+	sentence	label
+0	"Can you provide the abbreviated form of the company name ""General Motors""?"	0
+1	"What is the short form or acronym used for the company name ""General Motors""?"	0
+2	"Can you tell me the abbreviation that represents the company ""General Motors""?"	0
+3	"What is the condensed version or acronym for the company name ""General Motors""?"	0
+4	"Can you provide the abbreviated name used for the company ""General Motors""?"	0
+5	"What is the designated abbreviation for the company name ""General Motors""?"	0
+6	"Can you identify the shorthand or acronym utilized for the company ""General Motors""?"	0
+7	"What is the abbreviation associated with the company ""General Motors""?"	0
+8	"Can you tell me the abbreviated representation of the company known as ""General Motors""?"	0
+9	"What is the commonly used abbreviation for the company name ""General Motors""?"	0
+10	Can you provide the meanings or definitions of the terms Ms., Miss, and Mrs.?	0
+11	What do the abbreviations Ms., Miss, and Mrs. signify or represent?	0
+12	Can you explain the purpose or usage of the abbreviations Ms., Miss, and Mrs.?	0
+13	What is the intended meaning or interpretation of the abbreviations Ms., Miss, and Mrs.?	0
+14	Can you tell me the definitions or explanations behind the abbreviations Ms., Miss, and Mrs.?	0
+15	What do the terms Ms., Miss, and Mrs. stand for and how are they used?	0
+16	Can you identify the significance or connotations associated with the abbreviations Ms., Miss, and Mrs.?	0
+17	What is the designated purpose or context for the abbreviations Ms., Miss, and Mrs.?	0
+18	Can you provide insights into the distinctions and uses of the abbreviations Ms., Miss, and Mrs.?	0
+19	What are the meanings or titles represented by the abbreviations Ms., Miss, and Mrs.?	0
+20	Can you provide the abbreviated form of the compound trinitrotoluene?	0
+21	What is the short form or acronym used to represent trinitrotoluene?	0
+22	Can you tell me the abbreviation that signifies trinitrotoluene?	0
+23	What is the condensed version or acronym for the chemical compound trinitrotoluene?	0
+24	Can you provide the abbreviated name used for trinitrotoluene?	0
+25	What is the designated abbreviation for trinitrotoluene?	0
+26	Can you identify the shorthand or acronym utilized for trinitrotoluene?	0
+27	What is the abbreviation associated with the compound trinitrotoluene?	0
+28	Can you tell me the abbreviated representation of trinitrotoluene?	0
+29	What is the commonly used abbreviation for trinitrotoluene?	0
+30	Can you provide the expansion or meaning of the abbreviation pH?	0
+31	What is the full form of the acronym pH?	0
+32	Can you explain the definition or representation of pH as an abbreviation?	0
+33	What does the acronym pH signify or stand for?	0
+34	Can you provide the intended meaning or interpretation of the abbreviation pH?	0
+35	What is the designated definition of pH as an abbreviation?	0
+36	Can you explain the significance or purpose of the abbreviation pH?	0
+37	What does pH represent or denote as an abbreviation?	0
+38	Can you provide insights into the expansion of the acronym pH?	0
+39	What is the intended purpose or concept behind the acronym pH?	0
+40	Can you provide a synopsis or summary of the television show Nine Tailors from 1974?	1
+41	What was the premise or storyline of the television series Nine Tailors from 1974?	1
+42	Can you tell me what Nine Tailors, the television show from 1974, was centered around?	1
+43	What was the subject or theme of the 1974 television program called Nine Tailors?	1
+44	Can you provide information on the plot or narrative of the television series Nine Tailors from 1974?	1
+45	What was the focus or central concept of the 1974 television show Nine Tailors?	1
+46	Can you identify the core idea or content of the television program Nine Tailors, which aired in 1974?	1
+47	What was the television show Nine Tailors, produced in 1974, primarily about?	1
+48	Can you tell me what the television series Nine Tailors, released in 1974, aimed to portray?	1
+49	What was the main storyline or subject matter explored in the 1974 television show Nine Tailors?	1
+50	Can you provide information on the abilities and limitations of the Green Lantern's ring?	1
+51	What are the strengths and vulnerabilities of the ring possessed by Green Lantern?	1
+52	Can you tell me about the powers and weaknesses exhibited by Green Lantern's ring?	1
+53	What are the capabilities and drawbacks of the ring used by Green Lantern?	1
+54	Can you provide insights into the abilities and limitations of Green Lantern's ring?	1
+55	What are the powers and susceptibilities associated with the Green Lantern's ring?	1
+56	Can you describe the strengths and weaknesses of the ring wielded by Green Lantern?	1
+57	What are the abilities and limitations of Green Lantern's ring?	1
+58	Can you provide information on the powers and vulnerabilities of the ring that Green Lantern possesses?	1
+59	What are the capabilities and weaknesses of the ring utilized by Green Lantern?	1
+60	Can you explain the meaning and significance of Remembrance Day?	1
+61	What is the purpose and essence of Remembrance Day?	1
+62	Can you provide insights into the concept and symbolism behind Remembrance Day?	1
+63	What does Remembrance Day symbolize and represent?	1
+64	Can you tell me the significance and intention of observing Remembrance Day?	1
+65	What is the meaning and commemoration associated with Remembrance Day?	1
+66	Can you describe the purpose and message conveyed by Remembrance Day?	1
+67	What is the essence and historical background of Remembrance Day?	1
+68	Can you provide information on the significance and remembrance observed during Remembrance Day?	1
+69	What is the focus and significance of Remembrance Day in our society?	1
+70	"Can you provide the meaning or explanation of a ""chancery"" file in the context of real estate?"	1
+71	"What does the term ""chancery"" file signify or represent in real estate?"	1
+72	"Can you explain the definition or purpose of a ""chancery"" file in relation to real estate?"	1
+73	"What is the designated definition or interpretation of a ""chancery"" file in the real estate industry?"	1
+74	"Can you tell me the meaning or significance of a ""chancery"" file within the realm of real estate?"	1
+75	"What is the definition or explanation of a ""chancery"" file in the context of real estate transactions?"	1
+76	"Can you identify the purpose or use of a ""chancery"" file in the field of real estate?"	1
+77	"What is the specific meaning or definition of a ""chancery"" file in the real estate domain?"	1
+78	"Can you provide information on the characteristics or attributes of a ""chancery"" file in real estate practices?"	1
+79	"What does the term ""chancery"" file refer to when it comes to real estate?"	1
+80	Can you provide different methods for assessing the level of IT user satisfaction?	2
+81	What are the different approaches available to measure the satisfaction level of IT users?	2
+82	Can you identify the diverse techniques employed to gauge IT user satisfaction?	2
+83	What are the various strategies used to evaluate the satisfaction level of IT users?	2
+84	Can you tell me the different ways in which IT user satisfaction can be measured?	2
+85	What are the multiple methodologies utilized to assess the satisfaction level of IT users?	2
+86	Can you provide information on the range of methods used to measure IT user satisfaction?	2
+87	What are the various metrics and tools employed to gauge IT user satisfaction?	2
+88	Can you identify the different criteria and indicators used to measure IT user satisfaction level?	2
+89	What are the diverse approaches and frameworks utilized to evaluate IT user satisfaction?	2
+90	Can you identify the auto race in which Wilbur Reed became the first to achieve three victories?	2
+91	In which auto race did Wilbur Reed secure the distinction of being the first three-time winner?	2
+92	Can you tell me the name of the auto race that Wilbur Reed won three times, becoming the first to do so?	2
+93	What is the auto racing event in which Wilbur Reed accomplished the feat of winning three times, a first in history?	2
+94	Can you provide information on the specific auto race that Wilbur Reed triumphed in three times, setting a pioneering record?	2
+95	What auto racing competition did Wilbur Reed win three times, establishing himself as the first-ever three-time winner?	2
+96	Can you identify the name of the auto race where Wilbur Reed made history by winning three times, a record-setting achievement?	2
+97	What is the auto race that Wilbur Reed dominated, becoming the inaugural three-time winner?	2
+98	Can you tell me the auto racing event in which Wilbur Reed achieved the remarkable milestone of three victories, a first in the sport?	2
+99	What is the name of the auto race where Wilbur Reed made a significant impact by winning three times, a groundbreaking achievement?	2
+100	Can you identify the name given to the trials that took place after World War II?	2
+101	What is the designated term for the historical trials that occurred after the conclusion of World War II?	2
+102	Can you tell me the specific title given to the trials that occurred in the aftermath of World War II?	2
+103	What are the trials that unfolded after World War II referred to as in historical context?	2
+104	Can you provide information on the name or designation of the trials that transpired following World War II?	2
+105	What is the recognized term used to describe the trials conducted after the conclusion of World War II?	2
+106	Can you identify the official name or label for the historical trials that took place after World War II?	2
+107	What are the trials that ensued after World War II known as in historical records?	2
+108	Can you tell me the specific title or term used to refer to the trials that followed World War II?	2
+109	What is the commonly used name for the trials that occurred in the aftermath of World War II?	2
+110	Can you provide the name of the book that contains the tale of Aladdin?	2
+111	Where can I locate the story of Aladdin within a book?	2
+112	Can you tell me which book includes the narrative of Aladdin?	2
+113	In which literary work can I find the story of Aladdin?	2
+114	Can you provide information on the specific book that features the story of Aladdin?	2
+115	Where can I discover the account of Aladdin's story within a book?	2
+116	Can you identify the book that presents the story of Aladdin?	2
+117	In what book is the story of Aladdin documented?	2
+118	Can you tell me the title of the book that recounts the story of Aladdin?	2
+119	Where can I find the tale of Aladdin in written form within a book?	2
+120	Can you provide the names of the two New York Yankee pitchers who exchanged wives and families?	3
+121	Which two New York Yankee pitchers engaged in a spouse and family swap?	3
+122	Can you identify the New York Yankee pitchers who traded wives and families?	3
+123	Who were the two New York Yankee pitchers involved in the exchange of wives and families?	3
+124	Can you tell me the names of the New York Yankee pitchers who swapped wives and families?	3
+125	Which two New York Yankee pitchers underwent a wife and family swap?	3
+126	Can you identify the pair of New York Yankee pitchers who exchanged wives and families?	3
+127	Who were the New York Yankee pitchers known for swapping wives and families?	3
+128	Can you provide information on the two New York Yankee pitchers who participated in a wife and family exchange?	3
+129	Which two New York Yankee pitchers are famous for having swapped wives and families?	3
+130	Can you provide information on the identity of Buffalo Bill?	3
+131	Who is known by the name Buffalo Bill?	3
+132	Can you tell me who Buffalo Bill was?	3
+133	Who is recognized as Buffalo Bill in history?	3
+134	Can you identify the person behind the name Buffalo Bill?	3
+135	Who was the individual referred to as Buffalo Bill?	3
+136	Can you provide details about Buffalo Bill's identity?	3
+137	Who is famously known as Buffalo Bill?	3
+138	Can you tell me the person associated with the name Buffalo Bill?	3
+139	Who achieved prominence under the name Buffalo Bill?	3
+140	Can you provide the name of the person who invented silly putty?	3
+141	Who is credited as the inventor of silly putty?	3
+142	Can you tell me the individual responsible for creating silly putty?	3
+143	Who is recognized as the originator of silly putty?	3
+144	Can you identify the inventor associated with silly putty?	3
+145	Who achieved the invention of silly putty?	3
+146	Can you provide information on the person behind the creation of silly putty?	3
+147	Who is famously known as the inventor of silly putty?	3
+148	Can you tell me the person attributed to the development of silly putty?	3
+149	Who is associated with the discovery or invention of silly putty?	3
+150	Can you identify the person responsible for appointing the chair of the Federal Reserve?	3
+151	Who has the authority to appoint the chair of the Federal Reserve?	3
+152	Can you tell me who holds the power to designate the chair of the Federal Reserve?	3
+153	Who is tasked with the appointment of the chair of the Federal Reserve?	3
+154	Can you provide information on the individual who selects the chair of the Federal Reserve?	3
+155	Who is responsible for nominating the chair of the Federal Reserve?	3
+156	Can you identify the person who makes the decision to appoint the chair of the Federal Reserve?	3
+157	Who has the jurisdiction to assign the chair of the Federal Reserve?	3
+158	Can you tell me the person who holds the prerogative to name the chair of the Federal Reserve?	3
+159	Who is authorized to designate the chair of the Federal Reserve?	3
+160	Can you tell me which ocean is adjacent to Mauritania?	4
+161	What is the ocean that borders the country of Mauritania?	4
+162	Can you provide information on the ocean that lies along Mauritania's coastline?	4
+163	What ocean is in close proximity to Mauritania's borders?	4
+164	Can you identify the body of water that forms the boundary of Mauritania?	4
+165	What is the ocean that Mauritania shares its border with?	4
+166	Can you tell me the name of the ocean that runs alongside Mauritania?	4
+167	What ocean is located adjacent to Mauritania's shores?	4
+168	Can you provide the name of the ocean that borders the nation of Mauritania?	4
+169	What is the ocean that Mauritania faces on its coastline?	4
+170	Can you tell me the geographical location of Mozambique?	4
+171	Where can Mozambique be found on the map?	4
+172	Can you provide information on the whereabouts of Mozambique?	4
+173	In which part of the world is Mozambique situated?	4
+174	Can you identify the specific region where Mozambique is located?	4
+175	Where exactly is Mozambique positioned geographically?	4
+176	Can you tell me the geographic coordinates of Mozambique?	4
+177	In what area or country is Mozambique situated?	4
+178	Can you provide the location or region where Mozambique is located?	4
+179	Where is the country of Mozambique located on Earth?	4
+180	"Can you tell me the country that has earned the nickname ""The Queen of the Antilles""?"	4
+181	"Which country is known as ""The Queen of the Antilles""?"	4
+182	"Can you identify the nation that has been referred to as ""The Queen of the Antilles""?"	4
+183	"What country has been bestowed the title ""The Queen of the Antilles""?"	4
+184	"Can you provide information on the country that holds the nickname ""The Queen of the Antilles""?"	4
+185	"Which nation is commonly recognized as ""The Queen of the Antilles""?"	4
+186	"Can you tell me the country that has been designated as ""The Queen of the Antilles""?"	4
+187	"What is the name of the country that is famously referred to as ""The Queen of the Antilles""?"	4
+188	"Can you identify the country that is known by the nickname ""The Queen of the Antilles""?"	4
+189	"Which country is recognized as ""The Queen of the Antilles"" due to its significance in the region?"	4
+190	Can you tell me which square serves as the geographic midpoint of London?	4
+191	What is the square that marks the geographical center of London?	4
+192	Can you identify the specific square that is considered the geographic center of London?	4
+193	Which square is recognized as the central point of London from a geographical standpoint?	4
+194	Can you provide information on the square that represents the geographic midpoint of London?	4
+195	What square is regarded as the geographical center of the city of London?	4
+196	Can you tell me the name of the square that serves as the geographic heart of London?	4
+197	Which square is considered the central hub of London from a geographical perspective?	4
+198	Can you identify the square that signifies the geographic center of the city of London?	4
+199	What is the name of the square that represents the geographical midpoint of London?	4
+200	Can you provide an estimate of the population of Las Vegas, New Mexico?	5
+201	What is the rough population figure for Las Vegas, New Mexico?	5
+202	Can you tell me the approximate number of people living in Las Vegas, New Mexico?	5
+203	What is the estimated population size of Las Vegas, New Mexico?	5
+204	Can you provide an approximation of the population count in Las Vegas, New Mexico?	5
+205	What is the rough population estimate for the city of Las Vegas, New Mexico?	5
+206	Can you tell me the approximate number of residents in Las Vegas, New Mexico?	5
+207	What is the ballpark figure for the population of Las Vegas, New Mexico?	5
+208	Can you provide an approximation of the population size in Las Vegas, New Mexico?	5
+209	What is the general population estimate for Las Vegas, New Mexico?	5
+210	Can you tell me the number of different flavors available at Baskin &amp; Robbins?	5
+211	How many varieties of flavors does Baskin &amp; Robbins provide?	5
+212	Can you provide information on the quantity of flavors offered by Baskin &amp; Robbins?	5
+213	What is the count of flavors available at Baskin &amp; Robbins?	5
+214	Can you identify the number of different flavors that Baskin &amp; Robbins offers?	5
+215	How many flavor options are there at Baskin &amp; Robbins?	5
+216	Can you tell me the total number of flavors provided by Baskin &amp; Robbins?	5
+217	What is the quantity of flavors that Baskin &amp; Robbins has on offer?	5
+218	Can you provide the number of available flavors at Baskin &amp; Robbins?	5
+219	How many different flavors does Baskin &amp; Robbins have in their selection?	5
+220	Can you provide the age of Benny Carter?	5
+221	What is the current age of Benny Carter?	5
+222	Can you tell me how many years old Benny Carter is?	5
+223	How many years has Benny Carter been alive?	5
+224	Can you provide information on the age of Benny Carter?	5
+225	What is the numerical age of Benny Carter?	5
+226	Can you identify the number of years that Benny Carter has lived?	5
+227	How many years has Benny Carter been on this Earth?	5
+228	Can you tell me the specific age of Benny Carter?	5
+229	What is Benny Carter's age in terms of years?	5
+230	Can you provide the initial salary offered to a radiographer?	5
+231	What is the baseline salary for a radiographer?	5
+232	Can you tell me the starting wage of a radiographer?	5
+233	What is the entry-level salary for a radiographer?	5
+234	Can you identify the initial remuneration of a radiographer?	5
+235	What is the beginning pay scale for a radiographer?	5
+236	Can you provide information on the starting salary range of a radiographer?	5
+237	What is the starting compensation of a radiographer?	5
+238	Can you tell me the minimum salary offered to a radiographer at the beginning of their career?	5
+239	What is the starting income of a radiographer?	5

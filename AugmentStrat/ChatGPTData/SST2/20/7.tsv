@@ -1,0 +1,201 @@
+	sentence	label
+0	A static film that fails to evoke any sense of motion.	0
+1	A motionless motion picture that lacks any movement or dynamism.	0
+2	A film that remains stagnant, devoid of any visual or narrative progression.	0
+3	A stationary moving picture that fails to engage or captivate.	0
+4	A film that lacks the ability to convey a sense of movement or progression.	0
+5	A stagnant motion picture that leaves the audience with a sense of stillness.	0
+6	A stationary film that lacks any form of cinematic motion.	0
+7	A non-moving picture that fails to create a sense of dynamism or flow.	0
+8	A static film that lacks the ability to transport or captivate the viewer.	0
+9	A motionless motion picture that offers no sense of visual or narrative development.	0
+10	... acknowledges heroes in a manner reminiscent of Julia Roberts distributing awards - with insincere modesty thinly veiling an unsettling self-centeredness.	0
+11	... honors heroes in a fashion akin to Julia Roberts presenting accolades - with a false sense of humility barely masking an unsettling self-absorption.	0
+12	... expresses admiration for heroes in a way reminiscent of Julia Roberts bestowing awards - with feigned modesty that thinly conceals an unseemly self-obsession.	0
+13	... salutes heroes in a manner similar to how Julia Roberts presents awards - with a disingenuous humility barely disguising a disturbing self-involvement.	0
+14	... pays homage to heroes in a way that resembles Julia Roberts giving out awards - with an artificial modesty that thinly veils an off-putting self-centeredness.	0
+15	... acknowledges the greatness of heroes in a fashion evocative of Julia Roberts presenting awards - with a pretentious humility barely concealing an unsettling self-obsession.	0
+16	... honors heroes in a manner that echoes Julia Roberts bestowing awards - with an affected modesty that thinly masks a troubling self-absorption.	0
+17	... expresses tribute to heroes in a way reminiscent of Julia Roberts distributing awards - with a contrived humility barely camouflaging a disturbing self-centeredness.	0
+18	... salutes heroes in a manner similar to Julia Roberts presenting accolades - with a false modesty that thinly disguises an unsettling self-obsession.	0
+19	... pays homage to heroes in a way that resembles Julia Roberts giving out awards - with a phony humility that barely conceals a disconcerting self-involvement.	0
+20	A true embodiment of a zombie film - devoid of intelligence, vitality, purpose, filled with aimless wandering, excessive noise, agonizing moments, and irritating behavior.	0
+21	A complete representation of the zombie genre - lacking intellect, energy, direction, filled with aimless wandering, excessive noise, excruciating moments, and irritating behavior.	0
+22	A quintessential zombie movie - void of thought, energy, coherence, filled with aimless wandering, deafening noise, excruciating moments, and grating behavior.	0
+23	A textbook example of a zombie film - mindless, devoid of life, aimlessly wandering, loudly grating, painfully exhausting, and obnoxiously irritating.	0
+24	A definitive illustration of a zombie movie - brainless, devoid of vitality, aimlessly meandering, loudly disruptive, painfully unbearable, and obnoxiously irritating.	0
+25	A true manifestation of the zombie genre - lacking thought, lifelessness, aimless wandering, deafening loudness, agonizing pain, and obnoxious behavior.	0
+26	An accurate reflection of a zombie film - mindlessly dull, lifelessly hollow, aimlessly drifting, deafeningly noisy, painfully distressing, and irritatingly obnoxious.	0
+27	A genuine representation of the zombie genre - absent of intelligence, devoid of vitality, aimlessly meandering, excessively loud, torturously painful, and irritatingly obnoxious.	0
+28	A faithful portrayal of a zombie movie - mind-numbingly dull, devoid of life, aimlessly meandering, oppressively loud, excruciatingly painful, and obnoxiously bothersome.	0
+29	An authentic example of a zombie film - lacking consciousness, lifelessness, wandering aimlessly, excessively loud, causing unbearable pain, and being obnoxious.	0
+30	Someone who isn't a Britney fan might come out of the screening relatively unscathed, except for the final 15 minutes, which are as sentimental as any predictable after-school special.	0
+31	Individuals unfamiliar with Britney might endure the screening without major consequences, except for the last 15 minutes that evoke the same melodramatic tone as a typical after-school special.	0
+32	A non-Britney enthusiast could sit through the movie with minimal impact, except for the last 15 minutes, which are as overly sentimental as a clichéd after-school special.	0
+33	Those unacquainted with Britney might survive the viewing with little damage, aside from the last 15 minutes, which are as overly emotional as a predictable after-school special.	0
+34	Someone without a particular fondness for Britney may go through the screening relatively unscathed, except for the last 15 minutes that feel as saccharine as any run-of-the-mill after-school special.	0
+35	Individuals who aren't fans of Britney may endure the screening with minimal harm, except for the last 15 minutes, which resemble the sentimentality of a typical after-school special.	0
+36	A non-Britney person might come out of the screening relatively unharmed, except for the final 15 minutes, which are as mawkish as any formulaic after-school special you can envision.	0
+37	Those without a personal connection to Britney might survive the viewing without major repercussions, except for the last 15 minutes that mimic the melodramatic nature of a familiar after-school special.	0
+38	Someone not invested in Britney might go through the movie with little consequence, except for the final 15 minutes, which carry the same sentimental tone as a generic after-school special.	0
+39	Individuals who aren't particularly interested in Britney may experience the screening without significant harm, except for the last 15 minutes that mimic the maudlin nature of a predictable after-school special.	0
+40	Even more troubling is that Pelosi is fully aware of it.	0
+41	Adding to the concern is Pelosi's knowledge of the situation.	0
+42	Making matters worse is Pelosi's awareness of the issue.	0
+43	Compounding the problem is Pelosi's understanding of the matter.	0
+44	What exacerbates the situation is that Pelosi is cognizant of it.	0
+45	Deepening the concern is Pelosi's acknowledgement and comprehension of the matter.	0
+46	Adding to the gravity of the situation is Pelosi's recognition and awareness.	0
+47	What compounds the issue is Pelosi's realization and understanding of it.	0
+48	Making it even more distressing is that Pelosi is fully conscious of the situation.	0
+49	Further heightening the concern is that Pelosi is well-informed about it.	0
+50	In order for this type of endeavor to succeed, we require nimble actors, but the skilled yet uninspiring Sorvino lacks finesse, and Rodan is clearly outmatched.	0
+51	To make this endeavor effective, we need performers who are agile, but the capable yet unexciting Sorvino lacks the necessary delicacy, and Rodan is clearly overmatched.	0
+52	For this undertaking to be successful, we rely on agile actors, but the competent yet uninspiring Sorvino lacks the necessary subtlety, and Rodan is clearly outclassed.	0
+53	In order for this venture to thrive, we necessitate nimble performers; however, the proficient yet unremarkable Sorvino lacks a light touch, and Rodan is clearly overpowered.	0
+54	To achieve success in this endeavor, we require agile actors, yet the skilled yet unengaging Sorvino lacks the requisite finesse, and Rodan is clearly outperformed.	0
+55	For this endeavor to flourish, we need performers with agility, but the capable yet uncharismatic Sorvino lacks the necessary deftness, and Rodan is clearly outmatched.	0
+56	To accomplish this objective, we depend on agile actors; however, the proficient yet unexciting Sorvino lacks a gentle touch, and Rodan is clearly outperformed.	0
+57	In order for this undertaking to thrive, we necessitate nimble performers; however, the competent yet uninspiring Sorvino lacks the required delicacy, and Rodan is clearly overmatched.	0
+58	To ensure the success of this project, we need performers who are agile, but the skilled yet unengaging Sorvino lacks the necessary finesse, and Rodan is clearly outclassed.	0
+59	For this endeavor to succeed, we rely on agile actors, yet the proficient yet unremarkable Sorvino lacks the desired light touch, and Rodan is clearly overpowered.	0
+60	Had it been merely a half-hour or a television special, the humor would have been rapid and relentless, but at a lengthy ninety minutes, it becomes sluggish.	0
+61	If it had been condensed to a brief half-hour or designed as a television special, the humor would have been quick and relentless; however, at a running time of ninety minutes, it becomes tedious.	0
+62	With a runtime of only half-an-hour or as a television special, the humor would have been rapid and uproarious, but stretched to ninety minutes, it loses its momentum.	0
+63	If it had been trimmed down to a concise half-hour or tailored as a television special, the humor would have been fast-paced and uproarious; unfortunately, at ninety minutes, it becomes sluggish and drawn-out.	0
+64	Were it only half-an-hour long or fashioned as a television special, the humor would have been swift and uproarious, yet at ninety minutes, it becomes sluggish and drags on.	0
+65	If it were limited to just half-an-hour or produced as a television special, the humor would have been rapid-fire and riotous; however, at a lengthy ninety minutes, it becomes sluggish and loses its impact.	0
+66	Had it been condensed to a half-hour duration or conceived as a television special, the humor would have been fast-paced and uproarious; but at ninety minutes, it becomes slow-moving and tedious.	0
+67	Were it merely half-an-hour or structured as a television special, the humor would have been swift and uproarious; nevertheless, at ninety minutes, it drags and loses its comedic energy.	0
+68	If it had been cut to a half-hour or designed as a television special, the humor would have been rapid and uproarious, but at a prolonged ninety minutes, it becomes sluggish and loses its comedic punch.	0
+69	Had it been condensed to a concise half-hour or tailored as a television special, the humor would have been fast and uproarious, but extended to ninety minutes, it becomes slow-paced and lacks the necessary comedic timing.	0
+70	It is yet another instance that demonstrates Sandler's declining prowess.	0
+71	Once again, it showcases Sandler's waning ability.	0
+72	It serves as another indication of Sandler's diminishing talent.	0
+73	This is another illustration of Sandler's fading touch.	0
+74	It exemplifies how Sandler's skill is slipping away.	0
+75	It is further evidence of Sandler's diminishing effectiveness.	0
+76	This is another case that highlights Sandler's loss of his magic touch.	0
+77	It underscores Sandler's diminishing aptitude.	0
+78	It is another clear sign of Sandler's declining skill.	0
+79	This serves as another example of Sandler's touch becoming less effective.	0
+80	I doubt these words have ever coexisted in a sentence before: this dull erotic cannibal film.	0
+81	I'm uncertain if these words have ever combined in a sentence: this tedious erotic cannibal movie.	0
+82	I'm not entirely convinced that this combination of words has ever appeared in a sentence: this unexciting erotic cannibal film.	0
+83	I'm skeptical if these words have ever been used together in a sentence: this uneventful erotic cannibal movie.	0
+84	I'm unsure if these words have ever been juxtaposed in a sentence: this unstimulating erotic cannibal film.	0
+85	I'm questioning whether these words have ever been conjoined in a sentence: this monotonous erotic cannibal movie.	0
+86	I'm inclined to believe that this combination of words is unprecedented in a sentence: this uninspiring erotic cannibal film.	0
+87	I'm hesitant to accept that these words have ever coexisted in a sentence: this lackluster erotic cannibal movie.	0
+88	I'm inclined to think that this combination of words is rare in a sentence: this tedious erotic cannibal film.	0
+89	I'm unsure if these words have ever been combined in a sentence: this uninteresting erotic cannibal movie.	0
+90	Since I haven't watched the first two films in the series, I cannot make a comparison between Friday After Next and them. Nonetheless, it remains evident that what we have here is a heap of clams left to bake in the scorching sun for three whole days.	0
+91	Having not viewed the initial two films in the series, I cannot draw a comparison between Friday After Next and them. However, it is undeniable that what we're presented with here is a collection of clams abandoned under the blazing sun for a prolonged period of three days.	0
+92	Without having witnessed the preceding two films in the series, I cannot offer a comparison between Friday After Next and them. Nevertheless, it remains indisputable that what we are faced with here is a mound of clams left exposed under the sweltering sun for an extensive duration of three days.	0
+93	As I haven't experienced the first two films in the series, I am unable to contrast Friday After Next with them. Yet, it remains an undeniable fact that what we encounter here is a heap of clams, forsaken and left to scorch under the blazing sun for a grueling three-day period.	0
+94	Given my lack of exposure to the initial two films in the series, I cannot draw a parallel between Friday After Next and them. Nonetheless, it remains incontestable that what we are presented with here is a mound of clams abandoned to sizzle in the searing sun for an agonizing three-day stretch.	0
+95	Since I have not viewed the preceding two films in the series, I am unable to make a comparison between Friday After Next and them. Nevertheless, it is an indisputable fact that what we have before us is a pile of clams left to scorch under the scalding sun for a distressing duration of three days.	0
+96	Without having seen the first two films in the series, I cannot make a direct comparison between Friday After Next and them. However, it remains irrefutable that what we are faced with here is a cluster of clams, abandoned and left to roast under the blazing sun for an extended three-day period.	0
+97	Given that I have not watched the preceding two films in the series, I cannot compare Friday After Next to them directly. Nonetheless, it is undeniably clear that what we have here is a heap of clams, neglected and left to wither under the scorching sun for a painstaking three-day span.	0
+98	Since I haven't witnessed the initial two films in the series, I am unable to compare Friday After Next to them directly. However, it remains an indisputable fact that what we encounter here is a pile of clams, abandoned and left to bake in the relentless sun for a grueling three-day period.	0
+99	Without having viewed the preceding two films in the series, I cannot offer a direct comparison between Friday After Next and them. Nevertheless, it remains an undeniable truth that what we are presented with here is a mound of clams, forsaken and left to roast under the blazing sun for a lengthy three-day duration.	0
+100	"""Barbershop"" is a warm-hearted comedy that brings together a diverse cast of eccentric characters within a captivating narrative."	1
+101	"""Barbershop"" is a delightful ensemble comedy featuring a charming assortment of quirky individuals and a captivating storyline."	1
+102	"In ""Barbershop,"" a heartfelt ensemble comedy, a range of idiosyncratic characters come together to tell an engaging and compelling story."	1
+103	"""Barbershop"" is a feel-good comedy that showcases a delightful group of eccentric characters and weaves them into an engrossing plot."	1
+104	"With its endearing ensemble of offbeat characters, ""Barbershop"" is a comedy that resonates, offering an engaging and enjoyable story."	1
+105	"""Barbershop"" is a heartwarming ensemble comedy that introduces a colorful cast of characters and weaves them into an engaging and entertaining narrative."	1
+106	"In ""Barbershop,"" audiences are treated to a good-natured comedy that features a charming ensemble of quirky characters and an engrossing storyline."	1
+107	"With its ensemble of lovable misfits, ""Barbershop"" is a comedy that tells an engaging story, leaving audiences charmed and entertained."	1
+108	"""Barbershop"" is an enjoyable ensemble comedy that showcases an endearing array of idiosyncratic characters and presents an engaging plot."	1
+109	"In ""Barbershop,"" audiences are greeted with a heartwarming ensemble comedy that introduces a host of delightful characters and delivers an engaging story."	1
+110	The film is a treasure trove of enchantments.	1
+111	The movie is a collection of delightful wonders.	1
+112	It is a veritable treasure chest of enjoyable moments.	1
+113	The film offers a plethora of delightful treats.	1
+114	It is an abundant source of delightful surprises.	1
+115	The movie is a cornucopia of joyful pleasures.	1
+116	It is a treasure trove filled with delightful gems.	1
+117	The film presents a bountiful array of delightful treasures.	1
+118	It is a rich repository of enjoyable delights.	1
+119	The movie is a treasure trove brimming with delightful discoveries.	1
+120	"Amidst a film brimming with unexpected twists, the most remarkable revelation is that ""Secret Ballot"" is a comedy that effortlessly balances gentle humor with sharp wit."	1
+121	"Within a movie teeming with unforeseen moments, the most astonishing aspect is that ""Secret Ballot"" is a comedic masterpiece, blending subtle humor with cutting satire."	1
+122	"In a film characterized by its unpredictable nature, the most striking revelation is that ""Secret Ballot"" is a comedy that delicately combines gentle amusement with incisive commentary."	1
+123	"Amongst a plethora of surprises, the most significant revelation is that ""Secret Ballot"" is a comedy that artfully intertwines subtle humor and biting wit."	1
+124	"In a movie replete with unexpected turns, the most notable revelation is that ""Secret Ballot"" is a comedy that skillfully blends gentle amusement and caustic humor."	1
+125	"Within a film characterized by its unforeseen elements, the most remarkable revelation is that ""Secret Ballot"" is a comedy that masterfully balances light-heartedness with sharp-edged humor."	1
+126	"Amidst a movie filled with surprises, the most remarkable discovery is that ""Secret Ballot"" is a comedy that seamlessly merges gentle laughs with cutting satire."	1
+127	"In a film abundant with unforeseen twists, the most astounding realization is that ""Secret Ballot"" is a comedy that effortlessly combines subtle humor and biting social commentary."	1
+128	"Amongst a myriad of surprises, the most striking revelation is that ""Secret Ballot"" is a comedy that artfully blends gentle amusement and biting wit."	1
+129	"In a movie overflowing with unexpected moments, the most notable revelation is that ""Secret Ballot"" is a comedy that flawlessly balances gentle humor and incisive satire."	1
+130	The courageous and unrestrained performances by its lead actors contribute significantly to its overall impact.	1
+131	The fearless and unrestricted portrayals by the film's main actors are responsible for much of its power.	1
+132	A large portion of its strength is derived from the bold and uninhibited performances delivered by its lead actors.	1
+133	The lead actors' daring and unconstrained performances contribute greatly to its success.	1
+134	The film owes a great deal of its effectiveness to the brave and uninhibited performances of its main actors.	1
+135	The bold and unrestrained performances by the lead actors play a significant role in its overall impact.	1
+136	The lead actors' courageous and uninhibited performances are a major driving force behind its success.	1
+137	Much of its strength stems from the fearless and unrestrained performances given by its main actors.	1
+138	The lead actors' brave and uninhibited performances are integral to its overall quality.	1
+139	The film owes a considerable part of its success to the courageous and unrestrained performances of its lead actors.	1
+140	Possession is a film that embraces simplicity and classic storytelling, showcasing its characters and their love story with utmost dedication.	1
+141	Straightforward and embracing traditional elements, Possession is a movie that wholeheartedly serves the romantic relationship at its core.	1
+142	Possession is a cinematic gem that embodies both straightforwardness and old-fashioned charm, placing its focus firmly on the lovers it portrays.	1
+143	With a genuine and classic approach, Possession is a film that prioritizes the heartfelt connection between its characters, showcasing their love story in the best possible light.	1
+144	Possession is an exceptional movie that honors simplicity and traditional storytelling, allowing the lovers within it to take center stage.	1
+145	Embracing a straightforward and classic narrative, Possession is a film that wholeheartedly dedicates itself to the romantic couple at its core.	1
+146	Possession stands out by embodying the best aspects of straightforwardness and old-fashioned charm, ensuring that its primary focus remains on the lovers it depicts.	1
+147	In the best possible way, Possession is a film that embraces simplicity and classic storytelling, devoting itself entirely to the lovers who inhabit its narrative.	1
+148	Possession captivates audiences with its straightforward and traditional approach, weaving a story that solely serves the lovers it portrays.	1
+149	Possession is a remarkable film that captures the essence of straightforwardness and old-fashioned appeal, presenting a story that revolves around the devoted lovers at its heart.	1
+150	Simone is a decent movie.	1
+151	Simone is a film that isn't terrible.	1
+152	Simone is not a poorly made film.	1
+153	Simone is a movie that is not without merit.	1
+154	Simone is a film that has its positive aspects.	1
+155	Simone is not a film that should be dismissed entirely.	1
+156	Simone is a movie that has some redeeming qualities.	1
+157	Simone is not a complete failure as a film.	1
+158	Simone is a movie that has its moments.	1
+159	Simone is a film that is not entirely without value.	1
+160	Carefully reveals a path of shocking brutality and cowardly cover-up.	1
+161	Systematically exposes a series of extreme aggression and deceitful hiding.	1
+162	Methodically unveils a track of excessive violence and calculated secrecy.	1
+163	Thoroughly investigates a sequence of audacious aggression and cowardly camouflaging.	1
+164	Painstakingly reveals a trail of outrageous brutality and calculated concealment.	1
+165	Diligently uncovers a path of shocking force and cunning disguise.	1
+166	Rigorously exposes a series of extreme aggression and crafty hiding.	1
+167	Assiduously unravels a track of outrageous brutality and sly concealment.	1
+168	Meticulously explores a sequence of audacious force and devious covering.	1
+169	Detail-oriented in discovering a trail of extreme aggression and shrewd masking.	1
+170	It is acceptable for a film to have sitcom-like elements, as long as the dialogue is effective, the humor is purposeful, and the actors are genuinely invested in their characters.	1
+171	It is permissible for a movie to adopt a sitcom structure, as long as the dialogue is well-crafted, the humor is meaningful, and the actors bring authentic engagement to their performances.	1
+172	It is within the bounds of acceptability for a film to resemble a sitcom, as long as the script delivers effective lines, the humor serves a purpose, and the actors demonstrate genuine commitment to their roles.	1
+173	It is fine for a movie to possess sitcom-like qualities, provided that the dialogue is strong, the humor is meaningful, and the actors exhibit a human connection to their characters.	1
+174	It is permissible for a film to embody a sitcom apparatus, as long as the dialogue is effective, the humor is purposeful, and the actors convey genuine human engagement.	1
+175	It is acceptable for a movie to employ a sitcom-like framework, as long as the dialogue is well-executed, the humor carries substance, and the actors display humanly authentic performances.	1
+176	It is within the realm of acceptability for a film to adopt sitcom elements, on the condition that the dialogue is effective, the humor holds significance, and the actors genuinely connect with their characters.	1
+177	It is fine for a movie to incorporate aspects of a sitcom, as long as the dialogue is well-written, the humor serves a purpose, and the actors portray their characters with genuine human engagement.	1
+178	It is permissible for a film to resemble a sitcom in structure, as long as the dialogue is strong, the humor is meaningful, and the actors establish a human connection to their roles.	1
+179	It is acceptable for a movie to embrace sitcom-like elements, provided that the dialogue is effective, the humor carries a purpose, and the actors demonstrate genuine human engagement in their performances.	1
+180	The film captures the essence of an infidelity drama through its excellent cinematography, meticulous editing, and an outstanding portrayal by Diane Lane.	1
+181	With its impressive visuals, seamless editing, and Diane Lane's exceptional performance, the infidelity drama is a treat for the eyes.	1
+182	The infidelity drama is visually stunning, skillfully edited, and Diane Lane delivers a standout performance that steals the spotlight.	1
+183	This well-crafted infidelity drama boasts beautiful cinematography, precise editing, and Diane Lane shines with a remarkable performance.	1
+184	The infidelity drama is visually appealing, flawlessly edited, and Diane Lane's exceptional acting steals the show.	1
+185	With its striking visuals, seamless editing, and Diane Lane's standout performance, the infidelity drama is a visual and artistic delight.	1
+186	The film showcases impeccable cinematography, seamless editing, and Diane Lane delivers an outstanding performance that elevates the infidelity drama.	1
+187	Through its superb visuals, precise editing, and Diane Lane's remarkable performance, the infidelity drama stands out as a cinematic achievement.	1
+188	The infidelity drama impresses with its captivating visuals, masterful editing, and Diane Lane's standout portrayal adds depth and resonance.	1
+189	With its visually captivating style, seamless editing, and Diane Lane's exceptional performance, the infidelity drama is a true cinematic gem.	1
+190	Despite that, he acknowledges the beauty of art and uncovers a music scene that surpasses cultural and racial boundaries.	1
+191	Nevertheless, he recognizes the value of art and exposes a music scene that goes beyond cultural and racial divisions.	1
+192	However, he still admires the art and unveils a music scene that breaks through cultural and racial barriers.	1
+193	Even so, he has an appreciation for the art and uncovers a music scene that transcends cultural and racial limitations.	1
+194	In spite of that, he has an understanding of the artistic value and reveals a music scene that surpasses cultural and racial boundaries.	1
+195	Regardless, he has an appreciation for the art form and uncovers a music scene that transcends cultural and racial limitations.	1
+196	Notwithstanding, he acknowledges the significance of art and reveals a music scene that goes beyond cultural and racial distinctions.	1
+197	Nonetheless, he still appreciates the art and exposes a music scene that surpasses cultural and racial barriers.	1
+198	However, he recognizes the artistic merit and uncovers a music scene that transcends cultural and racial divides.	1
+199	Even though, he acknowledges the art and reveals a music scene that goes beyond cultural and racial boundaries.	1
